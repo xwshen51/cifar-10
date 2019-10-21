@@ -1,0 +1,2400 @@
+Epoch: 0, Step: 0, Train loss: 2.3390, Training acc: 0.0781
+Epoch: 0, Step: 90, Train loss: 1.4197, Training acc: 0.6167
+Epoch: 0, Step: 180, Train loss: 1.0790, Training acc: 0.6947
+Epoch: 0, Step: 270, Train loss: 0.9069, Training acc: 0.7365
+Epoch: 0, Step: 360, Train loss: 0.8011, Training acc: 0.7637
+Epoch: 0, Test loss: 0.3258, Test acc: 0.8942, Current best: 0.8942
+Epoch: 1, Step: 0, Train loss: 0.3862, Training acc: 0.8672
+Epoch: 1, Step: 90, Train loss: 0.4076, Training acc: 0.8634
+Epoch: 1, Step: 180, Train loss: 0.3897, Training acc: 0.8696
+Epoch: 1, Step: 270, Train loss: 0.3832, Training acc: 0.8723
+Epoch: 1, Step: 360, Train loss: 0.3714, Training acc: 0.8760
+Epoch: 1, Test loss: 0.2508, Test acc: 0.9167, Current best: 0.9167
+Epoch: 2, Step: 0, Train loss: 0.2937, Training acc: 0.8906
+Epoch: 2, Step: 90, Train loss: 0.3035, Training acc: 0.8978
+Epoch: 2, Step: 180, Train loss: 0.3013, Training acc: 0.8987
+Epoch: 2, Step: 270, Train loss: 0.2921, Training acc: 0.9020
+Epoch: 2, Step: 360, Train loss: 0.2870, Training acc: 0.9035
+Epoch: 2, Test loss: 0.2853, Test acc: 0.9025, Current best: 0.9167
+Epoch: 3, Step: 0, Train loss: 0.3297, Training acc: 0.8906
+Epoch: 3, Step: 90, Train loss: 0.2487, Training acc: 0.9154
+Epoch: 3, Step: 180, Train loss: 0.2484, Training acc: 0.9165
+Epoch: 3, Step: 270, Train loss: 0.2488, Training acc: 0.9161
+Epoch: 3, Step: 360, Train loss: 0.2475, Training acc: 0.9165
+Epoch: 3, Test loss: 0.1917, Test acc: 0.9336, Current best: 0.9336
+Epoch: 4, Step: 0, Train loss: 0.2735, Training acc: 0.8828
+Epoch: 4, Step: 90, Train loss: 0.2302, Training acc: 0.9241
+Epoch: 4, Step: 180, Train loss: 0.2206, Training acc: 0.9254
+Epoch: 4, Step: 270, Train loss: 0.2176, Training acc: 0.9262
+Epoch: 4, Step: 360, Train loss: 0.2187, Training acc: 0.9261
+Epoch: 4, Test loss: 0.1553, Test acc: 0.9476, Current best: 0.9476
+Epoch: 5, Step: 0, Train loss: 0.2352, Training acc: 0.9219
+Epoch: 5, Step: 90, Train loss: 0.1937, Training acc: 0.9338
+Epoch: 5, Step: 180, Train loss: 0.2011, Training acc: 0.9312
+Epoch: 5, Step: 270, Train loss: 0.1980, Training acc: 0.9327
+Epoch: 5, Step: 360, Train loss: 0.1969, Training acc: 0.9330
+Epoch: 5, Test loss: 0.1425, Test acc: 0.9526, Current best: 0.9526
+Epoch: 6, Step: 0, Train loss: 0.2994, Training acc: 0.8750
+Epoch: 6, Step: 90, Train loss: 0.1824, Training acc: 0.9370
+Epoch: 6, Step: 180, Train loss: 0.1839, Training acc: 0.9362
+Epoch: 6, Step: 270, Train loss: 0.1821, Training acc: 0.9364
+Epoch: 6, Step: 360, Train loss: 0.1772, Training acc: 0.9389
+Epoch: 6, Test loss: 0.1836, Test acc: 0.9378, Current best: 0.9526
+Epoch: 7, Step: 0, Train loss: 0.1178, Training acc: 0.9531
+Epoch: 7, Step: 90, Train loss: 0.1598, Training acc: 0.9458
+Epoch: 7, Step: 180, Train loss: 0.1667, Training acc: 0.9427
+Epoch: 7, Step: 270, Train loss: 0.1659, Training acc: 0.9430
+Epoch: 7, Step: 360, Train loss: 0.1678, Training acc: 0.9420
+Epoch: 7, Test loss: 0.1849, Test acc: 0.9361, Current best: 0.9526
+Epoch: 8, Step: 0, Train loss: 0.1646, Training acc: 0.9062
+Epoch: 8, Step: 90, Train loss: 0.1595, Training acc: 0.9433
+Epoch: 8, Step: 180, Train loss: 0.1569, Training acc: 0.9446
+Epoch: 8, Step: 270, Train loss: 0.1582, Training acc: 0.9446
+Epoch: 8, Step: 360, Train loss: 0.1559, Training acc: 0.9459
+Epoch: 8, Test loss: 0.1305, Test acc: 0.9541, Current best: 0.9541
+Epoch: 9, Step: 0, Train loss: 0.1833, Training acc: 0.9375
+Epoch: 9, Step: 90, Train loss: 0.1472, Training acc: 0.9505
+Epoch: 9, Step: 180, Train loss: 0.1479, Training acc: 0.9501
+Epoch: 9, Step: 270, Train loss: 0.1465, Training acc: 0.9503
+Epoch: 9, Step: 360, Train loss: 0.1466, Training acc: 0.9498
+Epoch: 9, Test loss: 0.1967, Test acc: 0.9335, Current best: 0.9541
+Epoch: 10, Step: 0, Train loss: 0.1374, Training acc: 0.9375
+Epoch: 10, Step: 90, Train loss: 0.1409, Training acc: 0.9516
+Epoch: 10, Step: 180, Train loss: 0.1367, Training acc: 0.9536
+Epoch: 10, Step: 270, Train loss: 0.1390, Training acc: 0.9525
+Epoch: 10, Step: 360, Train loss: 0.1408, Training acc: 0.9523
+Epoch: 10, Test loss: 0.1349, Test acc: 0.9535, Current best: 0.9541
+Epoch: 11, Step: 0, Train loss: 0.1823, Training acc: 0.9375
+Epoch: 11, Step: 90, Train loss: 0.1287, Training acc: 0.9575
+Epoch: 11, Step: 180, Train loss: 0.1312, Training acc: 0.9561
+Epoch: 11, Step: 270, Train loss: 0.1297, Training acc: 0.9570
+Epoch: 11, Step: 360, Train loss: 0.1287, Training acc: 0.9570
+Epoch: 11, Test loss: 0.1504, Test acc: 0.9480, Current best: 0.9541
+Epoch: 12, Step: 0, Train loss: 0.1734, Training acc: 0.9531
+Epoch: 12, Step: 90, Train loss: 0.1187, Training acc: 0.9607
+Epoch: 12, Step: 180, Train loss: 0.1195, Training acc: 0.9603
+Epoch: 12, Step: 270, Train loss: 0.1232, Training acc: 0.9577
+Epoch: 12, Step: 360, Train loss: 0.1249, Training acc: 0.9572
+Epoch: 12, Test loss: 0.1391, Test acc: 0.9533, Current best: 0.9541
+Epoch: 13, Step: 0, Train loss: 0.0815, Training acc: 0.9844
+Epoch: 13, Step: 90, Train loss: 0.1212, Training acc: 0.9587
+Epoch: 13, Step: 180, Train loss: 0.1190, Training acc: 0.9580
+Epoch: 13, Step: 270, Train loss: 0.1173, Training acc: 0.9593
+Epoch: 13, Step: 360, Train loss: 0.1176, Training acc: 0.9589
+Epoch: 13, Test loss: 0.1092, Test acc: 0.9622, Current best: 0.9622
+Epoch: 14, Step: 0, Train loss: 0.0912, Training acc: 0.9688
+Epoch: 14, Step: 90, Train loss: 0.1100, Training acc: 0.9627
+Epoch: 14, Step: 180, Train loss: 0.1078, Training acc: 0.9632
+Epoch: 14, Step: 270, Train loss: 0.1090, Training acc: 0.9627
+Epoch: 14, Step: 360, Train loss: 0.1091, Training acc: 0.9624
+Epoch: 14, Test loss: 0.1191, Test acc: 0.9592, Current best: 0.9622
+Epoch: 15, Step: 0, Train loss: 0.0839, Training acc: 0.9688
+Epoch: 15, Step: 90, Train loss: 0.1062, Training acc: 0.9657
+Epoch: 15, Step: 180, Train loss: 0.1033, Training acc: 0.9659
+Epoch: 15, Step: 270, Train loss: 0.1068, Training acc: 0.9637
+Epoch: 15, Step: 360, Train loss: 0.1068, Training acc: 0.9634
+Epoch: 15, Test loss: 0.1052, Test acc: 0.9644, Current best: 0.9644
+Epoch: 16, Step: 0, Train loss: 0.1085, Training acc: 0.9531
+Epoch: 16, Step: 90, Train loss: 0.0993, Training acc: 0.9657
+Epoch: 16, Step: 180, Train loss: 0.1005, Training acc: 0.9650
+Epoch: 16, Step: 270, Train loss: 0.1001, Training acc: 0.9648
+Epoch: 16, Step: 360, Train loss: 0.1022, Training acc: 0.9645
+Epoch: 16, Test loss: 0.1215, Test acc: 0.9578, Current best: 0.9644
+Epoch: 17, Step: 0, Train loss: 0.1029, Training acc: 0.9766
+Epoch: 17, Step: 90, Train loss: 0.0972, Training acc: 0.9669
+Epoch: 17, Step: 180, Train loss: 0.1012, Training acc: 0.9663
+Epoch: 17, Step: 270, Train loss: 0.1008, Training acc: 0.9660
+Epoch: 17, Step: 360, Train loss: 0.0996, Training acc: 0.9659
+Epoch: 17, Test loss: 0.1024, Test acc: 0.9653, Current best: 0.9653
+Epoch: 18, Step: 0, Train loss: 0.1037, Training acc: 0.9609
+Epoch: 18, Step: 90, Train loss: 0.0880, Training acc: 0.9689
+Epoch: 18, Step: 180, Train loss: 0.0898, Training acc: 0.9692
+Epoch: 18, Step: 270, Train loss: 0.0922, Training acc: 0.9691
+Epoch: 18, Step: 360, Train loss: 0.0921, Training acc: 0.9689
+Epoch: 18, Test loss: 0.1088, Test acc: 0.9632, Current best: 0.9653
+Epoch: 19, Step: 0, Train loss: 0.0806, Training acc: 0.9766
+Epoch: 19, Step: 90, Train loss: 0.0894, Training acc: 0.9704
+Epoch: 19, Step: 180, Train loss: 0.0907, Training acc: 0.9698
+Epoch: 19, Step: 270, Train loss: 0.0895, Training acc: 0.9699
+Epoch: 19, Step: 360, Train loss: 0.0899, Training acc: 0.9695
+Epoch: 19, Test loss: 0.1028, Test acc: 0.9650, Current best: 0.9653
+Epoch: 20, Step: 0, Train loss: 0.1400, Training acc: 0.9375
+Epoch: 20, Step: 90, Train loss: 0.0842, Training acc: 0.9709
+Epoch: 20, Step: 180, Train loss: 0.0876, Training acc: 0.9696
+Epoch: 20, Step: 270, Train loss: 0.0863, Training acc: 0.9698
+Epoch: 20, Step: 360, Train loss: 0.0857, Training acc: 0.9701
+Epoch: 20, Test loss: 0.1033, Test acc: 0.9651, Current best: 0.9653
+Epoch: 21, Step: 0, Train loss: 0.0979, Training acc: 0.9609
+Epoch: 21, Step: 90, Train loss: 0.0856, Training acc: 0.9724
+Epoch: 21, Step: 180, Train loss: 0.0848, Training acc: 0.9715
+Epoch: 21, Step: 270, Train loss: 0.0836, Training acc: 0.9716
+Epoch: 21, Step: 360, Train loss: 0.0841, Training acc: 0.9713
+Epoch: 21, Test loss: 0.1009, Test acc: 0.9645, Current best: 0.9653
+Epoch: 22, Step: 0, Train loss: 0.1010, Training acc: 0.9688
+Epoch: 22, Step: 90, Train loss: 0.0857, Training acc: 0.9712
+Epoch: 22, Step: 180, Train loss: 0.0818, Training acc: 0.9726
+Epoch: 22, Step: 270, Train loss: 0.0817, Training acc: 0.9722
+Epoch: 22, Step: 360, Train loss: 0.0801, Training acc: 0.9729
+Epoch: 22, Test loss: 0.1064, Test acc: 0.9638, Current best: 0.9653
+Epoch: 23, Step: 0, Train loss: 0.0885, Training acc: 0.9609
+Epoch: 23, Step: 90, Train loss: 0.0799, Training acc: 0.9729
+Epoch: 23, Step: 180, Train loss: 0.0804, Training acc: 0.9722
+Epoch: 23, Step: 270, Train loss: 0.0812, Training acc: 0.9719
+Epoch: 23, Step: 360, Train loss: 0.0816, Training acc: 0.9720
+Epoch: 23, Test loss: 0.0960, Test acc: 0.9672, Current best: 0.9672
+Epoch: 24, Step: 0, Train loss: 0.1068, Training acc: 0.9766
+Epoch: 24, Step: 90, Train loss: 0.0765, Training acc: 0.9741
+Epoch: 24, Step: 180, Train loss: 0.0765, Training acc: 0.9738
+Epoch: 24, Step: 270, Train loss: 0.0752, Training acc: 0.9743
+Epoch: 24, Step: 360, Train loss: 0.0759, Training acc: 0.9742
+Epoch: 24, Test loss: 0.0960, Test acc: 0.9675, Current best: 0.9675
+Epoch: 25, Step: 0, Train loss: 0.0582, Training acc: 0.9844
+Epoch: 25, Step: 90, Train loss: 0.0686, Training acc: 0.9759
+Epoch: 25, Step: 180, Train loss: 0.0689, Training acc: 0.9767
+Epoch: 25, Step: 270, Train loss: 0.0690, Training acc: 0.9762
+Epoch: 25, Step: 360, Train loss: 0.0711, Training acc: 0.9753
+Epoch: 25, Test loss: 0.0965, Test acc: 0.9669, Current best: 0.9675
+Epoch: 26, Step: 0, Train loss: 0.0786, Training acc: 0.9688
+Epoch: 26, Step: 90, Train loss: 0.0689, Training acc: 0.9779
+Epoch: 26, Step: 180, Train loss: 0.0704, Training acc: 0.9773
+Epoch: 26, Step: 270, Train loss: 0.0695, Training acc: 0.9774
+Epoch: 26, Step: 360, Train loss: 0.0680, Training acc: 0.9776
+Epoch: 26, Test loss: 0.0971, Test acc: 0.9679, Current best: 0.9679
+Epoch: 27, Step: 0, Train loss: 0.0765, Training acc: 0.9688
+Epoch: 27, Step: 90, Train loss: 0.0706, Training acc: 0.9754
+Epoch: 27, Step: 180, Train loss: 0.0689, Training acc: 0.9766
+Epoch: 27, Step: 270, Train loss: 0.0677, Training acc: 0.9773
+Epoch: 27, Step: 360, Train loss: 0.0687, Training acc: 0.9766
+Epoch: 27, Test loss: 0.0930, Test acc: 0.9681, Current best: 0.9681
+Epoch: 28, Step: 0, Train loss: 0.0416, Training acc: 0.9922
+Epoch: 28, Step: 90, Train loss: 0.0681, Training acc: 0.9787
+Epoch: 28, Step: 180, Train loss: 0.0673, Training acc: 0.9785
+Epoch: 28, Step: 270, Train loss: 0.0680, Training acc: 0.9779
+Epoch: 28, Step: 360, Train loss: 0.0681, Training acc: 0.9773
+Epoch: 28, Test loss: 0.0956, Test acc: 0.9686, Current best: 0.9686
+Epoch: 29, Step: 0, Train loss: 0.0447, Training acc: 0.9766
+Epoch: 29, Step: 90, Train loss: 0.0671, Training acc: 0.9771
+Epoch: 29, Step: 180, Train loss: 0.0649, Training acc: 0.9773
+Epoch: 29, Step: 270, Train loss: 0.0634, Training acc: 0.9780
+Epoch: 29, Step: 360, Train loss: 0.0626, Training acc: 0.9782
+Epoch: 29, Test loss: 0.0922, Test acc: 0.9696, Current best: 0.9696
+Epoch: 30, Step: 0, Train loss: 0.0917, Training acc: 0.9531
+Epoch: 30, Step: 90, Train loss: 0.0630, Training acc: 0.9772
+Epoch: 30, Step: 180, Train loss: 0.0618, Training acc: 0.9790
+Epoch: 30, Step: 270, Train loss: 0.0620, Training acc: 0.9789
+Epoch: 30, Step: 360, Train loss: 0.0621, Training acc: 0.9791
+Epoch: 30, Test loss: 0.0961, Test acc: 0.9671, Current best: 0.9696
+Epoch: 31, Step: 0, Train loss: 0.0419, Training acc: 0.9766
+Epoch: 31, Step: 90, Train loss: 0.0643, Training acc: 0.9779
+Epoch: 31, Step: 180, Train loss: 0.0641, Training acc: 0.9776
+Epoch: 31, Step: 270, Train loss: 0.0615, Training acc: 0.9788
+Epoch: 31, Step: 360, Train loss: 0.0619, Training acc: 0.9790
+Epoch: 31, Test loss: 0.0920, Test acc: 0.9684, Current best: 0.9696
+Epoch: 32, Step: 0, Train loss: 0.0377, Training acc: 0.9922
+Epoch: 32, Step: 90, Train loss: 0.0550, Training acc: 0.9824
+Epoch: 32, Step: 180, Train loss: 0.0571, Training acc: 0.9811
+Epoch: 32, Step: 270, Train loss: 0.0584, Training acc: 0.9802
+Epoch: 32, Step: 360, Train loss: 0.0589, Training acc: 0.9796
+Epoch: 32, Test loss: 0.0952, Test acc: 0.9690, Current best: 0.9696
+Epoch: 33, Step: 0, Train loss: 0.0592, Training acc: 0.9844
+Epoch: 33, Step: 90, Train loss: 0.0595, Training acc: 0.9795
+Epoch: 33, Step: 180, Train loss: 0.0569, Training acc: 0.9804
+Epoch: 33, Step: 270, Train loss: 0.0561, Training acc: 0.9808
+Epoch: 33, Step: 360, Train loss: 0.0567, Training acc: 0.9805
+Epoch: 33, Test loss: 0.0917, Test acc: 0.9694, Current best: 0.9696
+Epoch: 34, Step: 0, Train loss: 0.0467, Training acc: 0.9922
+Epoch: 34, Step: 90, Train loss: 0.0552, Training acc: 0.9815
+Epoch: 34, Step: 180, Train loss: 0.0547, Training acc: 0.9816
+Epoch: 34, Step: 270, Train loss: 0.0571, Training acc: 0.9809
+Epoch: 34, Step: 360, Train loss: 0.0573, Training acc: 0.9809
+Epoch: 34, Test loss: 0.0920, Test acc: 0.9696, Current best: 0.9696
+Epoch: 35, Step: 0, Train loss: 0.0364, Training acc: 0.9922
+Epoch: 35, Step: 90, Train loss: 0.0535, Training acc: 0.9826
+Epoch: 35, Step: 180, Train loss: 0.0558, Training acc: 0.9814
+Epoch: 35, Step: 270, Train loss: 0.0562, Training acc: 0.9810
+Epoch: 35, Step: 360, Train loss: 0.0566, Training acc: 0.9807
+Epoch: 35, Test loss: 0.0888, Test acc: 0.9703, Current best: 0.9703
+Epoch: 36, Step: 0, Train loss: 0.0269, Training acc: 1.0000
+Epoch: 36, Step: 90, Train loss: 0.0518, Training acc: 0.9834
+Epoch: 36, Step: 180, Train loss: 0.0530, Training acc: 0.9827
+Epoch: 36, Step: 270, Train loss: 0.0527, Training acc: 0.9832
+Epoch: 36, Step: 360, Train loss: 0.0532, Training acc: 0.9827
+Epoch: 36, Test loss: 0.1008, Test acc: 0.9676, Current best: 0.9703
+Epoch: 37, Step: 0, Train loss: 0.0332, Training acc: 0.9922
+Epoch: 37, Step: 90, Train loss: 0.0505, Training acc: 0.9831
+Epoch: 37, Step: 180, Train loss: 0.0515, Training acc: 0.9833
+Epoch: 37, Step: 270, Train loss: 0.0514, Training acc: 0.9830
+Epoch: 37, Step: 360, Train loss: 0.0514, Training acc: 0.9829
+Epoch: 37, Test loss: 0.0954, Test acc: 0.9697, Current best: 0.9703
+Epoch: 38, Step: 0, Train loss: 0.0524, Training acc: 0.9922
+Epoch: 38, Step: 90, Train loss: 0.0536, Training acc: 0.9821
+Epoch: 38, Step: 180, Train loss: 0.0499, Training acc: 0.9834
+Epoch: 38, Step: 270, Train loss: 0.0502, Training acc: 0.9838
+Epoch: 38, Step: 360, Train loss: 0.0501, Training acc: 0.9837
+Epoch: 38, Test loss: 0.0894, Test acc: 0.9714, Current best: 0.9714
+Epoch: 39, Step: 0, Train loss: 0.0151, Training acc: 1.0000
+Epoch: 39, Step: 90, Train loss: 0.0511, Training acc: 0.9827
+Epoch: 39, Step: 180, Train loss: 0.0517, Training acc: 0.9826
+Epoch: 39, Step: 270, Train loss: 0.0501, Training acc: 0.9832
+Epoch: 39, Step: 360, Train loss: 0.0501, Training acc: 0.9830
+Epoch: 39, Test loss: 0.0895, Test acc: 0.9711, Current best: 0.9714
+Epoch: 40, Step: 0, Train loss: 0.0350, Training acc: 0.9922
+Epoch: 40, Step: 90, Train loss: 0.0485, Training acc: 0.9839
+Epoch: 40, Step: 180, Train loss: 0.0508, Training acc: 0.9827
+Epoch: 40, Step: 270, Train loss: 0.0494, Training acc: 0.9831
+Epoch: 40, Step: 360, Train loss: 0.0494, Training acc: 0.9830
+Epoch: 40, Test loss: 0.0908, Test acc: 0.9696, Current best: 0.9714
+Epoch: 41, Step: 0, Train loss: 0.0153, Training acc: 0.9922
+Epoch: 41, Step: 90, Train loss: 0.0464, Training acc: 0.9839
+Epoch: 41, Step: 180, Train loss: 0.0483, Training acc: 0.9836
+Epoch: 41, Step: 270, Train loss: 0.0492, Training acc: 0.9836
+Epoch: 41, Step: 360, Train loss: 0.0488, Training acc: 0.9837
+Epoch: 41, Test loss: 0.0888, Test acc: 0.9709, Current best: 0.9714
+Epoch: 42, Step: 0, Train loss: 0.0358, Training acc: 0.9844
+Epoch: 42, Step: 90, Train loss: 0.0471, Training acc: 0.9836
+Epoch: 42, Step: 180, Train loss: 0.0466, Training acc: 0.9841
+Epoch: 42, Step: 270, Train loss: 0.0468, Training acc: 0.9840
+Epoch: 42, Step: 360, Train loss: 0.0470, Training acc: 0.9840
+Epoch: 42, Test loss: 0.0898, Test acc: 0.9704, Current best: 0.9714
+Epoch: 43, Step: 0, Train loss: 0.0703, Training acc: 0.9609
+Epoch: 43, Step: 90, Train loss: 0.0476, Training acc: 0.9827
+Epoch: 43, Step: 180, Train loss: 0.0463, Training acc: 0.9837
+Epoch: 43, Step: 270, Train loss: 0.0465, Training acc: 0.9839
+Epoch: 43, Step: 360, Train loss: 0.0453, Training acc: 0.9844
+Epoch: 43, Test loss: 0.0879, Test acc: 0.9711, Current best: 0.9714
+Epoch: 44, Step: 0, Train loss: 0.0402, Training acc: 0.9922
+Epoch: 44, Step: 90, Train loss: 0.0443, Training acc: 0.9844
+Epoch: 44, Step: 180, Train loss: 0.0452, Training acc: 0.9848
+Epoch: 44, Step: 270, Train loss: 0.0455, Training acc: 0.9845
+Epoch: 44, Step: 360, Train loss: 0.0464, Training acc: 0.9844
+Epoch: 44, Test loss: 0.0886, Test acc: 0.9711, Current best: 0.9714
+Epoch: 45, Step: 0, Train loss: 0.0470, Training acc: 0.9922
+Epoch: 45, Step: 90, Train loss: 0.0425, Training acc: 0.9862
+Epoch: 45, Step: 180, Train loss: 0.0432, Training acc: 0.9860
+Epoch: 45, Step: 270, Train loss: 0.0448, Training acc: 0.9850
+Epoch: 45, Step: 360, Train loss: 0.0442, Training acc: 0.9855
+Epoch: 45, Test loss: 0.0879, Test acc: 0.9713, Current best: 0.9714
+Epoch: 46, Step: 0, Train loss: 0.0382, Training acc: 0.9844
+Epoch: 46, Step: 90, Train loss: 0.0459, Training acc: 0.9852
+Epoch: 46, Step: 180, Train loss: 0.0437, Training acc: 0.9855
+Epoch: 46, Step: 270, Train loss: 0.0434, Training acc: 0.9855
+Epoch: 46, Step: 360, Train loss: 0.0438, Training acc: 0.9855
+Epoch: 46, Test loss: 0.0895, Test acc: 0.9707, Current best: 0.9714
+Epoch: 47, Step: 0, Train loss: 0.0159, Training acc: 1.0000
+Epoch: 47, Step: 90, Train loss: 0.0441, Training acc: 0.9845
+Epoch: 47, Step: 180, Train loss: 0.0423, Training acc: 0.9861
+Epoch: 47, Step: 270, Train loss: 0.0425, Training acc: 0.9860
+Epoch: 47, Step: 360, Train loss: 0.0420, Training acc: 0.9862
+Epoch: 47, Test loss: 0.0885, Test acc: 0.9704, Current best: 0.9714
+Epoch: 48, Step: 0, Train loss: 0.0240, Training acc: 0.9844
+Epoch: 48, Step: 90, Train loss: 0.0464, Training acc: 0.9842
+Epoch: 48, Step: 180, Train loss: 0.0427, Training acc: 0.9849
+Epoch: 48, Step: 270, Train loss: 0.0419, Training acc: 0.9853
+Epoch: 48, Step: 360, Train loss: 0.0414, Training acc: 0.9857
+Epoch: 48, Test loss: 0.0905, Test acc: 0.9710, Current best: 0.9714
+Epoch: 49, Step: 0, Train loss: 0.0202, Training acc: 0.9922
+Epoch: 49, Step: 90, Train loss: 0.0407, Training acc: 0.9861
+Epoch: 49, Step: 180, Train loss: 0.0401, Training acc: 0.9867
+Epoch: 49, Step: 270, Train loss: 0.0403, Training acc: 0.9871
+Epoch: 49, Step: 360, Train loss: 0.0403, Training acc: 0.9868
+Epoch: 49, Test loss: 0.0881, Test acc: 0.9706, Current best: 0.9714
+Epoch: 50, Step: 0, Train loss: 0.0382, Training acc: 0.9922
+Epoch: 50, Step: 90, Train loss: 0.0376, Training acc: 0.9882
+Epoch: 50, Step: 180, Train loss: 0.0391, Training acc: 0.9875
+Epoch: 50, Step: 270, Train loss: 0.0385, Training acc: 0.9873
+Epoch: 50, Step: 360, Train loss: 0.0392, Training acc: 0.9867
+Epoch: 50, Test loss: 0.0875, Test acc: 0.9718, Current best: 0.9718
+Epoch: 51, Step: 0, Train loss: 0.0513, Training acc: 0.9844
+Epoch: 51, Step: 90, Train loss: 0.0394, Training acc: 0.9870
+Epoch: 51, Step: 180, Train loss: 0.0410, Training acc: 0.9857
+Epoch: 51, Step: 270, Train loss: 0.0402, Training acc: 0.9861
+Epoch: 51, Step: 360, Train loss: 0.0398, Training acc: 0.9864
+Epoch: 51, Test loss: 0.0887, Test acc: 0.9700, Current best: 0.9718
+Epoch: 52, Step: 0, Train loss: 0.0212, Training acc: 1.0000
+Epoch: 52, Step: 90, Train loss: 0.0372, Training acc: 0.9882
+Epoch: 52, Step: 180, Train loss: 0.0374, Training acc: 0.9880
+Epoch: 52, Step: 270, Train loss: 0.0373, Training acc: 0.9878
+Epoch: 52, Step: 360, Train loss: 0.0378, Training acc: 0.9874
+Epoch: 52, Test loss: 0.0872, Test acc: 0.9721, Current best: 0.9721
+Epoch: 53, Step: 0, Train loss: 0.0507, Training acc: 0.9844
+Epoch: 53, Step: 90, Train loss: 0.0373, Training acc: 0.9876
+Epoch: 53, Step: 180, Train loss: 0.0376, Training acc: 0.9879
+Epoch: 53, Step: 270, Train loss: 0.0380, Training acc: 0.9874
+Epoch: 53, Step: 360, Train loss: 0.0374, Training acc: 0.9875
+Epoch: 53, Test loss: 0.0890, Test acc: 0.9711, Current best: 0.9721
+Epoch: 54, Step: 0, Train loss: 0.0550, Training acc: 0.9844
+Epoch: 54, Step: 90, Train loss: 0.0348, Training acc: 0.9879
+Epoch: 54, Step: 180, Train loss: 0.0365, Training acc: 0.9874
+Epoch: 54, Step: 270, Train loss: 0.0370, Training acc: 0.9875
+Epoch: 54, Step: 360, Train loss: 0.0366, Training acc: 0.9875
+Epoch: 54, Test loss: 0.0875, Test acc: 0.9719, Current best: 0.9721
+Epoch: 55, Step: 0, Train loss: 0.0469, Training acc: 0.9766
+Epoch: 55, Step: 90, Train loss: 0.0401, Training acc: 0.9866
+Epoch: 55, Step: 180, Train loss: 0.0402, Training acc: 0.9861
+Epoch: 55, Step: 270, Train loss: 0.0398, Training acc: 0.9864
+Epoch: 55, Step: 360, Train loss: 0.0386, Training acc: 0.9868
+Epoch: 55, Test loss: 0.0871, Test acc: 0.9717, Current best: 0.9721
+Epoch: 56, Step: 0, Train loss: 0.0166, Training acc: 0.9922
+Epoch: 56, Step: 90, Train loss: 0.0358, Training acc: 0.9869
+Epoch: 56, Step: 180, Train loss: 0.0359, Training acc: 0.9879
+Epoch: 56, Step: 270, Train loss: 0.0355, Training acc: 0.9881
+Epoch: 56, Step: 360, Train loss: 0.0356, Training acc: 0.9880
+Epoch: 56, Test loss: 0.0871, Test acc: 0.9718, Current best: 0.9721
+Epoch: 57, Step: 0, Train loss: 0.0317, Training acc: 0.9922
+Epoch: 57, Step: 90, Train loss: 0.0359, Training acc: 0.9890
+Epoch: 57, Step: 180, Train loss: 0.0341, Training acc: 0.9890
+Epoch: 57, Step: 270, Train loss: 0.0367, Training acc: 0.9879
+Epoch: 57, Step: 360, Train loss: 0.0357, Training acc: 0.9885
+Epoch: 57, Test loss: 0.0892, Test acc: 0.9713, Current best: 0.9721
+Epoch: 58, Step: 0, Train loss: 0.0160, Training acc: 1.0000
+Epoch: 58, Step: 90, Train loss: 0.0386, Training acc: 0.9881
+Epoch: 58, Step: 180, Train loss: 0.0378, Training acc: 0.9878
+Epoch: 58, Step: 270, Train loss: 0.0363, Training acc: 0.9885
+Epoch: 58, Step: 360, Train loss: 0.0364, Training acc: 0.9882
+Epoch: 58, Test loss: 0.0891, Test acc: 0.9713, Current best: 0.9721
+Epoch: 59, Step: 0, Train loss: 0.0228, Training acc: 1.0000
+Epoch: 59, Step: 90, Train loss: 0.0327, Training acc: 0.9894
+Epoch: 59, Step: 180, Train loss: 0.0341, Training acc: 0.9886
+Epoch: 59, Step: 270, Train loss: 0.0349, Training acc: 0.9880
+Epoch: 59, Step: 360, Train loss: 0.0344, Training acc: 0.9884
+Epoch: 59, Test loss: 0.0884, Test acc: 0.9716, Current best: 0.9721
+Epoch: 60, Step: 0, Train loss: 0.0178, Training acc: 1.0000
+Epoch: 60, Step: 90, Train loss: 0.0350, Training acc: 0.9888
+Epoch: 60, Step: 180, Train loss: 0.0356, Training acc: 0.9881
+Epoch: 60, Step: 270, Train loss: 0.0343, Training acc: 0.9887
+Epoch: 60, Step: 360, Train loss: 0.0344, Training acc: 0.9887
+Epoch: 60, Test loss: 0.0880, Test acc: 0.9715, Current best: 0.9721
+Epoch: 61, Step: 0, Train loss: 0.0103, Training acc: 1.0000
+Epoch: 61, Step: 90, Train loss: 0.0296, Training acc: 0.9908
+Epoch: 61, Step: 180, Train loss: 0.0300, Training acc: 0.9907
+Epoch: 61, Step: 270, Train loss: 0.0313, Training acc: 0.9901
+Epoch: 61, Step: 360, Train loss: 0.0321, Training acc: 0.9898
+Epoch: 61, Test loss: 0.0883, Test acc: 0.9716, Current best: 0.9721
+Epoch: 62, Step: 0, Train loss: 0.0328, Training acc: 0.9844
+Epoch: 62, Step: 90, Train loss: 0.0301, Training acc: 0.9905
+Epoch: 62, Step: 180, Train loss: 0.0330, Training acc: 0.9894
+Epoch: 62, Step: 270, Train loss: 0.0338, Training acc: 0.9889
+Epoch: 62, Step: 360, Train loss: 0.0337, Training acc: 0.9892
+Epoch: 62, Test loss: 0.0880, Test acc: 0.9719, Current best: 0.9721
+Epoch: 63, Step: 0, Train loss: 0.0405, Training acc: 0.9766
+Epoch: 63, Step: 90, Train loss: 0.0316, Training acc: 0.9894
+Epoch: 63, Step: 180, Train loss: 0.0330, Training acc: 0.9890
+Epoch: 63, Step: 270, Train loss: 0.0340, Training acc: 0.9887
+Epoch: 63, Step: 360, Train loss: 0.0340, Training acc: 0.9887
+Epoch: 63, Test loss: 0.0883, Test acc: 0.9719, Current best: 0.9721
+Epoch: 64, Step: 0, Train loss: 0.0201, Training acc: 0.9922
+Epoch: 64, Step: 90, Train loss: 0.0303, Training acc: 0.9899
+Epoch: 64, Step: 180, Train loss: 0.0316, Training acc: 0.9893
+Epoch: 64, Step: 270, Train loss: 0.0325, Training acc: 0.9891
+Epoch: 64, Step: 360, Train loss: 0.0324, Training acc: 0.9891
+Epoch: 64, Test loss: 0.0899, Test acc: 0.9718, Current best: 0.9721
+Epoch: 65, Step: 0, Train loss: 0.0376, Training acc: 0.9766
+Epoch: 65, Step: 90, Train loss: 0.0302, Training acc: 0.9903
+Epoch: 65, Step: 180, Train loss: 0.0326, Training acc: 0.9890
+Epoch: 65, Step: 270, Train loss: 0.0321, Training acc: 0.9894
+Epoch: 65, Step: 360, Train loss: 0.0314, Training acc: 0.9894
+Epoch: 65, Test loss: 0.0878, Test acc: 0.9721, Current best: 0.9721
+Epoch: 66, Step: 0, Train loss: 0.0141, Training acc: 0.9922
+Epoch: 66, Step: 90, Train loss: 0.0283, Training acc: 0.9912
+Epoch: 66, Step: 180, Train loss: 0.0300, Training acc: 0.9905
+Epoch: 66, Step: 270, Train loss: 0.0312, Training acc: 0.9900
+Epoch: 66, Step: 360, Train loss: 0.0316, Training acc: 0.9900
+Epoch: 66, Test loss: 0.0880, Test acc: 0.9728, Current best: 0.9728
+Epoch: 67, Step: 0, Train loss: 0.0075, Training acc: 1.0000
+Epoch: 67, Step: 90, Train loss: 0.0284, Training acc: 0.9908
+Epoch: 67, Step: 180, Train loss: 0.0313, Training acc: 0.9900
+Epoch: 67, Step: 270, Train loss: 0.0317, Training acc: 0.9896
+Epoch: 67, Step: 360, Train loss: 0.0320, Training acc: 0.9893
+Epoch: 67, Test loss: 0.0858, Test acc: 0.9731, Current best: 0.9731
+Epoch: 68, Step: 0, Train loss: 0.0405, Training acc: 0.9844
+Epoch: 68, Step: 90, Train loss: 0.0341, Training acc: 0.9882
+Epoch: 68, Step: 180, Train loss: 0.0324, Training acc: 0.9892
+Epoch: 68, Step: 270, Train loss: 0.0324, Training acc: 0.9893
+Epoch: 68, Step: 360, Train loss: 0.0316, Training acc: 0.9897
+Epoch: 68, Test loss: 0.0867, Test acc: 0.9727, Current best: 0.9731
+Epoch: 69, Step: 0, Train loss: 0.0698, Training acc: 0.9688
+Epoch: 69, Step: 90, Train loss: 0.0329, Training acc: 0.9893
+Epoch: 69, Step: 180, Train loss: 0.0318, Training acc: 0.9895
+Epoch: 69, Step: 270, Train loss: 0.0325, Training acc: 0.9897
+Epoch: 69, Step: 360, Train loss: 0.0320, Training acc: 0.9895
+Epoch: 69, Test loss: 0.0873, Test acc: 0.9720, Current best: 0.9731
+Epoch: 70, Step: 0, Train loss: 0.0375, Training acc: 0.9766
+Epoch: 70, Step: 90, Train loss: 0.0266, Training acc: 0.9918
+Epoch: 70, Step: 180, Train loss: 0.0282, Training acc: 0.9914
+Epoch: 70, Step: 270, Train loss: 0.0290, Training acc: 0.9913
+Epoch: 70, Step: 360, Train loss: 0.0295, Training acc: 0.9909
+Epoch: 70, Test loss: 0.0872, Test acc: 0.9732, Current best: 0.9732
+Epoch: 71, Step: 0, Train loss: 0.0261, Training acc: 1.0000
+Epoch: 71, Step: 90, Train loss: 0.0289, Training acc: 0.9919
+Epoch: 71, Step: 180, Train loss: 0.0308, Training acc: 0.9906
+Epoch: 71, Step: 270, Train loss: 0.0304, Training acc: 0.9907
+Epoch: 71, Step: 360, Train loss: 0.0301, Training acc: 0.9906
+Epoch: 71, Test loss: 0.0866, Test acc: 0.9732, Current best: 0.9732
+Epoch: 72, Step: 0, Train loss: 0.0396, Training acc: 0.9766
+Epoch: 72, Step: 90, Train loss: 0.0293, Training acc: 0.9914
+Epoch: 72, Step: 180, Train loss: 0.0297, Training acc: 0.9907
+Epoch: 72, Step: 270, Train loss: 0.0296, Training acc: 0.9906
+Epoch: 72, Step: 360, Train loss: 0.0296, Training acc: 0.9906
+Epoch: 72, Test loss: 0.0877, Test acc: 0.9726, Current best: 0.9732
+Epoch: 73, Step: 0, Train loss: 0.0158, Training acc: 1.0000
+Epoch: 73, Step: 90, Train loss: 0.0269, Training acc: 0.9912
+Epoch: 73, Step: 180, Train loss: 0.0280, Training acc: 0.9904
+Epoch: 73, Step: 270, Train loss: 0.0276, Training acc: 0.9909
+Epoch: 73, Step: 360, Train loss: 0.0285, Training acc: 0.9907
+Epoch: 73, Test loss: 0.0870, Test acc: 0.9729, Current best: 0.9732
+Epoch: 74, Step: 0, Train loss: 0.0156, Training acc: 0.9922
+Epoch: 74, Step: 90, Train loss: 0.0293, Training acc: 0.9908
+Epoch: 74, Step: 180, Train loss: 0.0293, Training acc: 0.9905
+Epoch: 74, Step: 270, Train loss: 0.0282, Training acc: 0.9909
+Epoch: 74, Step: 360, Train loss: 0.0280, Training acc: 0.9910
+Epoch: 74, Test loss: 0.0865, Test acc: 0.9727, Current best: 0.9732
+Epoch: 75, Step: 0, Train loss: 0.0095, Training acc: 1.0000
+Epoch: 75, Step: 90, Train loss: 0.0322, Training acc: 0.9898
+Epoch: 75, Step: 180, Train loss: 0.0310, Training acc: 0.9901
+Epoch: 75, Step: 270, Train loss: 0.0304, Training acc: 0.9903
+Epoch: 75, Step: 360, Train loss: 0.0301, Training acc: 0.9904
+Epoch: 75, Test loss: 0.0867, Test acc: 0.9740, Current best: 0.9740
+Epoch: 76, Step: 0, Train loss: 0.0062, Training acc: 1.0000
+Epoch: 76, Step: 90, Train loss: 0.0301, Training acc: 0.9900
+Epoch: 76, Step: 180, Train loss: 0.0304, Training acc: 0.9899
+Epoch: 76, Step: 270, Train loss: 0.0299, Training acc: 0.9902
+Epoch: 76, Step: 360, Train loss: 0.0305, Training acc: 0.9901
+Epoch: 76, Test loss: 0.0869, Test acc: 0.9731, Current best: 0.9740
+Epoch: 77, Step: 0, Train loss: 0.0183, Training acc: 0.9922
+Epoch: 77, Step: 90, Train loss: 0.0280, Training acc: 0.9896
+Epoch: 77, Step: 180, Train loss: 0.0298, Training acc: 0.9897
+Epoch: 77, Step: 270, Train loss: 0.0286, Training acc: 0.9904
+Epoch: 77, Step: 360, Train loss: 0.0287, Training acc: 0.9907
+Epoch: 77, Test loss: 0.0864, Test acc: 0.9731, Current best: 0.9740
+Epoch: 78, Step: 0, Train loss: 0.0391, Training acc: 0.9922
+Epoch: 78, Step: 90, Train loss: 0.0298, Training acc: 0.9907
+Epoch: 78, Step: 180, Train loss: 0.0305, Training acc: 0.9900
+Epoch: 78, Step: 270, Train loss: 0.0298, Training acc: 0.9902
+Epoch: 78, Step: 360, Train loss: 0.0286, Training acc: 0.9907
+Epoch: 78, Test loss: 0.0868, Test acc: 0.9724, Current best: 0.9740
+Epoch: 79, Step: 0, Train loss: 0.0161, Training acc: 0.9922
+Epoch: 79, Step: 90, Train loss: 0.0263, Training acc: 0.9918
+Epoch: 79, Step: 180, Train loss: 0.0265, Training acc: 0.9915
+Epoch: 79, Step: 270, Train loss: 0.0263, Training acc: 0.9914
+Epoch: 79, Step: 360, Train loss: 0.0270, Training acc: 0.9913
+Epoch: 79, Test loss: 0.0860, Test acc: 0.9736, Current best: 0.9740
+Epoch: 80, Step: 0, Train loss: 0.0214, Training acc: 0.9922
+Epoch: 80, Step: 90, Train loss: 0.0273, Training acc: 0.9911
+Epoch: 80, Step: 180, Train loss: 0.0269, Training acc: 0.9916
+Epoch: 80, Step: 270, Train loss: 0.0273, Training acc: 0.9915
+Epoch: 80, Step: 360, Train loss: 0.0278, Training acc: 0.9912
+Epoch: 80, Test loss: 0.0861, Test acc: 0.9739, Current best: 0.9740
+Epoch: 81, Step: 0, Train loss: 0.0274, Training acc: 0.9844
+Epoch: 81, Step: 90, Train loss: 0.0298, Training acc: 0.9904
+Epoch: 81, Step: 180, Train loss: 0.0289, Training acc: 0.9908
+Epoch: 81, Step: 270, Train loss: 0.0283, Training acc: 0.9913
+Epoch: 81, Step: 360, Train loss: 0.0287, Training acc: 0.9910
+Epoch: 81, Test loss: 0.0864, Test acc: 0.9732, Current best: 0.9740
+Epoch: 82, Step: 0, Train loss: 0.0137, Training acc: 1.0000
+Epoch: 82, Step: 90, Train loss: 0.0309, Training acc: 0.9897
+Epoch: 82, Step: 180, Train loss: 0.0282, Training acc: 0.9912
+Epoch: 82, Step: 270, Train loss: 0.0283, Training acc: 0.9911
+Epoch: 82, Step: 360, Train loss: 0.0270, Training acc: 0.9917
+Epoch: 82, Test loss: 0.0861, Test acc: 0.9730, Current best: 0.9740
+Epoch: 83, Step: 0, Train loss: 0.0169, Training acc: 0.9922
+Epoch: 83, Step: 90, Train loss: 0.0242, Training acc: 0.9936
+Epoch: 83, Step: 180, Train loss: 0.0249, Training acc: 0.9925
+Epoch: 83, Step: 270, Train loss: 0.0246, Training acc: 0.9925
+Epoch: 83, Step: 360, Train loss: 0.0253, Training acc: 0.9925
+Epoch: 83, Test loss: 0.0867, Test acc: 0.9737, Current best: 0.9740
+Epoch: 84, Step: 0, Train loss: 0.0175, Training acc: 1.0000
+Epoch: 84, Step: 90, Train loss: 0.0265, Training acc: 0.9912
+Epoch: 84, Step: 180, Train loss: 0.0276, Training acc: 0.9908
+Epoch: 84, Step: 270, Train loss: 0.0268, Training acc: 0.9914
+Epoch: 84, Step: 360, Train loss: 0.0266, Training acc: 0.9914
+Epoch: 84, Test loss: 0.0863, Test acc: 0.9740, Current best: 0.9740
+Epoch: 85, Step: 0, Train loss: 0.0110, Training acc: 1.0000
+Epoch: 85, Step: 90, Train loss: 0.0239, Training acc: 0.9920
+Epoch: 85, Step: 180, Train loss: 0.0269, Training acc: 0.9911
+Epoch: 85, Step: 270, Train loss: 0.0272, Training acc: 0.9909
+Epoch: 85, Step: 360, Train loss: 0.0269, Training acc: 0.9911
+Epoch: 85, Test loss: 0.0879, Test acc: 0.9727, Current best: 0.9740
+Epoch: 86, Step: 0, Train loss: 0.0592, Training acc: 0.9844
+Epoch: 86, Step: 90, Train loss: 0.0266, Training acc: 0.9918
+Epoch: 86, Step: 180, Train loss: 0.0244, Training acc: 0.9929
+Epoch: 86, Step: 270, Train loss: 0.0237, Training acc: 0.9931
+Epoch: 86, Step: 360, Train loss: 0.0237, Training acc: 0.9928
+Epoch: 86, Test loss: 0.0876, Test acc: 0.9728, Current best: 0.9740
+Epoch: 87, Step: 0, Train loss: 0.0219, Training acc: 0.9922
+Epoch: 87, Step: 90, Train loss: 0.0239, Training acc: 0.9919
+Epoch: 87, Step: 180, Train loss: 0.0252, Training acc: 0.9920
+Epoch: 87, Step: 270, Train loss: 0.0251, Training acc: 0.9923
+Epoch: 87, Step: 360, Train loss: 0.0254, Training acc: 0.9923
+Epoch: 87, Test loss: 0.0868, Test acc: 0.9725, Current best: 0.9740
+Epoch: 88, Step: 0, Train loss: 0.0240, Training acc: 0.9922
+Epoch: 88, Step: 90, Train loss: 0.0238, Training acc: 0.9930
+Epoch: 88, Step: 180, Train loss: 0.0251, Training acc: 0.9924
+Epoch: 88, Step: 270, Train loss: 0.0246, Training acc: 0.9926
+Epoch: 88, Step: 360, Train loss: 0.0247, Training acc: 0.9923
+Epoch: 88, Test loss: 0.0867, Test acc: 0.9719, Current best: 0.9740
+Epoch: 89, Step: 0, Train loss: 0.0373, Training acc: 0.9844
+Epoch: 89, Step: 90, Train loss: 0.0249, Training acc: 0.9924
+Epoch: 89, Step: 180, Train loss: 0.0245, Training acc: 0.9922
+Epoch: 89, Step: 270, Train loss: 0.0248, Training acc: 0.9923
+Epoch: 89, Step: 360, Train loss: 0.0249, Training acc: 0.9923
+Epoch: 89, Test loss: 0.0861, Test acc: 0.9728, Current best: 0.9740
+Epoch: 90, Step: 0, Train loss: 0.0241, Training acc: 0.9922
+Epoch: 90, Step: 90, Train loss: 0.0251, Training acc: 0.9928
+Epoch: 90, Step: 180, Train loss: 0.0244, Training acc: 0.9930
+Epoch: 90, Step: 270, Train loss: 0.0256, Training acc: 0.9922
+Epoch: 90, Step: 360, Train loss: 0.0251, Training acc: 0.9921
+Epoch: 90, Test loss: 0.0859, Test acc: 0.9727, Current best: 0.9740
+Epoch: 91, Step: 0, Train loss: 0.0177, Training acc: 0.9922
+Epoch: 91, Step: 90, Train loss: 0.0259, Training acc: 0.9917
+Epoch: 91, Step: 180, Train loss: 0.0247, Training acc: 0.9915
+Epoch: 91, Step: 270, Train loss: 0.0251, Training acc: 0.9915
+Epoch: 91, Step: 360, Train loss: 0.0250, Training acc: 0.9918
+Epoch: 91, Test loss: 0.0872, Test acc: 0.9724, Current best: 0.9740
+Epoch: 92, Step: 0, Train loss: 0.0045, Training acc: 1.0000
+Epoch: 92, Step: 90, Train loss: 0.0254, Training acc: 0.9924
+Epoch: 92, Step: 180, Train loss: 0.0250, Training acc: 0.9925
+Epoch: 92, Step: 270, Train loss: 0.0246, Training acc: 0.9925
+Epoch: 92, Step: 360, Train loss: 0.0246, Training acc: 0.9925
+Epoch: 92, Test loss: 0.0875, Test acc: 0.9731, Current best: 0.9740
+Epoch: 93, Step: 0, Train loss: 0.0259, Training acc: 0.9922
+Epoch: 93, Step: 90, Train loss: 0.0247, Training acc: 0.9921
+Epoch: 93, Step: 180, Train loss: 0.0250, Training acc: 0.9918
+Epoch: 93, Step: 270, Train loss: 0.0250, Training acc: 0.9919
+Epoch: 93, Step: 360, Train loss: 0.0253, Training acc: 0.9919
+Epoch: 93, Test loss: 0.0868, Test acc: 0.9726, Current best: 0.9740
+Epoch: 94, Step: 0, Train loss: 0.0380, Training acc: 0.9844
+Epoch: 94, Step: 90, Train loss: 0.0212, Training acc: 0.9942
+Epoch: 94, Step: 180, Train loss: 0.0226, Training acc: 0.9931
+Epoch: 94, Step: 270, Train loss: 0.0239, Training acc: 0.9925
+Epoch: 94, Step: 360, Train loss: 0.0243, Training acc: 0.9925
+Epoch: 94, Test loss: 0.0869, Test acc: 0.9727, Current best: 0.9740
+Epoch: 95, Step: 0, Train loss: 0.0108, Training acc: 1.0000
+Epoch: 95, Step: 90, Train loss: 0.0248, Training acc: 0.9925
+Epoch: 95, Step: 180, Train loss: 0.0237, Training acc: 0.9930
+Epoch: 95, Step: 270, Train loss: 0.0243, Training acc: 0.9925
+Epoch: 95, Step: 360, Train loss: 0.0249, Training acc: 0.9922
+Epoch: 95, Test loss: 0.0866, Test acc: 0.9726, Current best: 0.9740
+Epoch: 96, Step: 0, Train loss: 0.0428, Training acc: 0.9922
+Epoch: 96, Step: 90, Train loss: 0.0246, Training acc: 0.9927
+Epoch: 96, Step: 180, Train loss: 0.0251, Training acc: 0.9922
+Epoch: 96, Step: 270, Train loss: 0.0253, Training acc: 0.9921
+Epoch: 96, Step: 360, Train loss: 0.0249, Training acc: 0.9920
+Epoch: 96, Test loss: 0.0864, Test acc: 0.9732, Current best: 0.9740
+Epoch: 97, Step: 0, Train loss: 0.0167, Training acc: 1.0000
+Epoch: 97, Step: 90, Train loss: 0.0237, Training acc: 0.9934
+Epoch: 97, Step: 180, Train loss: 0.0253, Training acc: 0.9922
+Epoch: 97, Step: 270, Train loss: 0.0248, Training acc: 0.9922
+Epoch: 97, Step: 360, Train loss: 0.0239, Training acc: 0.9925
+Epoch: 97, Test loss: 0.0864, Test acc: 0.9730, Current best: 0.9740
+Epoch: 98, Step: 0, Train loss: 0.0143, Training acc: 1.0000
+Epoch: 98, Step: 90, Train loss: 0.0197, Training acc: 0.9944
+Epoch: 98, Step: 180, Train loss: 0.0226, Training acc: 0.9930
+Epoch: 98, Step: 270, Train loss: 0.0237, Training acc: 0.9924
+Epoch: 98, Step: 360, Train loss: 0.0244, Training acc: 0.9922
+Epoch: 98, Test loss: 0.0859, Test acc: 0.9737, Current best: 0.9740
+Epoch: 99, Step: 0, Train loss: 0.0544, Training acc: 0.9922
+Epoch: 99, Step: 90, Train loss: 0.0236, Training acc: 0.9927
+Epoch: 99, Step: 180, Train loss: 0.0227, Training acc: 0.9934
+Epoch: 99, Step: 270, Train loss: 0.0238, Training acc: 0.9930
+Epoch: 99, Step: 360, Train loss: 0.0235, Training acc: 0.9927
+Epoch: 99, Test loss: 0.0875, Test acc: 0.9734, Current best: 0.9740
+Epoch: 100, Step: 0, Train loss: 0.0187, Training acc: 0.9922
+Epoch: 100, Step: 90, Train loss: 0.0207, Training acc: 0.9936
+Epoch: 100, Step: 180, Train loss: 0.0222, Training acc: 0.9933
+Epoch: 100, Step: 270, Train loss: 0.0223, Training acc: 0.9928
+Epoch: 100, Step: 360, Train loss: 0.0226, Training acc: 0.9928
+Epoch: 100, Test loss: 0.0875, Test acc: 0.9744, Current best: 0.9744
+Epoch: 101, Step: 0, Train loss: 0.0400, Training acc: 0.9844
+Epoch: 101, Step: 90, Train loss: 0.0240, Training acc: 0.9922
+Epoch: 101, Step: 180, Train loss: 0.0247, Training acc: 0.9916
+Epoch: 101, Step: 270, Train loss: 0.0252, Training acc: 0.9916
+Epoch: 101, Step: 360, Train loss: 0.0254, Training acc: 0.9918
+Epoch: 101, Test loss: 0.0870, Test acc: 0.9730, Current best: 0.9744
+Epoch: 102, Step: 0, Train loss: 0.0073, Training acc: 1.0000
+Epoch: 102, Step: 90, Train loss: 0.0211, Training acc: 0.9932
+Epoch: 102, Step: 180, Train loss: 0.0211, Training acc: 0.9934
+Epoch: 102, Step: 270, Train loss: 0.0219, Training acc: 0.9932
+Epoch: 102, Step: 360, Train loss: 0.0222, Training acc: 0.9931
+Epoch: 102, Test loss: 0.0874, Test acc: 0.9738, Current best: 0.9744
+Epoch: 103, Step: 0, Train loss: 0.0786, Training acc: 0.9844
+Epoch: 103, Step: 90, Train loss: 0.0214, Training acc: 0.9933
+Epoch: 103, Step: 180, Train loss: 0.0225, Training acc: 0.9929
+Epoch: 103, Step: 270, Train loss: 0.0219, Training acc: 0.9933
+Epoch: 103, Step: 360, Train loss: 0.0221, Training acc: 0.9932
+Epoch: 103, Test loss: 0.0866, Test acc: 0.9729, Current best: 0.9744
+Epoch: 104, Step: 0, Train loss: 0.0103, Training acc: 1.0000
+Epoch: 104, Step: 90, Train loss: 0.0227, Training acc: 0.9926
+Epoch: 104, Step: 180, Train loss: 0.0229, Training acc: 0.9925
+Epoch: 104, Step: 270, Train loss: 0.0231, Training acc: 0.9923
+Epoch: 104, Step: 360, Train loss: 0.0235, Training acc: 0.9924
+Epoch: 104, Test loss: 0.0864, Test acc: 0.9739, Current best: 0.9744
+Epoch: 105, Step: 0, Train loss: 0.0330, Training acc: 0.9922
+Epoch: 105, Step: 90, Train loss: 0.0243, Training acc: 0.9926
+Epoch: 105, Step: 180, Train loss: 0.0240, Training acc: 0.9928
+Epoch: 105, Step: 270, Train loss: 0.0225, Training acc: 0.9933
+Epoch: 105, Step: 360, Train loss: 0.0233, Training acc: 0.9928
+Epoch: 105, Test loss: 0.0864, Test acc: 0.9728, Current best: 0.9744
+Epoch: 106, Step: 0, Train loss: 0.0405, Training acc: 0.9766
+Epoch: 106, Step: 90, Train loss: 0.0219, Training acc: 0.9928
+Epoch: 106, Step: 180, Train loss: 0.0220, Training acc: 0.9924
+Epoch: 106, Step: 270, Train loss: 0.0222, Training acc: 0.9929
+Epoch: 106, Step: 360, Train loss: 0.0225, Training acc: 0.9928
+Epoch: 106, Test loss: 0.0858, Test acc: 0.9735, Current best: 0.9744
+Epoch: 107, Step: 0, Train loss: 0.0239, Training acc: 0.9922
+Epoch: 107, Step: 90, Train loss: 0.0196, Training acc: 0.9935
+Epoch: 107, Step: 180, Train loss: 0.0218, Training acc: 0.9931
+Epoch: 107, Step: 270, Train loss: 0.0218, Training acc: 0.9933
+Epoch: 107, Step: 360, Train loss: 0.0215, Training acc: 0.9934
+Epoch: 107, Test loss: 0.0872, Test acc: 0.9735, Current best: 0.9744
+Epoch: 108, Step: 0, Train loss: 0.0085, Training acc: 1.0000
+Epoch: 108, Step: 90, Train loss: 0.0207, Training acc: 0.9931
+Epoch: 108, Step: 180, Train loss: 0.0215, Training acc: 0.9929
+Epoch: 108, Step: 270, Train loss: 0.0212, Training acc: 0.9932
+Epoch: 108, Step: 360, Train loss: 0.0214, Training acc: 0.9931
+Epoch: 108, Test loss: 0.0867, Test acc: 0.9731, Current best: 0.9744
+Epoch: 109, Step: 0, Train loss: 0.0306, Training acc: 0.9922
+Epoch: 109, Step: 90, Train loss: 0.0220, Training acc: 0.9928
+Epoch: 109, Step: 180, Train loss: 0.0209, Training acc: 0.9934
+Epoch: 109, Step: 270, Train loss: 0.0214, Training acc: 0.9933
+Epoch: 109, Step: 360, Train loss: 0.0216, Training acc: 0.9934
+Epoch: 109, Test loss: 0.0864, Test acc: 0.9733, Current best: 0.9744
+Epoch: 110, Step: 0, Train loss: 0.0103, Training acc: 1.0000
+Epoch: 110, Step: 90, Train loss: 0.0253, Training acc: 0.9921
+Epoch: 110, Step: 180, Train loss: 0.0222, Training acc: 0.9934
+Epoch: 110, Step: 270, Train loss: 0.0218, Training acc: 0.9935
+Epoch: 110, Step: 360, Train loss: 0.0222, Training acc: 0.9931
+Epoch: 110, Test loss: 0.0868, Test acc: 0.9736, Current best: 0.9744
+Epoch: 111, Step: 0, Train loss: 0.0113, Training acc: 1.0000
+Epoch: 111, Step: 90, Train loss: 0.0194, Training acc: 0.9936
+Epoch: 111, Step: 180, Train loss: 0.0214, Training acc: 0.9924
+Epoch: 111, Step: 270, Train loss: 0.0207, Training acc: 0.9931
+Epoch: 111, Step: 360, Train loss: 0.0211, Training acc: 0.9929
+Epoch: 111, Test loss: 0.0871, Test acc: 0.9730, Current best: 0.9744
+Epoch: 112, Step: 0, Train loss: 0.0138, Training acc: 0.9922
+Epoch: 112, Step: 90, Train loss: 0.0220, Training acc: 0.9926
+Epoch: 112, Step: 180, Train loss: 0.0211, Training acc: 0.9930
+Epoch: 112, Step: 270, Train loss: 0.0211, Training acc: 0.9934
+Epoch: 112, Step: 360, Train loss: 0.0214, Training acc: 0.9931
+Epoch: 112, Test loss: 0.0872, Test acc: 0.9736, Current best: 0.9744
+Epoch: 113, Step: 0, Train loss: 0.0127, Training acc: 1.0000
+Epoch: 113, Step: 90, Train loss: 0.0242, Training acc: 0.9931
+Epoch: 113, Step: 180, Train loss: 0.0228, Training acc: 0.9932
+Epoch: 113, Step: 270, Train loss: 0.0223, Training acc: 0.9935
+Epoch: 113, Step: 360, Train loss: 0.0216, Training acc: 0.9937
+Epoch: 113, Test loss: 0.0871, Test acc: 0.9742, Current best: 0.9744
+Epoch: 114, Step: 0, Train loss: 0.0068, Training acc: 1.0000
+Epoch: 114, Step: 90, Train loss: 0.0200, Training acc: 0.9931
+Epoch: 114, Step: 180, Train loss: 0.0194, Training acc: 0.9934
+Epoch: 114, Step: 270, Train loss: 0.0197, Training acc: 0.9937
+Epoch: 114, Step: 360, Train loss: 0.0203, Training acc: 0.9934
+Epoch: 114, Test loss: 0.0869, Test acc: 0.9743, Current best: 0.9744
+Epoch: 115, Step: 0, Train loss: 0.0207, Training acc: 0.9922
+Epoch: 115, Step: 90, Train loss: 0.0218, Training acc: 0.9930
+Epoch: 115, Step: 180, Train loss: 0.0212, Training acc: 0.9931
+Epoch: 115, Step: 270, Train loss: 0.0212, Training acc: 0.9931
+Epoch: 115, Step: 360, Train loss: 0.0213, Training acc: 0.9931
+Epoch: 115, Test loss: 0.0866, Test acc: 0.9743, Current best: 0.9744
+Epoch: 116, Step: 0, Train loss: 0.0110, Training acc: 1.0000
+Epoch: 116, Step: 90, Train loss: 0.0189, Training acc: 0.9941
+Epoch: 116, Step: 180, Train loss: 0.0193, Training acc: 0.9940
+Epoch: 116, Step: 270, Train loss: 0.0195, Training acc: 0.9941
+Epoch: 116, Step: 360, Train loss: 0.0196, Training acc: 0.9940
+Epoch: 116, Test loss: 0.0864, Test acc: 0.9739, Current best: 0.9744
+Epoch: 117, Step: 0, Train loss: 0.0603, Training acc: 0.9766
+Epoch: 117, Step: 90, Train loss: 0.0235, Training acc: 0.9922
+Epoch: 117, Step: 180, Train loss: 0.0211, Training acc: 0.9935
+Epoch: 117, Step: 270, Train loss: 0.0203, Training acc: 0.9938
+Epoch: 117, Step: 360, Train loss: 0.0203, Training acc: 0.9939
+Epoch: 117, Test loss: 0.0863, Test acc: 0.9741, Current best: 0.9744
+Epoch: 118, Step: 0, Train loss: 0.0144, Training acc: 1.0000
+Epoch: 118, Step: 90, Train loss: 0.0213, Training acc: 0.9940
+Epoch: 118, Step: 180, Train loss: 0.0214, Training acc: 0.9936
+Epoch: 118, Step: 270, Train loss: 0.0208, Training acc: 0.9938
+Epoch: 118, Step: 360, Train loss: 0.0209, Training acc: 0.9938
+Epoch: 118, Test loss: 0.0867, Test acc: 0.9737, Current best: 0.9744
+Epoch: 119, Step: 0, Train loss: 0.0230, Training acc: 0.9922
+Epoch: 119, Step: 90, Train loss: 0.0195, Training acc: 0.9942
+Epoch: 119, Step: 180, Train loss: 0.0202, Training acc: 0.9941
+Epoch: 119, Step: 270, Train loss: 0.0203, Training acc: 0.9939
+Epoch: 119, Step: 360, Train loss: 0.0204, Training acc: 0.9938
+Epoch: 119, Test loss: 0.0878, Test acc: 0.9730, Current best: 0.9744
+Epoch: 120, Step: 0, Train loss: 0.0341, Training acc: 0.9844
+Epoch: 120, Step: 90, Train loss: 0.0245, Training acc: 0.9917
+Epoch: 120, Step: 180, Train loss: 0.0220, Training acc: 0.9932
+Epoch: 120, Step: 270, Train loss: 0.0214, Training acc: 0.9935
+Epoch: 120, Step: 360, Train loss: 0.0212, Training acc: 0.9936
+Epoch: 120, Test loss: 0.0868, Test acc: 0.9734, Current best: 0.9744
+Epoch: 121, Step: 0, Train loss: 0.0058, Training acc: 1.0000
+Epoch: 121, Step: 90, Train loss: 0.0216, Training acc: 0.9931
+Epoch: 121, Step: 180, Train loss: 0.0226, Training acc: 0.9932
+Epoch: 121, Step: 270, Train loss: 0.0219, Training acc: 0.9936
+Epoch: 121, Step: 360, Train loss: 0.0207, Training acc: 0.9940
+Epoch: 121, Test loss: 0.0871, Test acc: 0.9737, Current best: 0.9744
+Epoch: 122, Step: 0, Train loss: 0.0356, Training acc: 0.9844
+Epoch: 122, Step: 90, Train loss: 0.0187, Training acc: 0.9942
+Epoch: 122, Step: 180, Train loss: 0.0189, Training acc: 0.9945
+Epoch: 122, Step: 270, Train loss: 0.0194, Training acc: 0.9943
+Epoch: 122, Step: 360, Train loss: 0.0205, Training acc: 0.9938
+Epoch: 122, Test loss: 0.0867, Test acc: 0.9743, Current best: 0.9744
+Epoch: 123, Step: 0, Train loss: 0.0058, Training acc: 1.0000
+Epoch: 123, Step: 90, Train loss: 0.0200, Training acc: 0.9936
+Epoch: 123, Step: 180, Train loss: 0.0200, Training acc: 0.9939
+Epoch: 123, Step: 270, Train loss: 0.0206, Training acc: 0.9934
+Epoch: 123, Step: 360, Train loss: 0.0205, Training acc: 0.9937
+Epoch: 123, Test loss: 0.0863, Test acc: 0.9734, Current best: 0.9744
+Epoch: 124, Step: 0, Train loss: 0.0193, Training acc: 0.9922
+Epoch: 124, Step: 90, Train loss: 0.0201, Training acc: 0.9937
+Epoch: 124, Step: 180, Train loss: 0.0205, Training acc: 0.9936
+Epoch: 124, Step: 270, Train loss: 0.0202, Training acc: 0.9937
+Epoch: 124, Step: 360, Train loss: 0.0211, Training acc: 0.9933
+Epoch: 124, Test loss: 0.0865, Test acc: 0.9740, Current best: 0.9744
+Epoch: 125, Step: 0, Train loss: 0.0448, Training acc: 0.9766
+Epoch: 125, Step: 90, Train loss: 0.0201, Training acc: 0.9945
+Epoch: 125, Step: 180, Train loss: 0.0200, Training acc: 0.9945
+Epoch: 125, Step: 270, Train loss: 0.0199, Training acc: 0.9944
+Epoch: 125, Step: 360, Train loss: 0.0201, Training acc: 0.9942
+Epoch: 125, Test loss: 0.0878, Test acc: 0.9735, Current best: 0.9744
+Epoch: 126, Step: 0, Train loss: 0.0495, Training acc: 0.9922
+Epoch: 126, Step: 90, Train loss: 0.0209, Training acc: 0.9938
+Epoch: 126, Step: 180, Train loss: 0.0203, Training acc: 0.9939
+Epoch: 126, Step: 270, Train loss: 0.0210, Training acc: 0.9937
+Epoch: 126, Step: 360, Train loss: 0.0210, Training acc: 0.9938
+Epoch: 126, Test loss: 0.0866, Test acc: 0.9740, Current best: 0.9744
+Epoch: 127, Step: 0, Train loss: 0.0131, Training acc: 1.0000
+Epoch: 127, Step: 90, Train loss: 0.0187, Training acc: 0.9937
+Epoch: 127, Step: 180, Train loss: 0.0202, Training acc: 0.9934
+Epoch: 127, Step: 270, Train loss: 0.0205, Training acc: 0.9933
+Epoch: 127, Step: 360, Train loss: 0.0205, Training acc: 0.9933
+Epoch: 127, Test loss: 0.0862, Test acc: 0.9743, Current best: 0.9744
+Epoch: 128, Step: 0, Train loss: 0.0044, Training acc: 1.0000
+Epoch: 128, Step: 90, Train loss: 0.0213, Training acc: 0.9930
+Epoch: 128, Step: 180, Train loss: 0.0219, Training acc: 0.9927
+Epoch: 128, Step: 270, Train loss: 0.0212, Training acc: 0.9930
+Epoch: 128, Step: 360, Train loss: 0.0204, Training acc: 0.9932
+Epoch: 128, Test loss: 0.0854, Test acc: 0.9735, Current best: 0.9744
+Epoch: 129, Step: 0, Train loss: 0.0173, Training acc: 0.9922
+Epoch: 129, Step: 90, Train loss: 0.0172, Training acc: 0.9953
+Epoch: 129, Step: 180, Train loss: 0.0196, Training acc: 0.9940
+Epoch: 129, Step: 270, Train loss: 0.0198, Training acc: 0.9940
+Epoch: 129, Step: 360, Train loss: 0.0199, Training acc: 0.9940
+Epoch: 129, Test loss: 0.0858, Test acc: 0.9739, Current best: 0.9744
+Epoch: 130, Step: 0, Train loss: 0.0059, Training acc: 1.0000
+Epoch: 130, Step: 90, Train loss: 0.0189, Training acc: 0.9939
+Epoch: 130, Step: 180, Train loss: 0.0181, Training acc: 0.9945
+Epoch: 130, Step: 270, Train loss: 0.0190, Training acc: 0.9938
+Epoch: 130, Step: 360, Train loss: 0.0195, Training acc: 0.9938
+Epoch: 130, Test loss: 0.0858, Test acc: 0.9740, Current best: 0.9744
+Epoch: 131, Step: 0, Train loss: 0.0572, Training acc: 0.9688
+Epoch: 131, Step: 90, Train loss: 0.0191, Training acc: 0.9939
+Epoch: 131, Step: 180, Train loss: 0.0196, Training acc: 0.9937
+Epoch: 131, Step: 270, Train loss: 0.0198, Training acc: 0.9937
+Epoch: 131, Step: 360, Train loss: 0.0205, Training acc: 0.9936
+Epoch: 131, Test loss: 0.0858, Test acc: 0.9744, Current best: 0.9744
+Epoch: 132, Step: 0, Train loss: 0.0449, Training acc: 0.9766
+Epoch: 132, Step: 90, Train loss: 0.0199, Training acc: 0.9940
+Epoch: 132, Step: 180, Train loss: 0.0196, Training acc: 0.9939
+Epoch: 132, Step: 270, Train loss: 0.0192, Training acc: 0.9941
+Epoch: 132, Step: 360, Train loss: 0.0192, Training acc: 0.9941
+Epoch: 132, Test loss: 0.0854, Test acc: 0.9735, Current best: 0.9744
+Epoch: 133, Step: 0, Train loss: 0.0200, Training acc: 0.9922
+Epoch: 133, Step: 90, Train loss: 0.0183, Training acc: 0.9942
+Epoch: 133, Step: 180, Train loss: 0.0192, Training acc: 0.9940
+Epoch: 133, Step: 270, Train loss: 0.0191, Training acc: 0.9943
+Epoch: 133, Step: 360, Train loss: 0.0191, Training acc: 0.9945
+Epoch: 133, Test loss: 0.0859, Test acc: 0.9735, Current best: 0.9744
+Epoch: 134, Step: 0, Train loss: 0.0202, Training acc: 0.9922
+Epoch: 134, Step: 90, Train loss: 0.0176, Training acc: 0.9952
+Epoch: 134, Step: 180, Train loss: 0.0180, Training acc: 0.9949
+Epoch: 134, Step: 270, Train loss: 0.0188, Training acc: 0.9943
+Epoch: 134, Step: 360, Train loss: 0.0192, Training acc: 0.9942
+Epoch: 134, Test loss: 0.0864, Test acc: 0.9739, Current best: 0.9744
+Epoch: 135, Step: 0, Train loss: 0.0138, Training acc: 1.0000
+Epoch: 135, Step: 90, Train loss: 0.0185, Training acc: 0.9951
+Epoch: 135, Step: 180, Train loss: 0.0191, Training acc: 0.9949
+Epoch: 135, Step: 270, Train loss: 0.0189, Training acc: 0.9947
+Epoch: 135, Step: 360, Train loss: 0.0189, Training acc: 0.9946
+Epoch: 135, Test loss: 0.0863, Test acc: 0.9738, Current best: 0.9744
+Epoch: 136, Step: 0, Train loss: 0.0119, Training acc: 1.0000
+Epoch: 136, Step: 90, Train loss: 0.0183, Training acc: 0.9942
+Epoch: 136, Step: 180, Train loss: 0.0182, Training acc: 0.9945
+Epoch: 136, Step: 270, Train loss: 0.0187, Training acc: 0.9942
+Epoch: 136, Step: 360, Train loss: 0.0184, Training acc: 0.9942
+Epoch: 136, Test loss: 0.0861, Test acc: 0.9743, Current best: 0.9744
+Epoch: 137, Step: 0, Train loss: 0.0323, Training acc: 0.9844
+Epoch: 137, Step: 90, Train loss: 0.0204, Training acc: 0.9935
+Epoch: 137, Step: 180, Train loss: 0.0199, Training acc: 0.9937
+Epoch: 137, Step: 270, Train loss: 0.0188, Training acc: 0.9945
+Epoch: 137, Step: 360, Train loss: 0.0186, Training acc: 0.9945
+Epoch: 137, Test loss: 0.0851, Test acc: 0.9742, Current best: 0.9744
+Epoch: 138, Step: 0, Train loss: 0.0120, Training acc: 1.0000
+Epoch: 138, Step: 90, Train loss: 0.0173, Training acc: 0.9949
+Epoch: 138, Step: 180, Train loss: 0.0177, Training acc: 0.9946
+Epoch: 138, Step: 270, Train loss: 0.0182, Training acc: 0.9946
+Epoch: 138, Step: 360, Train loss: 0.0184, Training acc: 0.9946
+Epoch: 138, Test loss: 0.0855, Test acc: 0.9737, Current best: 0.9744
+Epoch: 139, Step: 0, Train loss: 0.0311, Training acc: 0.9922
+Epoch: 139, Step: 90, Train loss: 0.0183, Training acc: 0.9951
+Epoch: 139, Step: 180, Train loss: 0.0191, Training acc: 0.9952
+Epoch: 139, Step: 270, Train loss: 0.0189, Training acc: 0.9947
+Epoch: 139, Step: 360, Train loss: 0.0187, Training acc: 0.9947
+Epoch: 139, Test loss: 0.0854, Test acc: 0.9739, Current best: 0.9744
+Epoch: 140, Step: 0, Train loss: 0.0040, Training acc: 1.0000
+Epoch: 140, Step: 90, Train loss: 0.0203, Training acc: 0.9937
+Epoch: 140, Step: 180, Train loss: 0.0185, Training acc: 0.9942
+Epoch: 140, Step: 270, Train loss: 0.0191, Training acc: 0.9942
+Epoch: 140, Step: 360, Train loss: 0.0189, Training acc: 0.9942
+Epoch: 140, Test loss: 0.0862, Test acc: 0.9742, Current best: 0.9744
+Epoch: 141, Step: 0, Train loss: 0.0204, Training acc: 0.9922
+Epoch: 141, Step: 90, Train loss: 0.0176, Training acc: 0.9939
+Epoch: 141, Step: 180, Train loss: 0.0178, Training acc: 0.9944
+Epoch: 141, Step: 270, Train loss: 0.0179, Training acc: 0.9945
+Epoch: 141, Step: 360, Train loss: 0.0175, Training acc: 0.9946
+Epoch: 141, Test loss: 0.0864, Test acc: 0.9737, Current best: 0.9744
+Epoch: 142, Step: 0, Train loss: 0.0101, Training acc: 1.0000
+Epoch: 142, Step: 90, Train loss: 0.0199, Training acc: 0.9939
+Epoch: 142, Step: 180, Train loss: 0.0187, Training acc: 0.9945
+Epoch: 142, Step: 270, Train loss: 0.0185, Training acc: 0.9946
+Epoch: 142, Step: 360, Train loss: 0.0184, Training acc: 0.9947
+Epoch: 142, Test loss: 0.0860, Test acc: 0.9745, Current best: 0.9745
+Epoch: 143, Step: 0, Train loss: 0.0123, Training acc: 1.0000
+Epoch: 143, Step: 90, Train loss: 0.0192, Training acc: 0.9945
+Epoch: 143, Step: 180, Train loss: 0.0192, Training acc: 0.9943
+Epoch: 143, Step: 270, Train loss: 0.0198, Training acc: 0.9939
+Epoch: 143, Step: 360, Train loss: 0.0197, Training acc: 0.9940
+Epoch: 143, Test loss: 0.0864, Test acc: 0.9745, Current best: 0.9745
+Epoch: 144, Step: 0, Train loss: 0.0102, Training acc: 1.0000
+Epoch: 144, Step: 90, Train loss: 0.0205, Training acc: 0.9925
+Epoch: 144, Step: 180, Train loss: 0.0213, Training acc: 0.9923
+Epoch: 144, Step: 270, Train loss: 0.0207, Training acc: 0.9929
+Epoch: 144, Step: 360, Train loss: 0.0202, Training acc: 0.9933
+Epoch: 144, Test loss: 0.0854, Test acc: 0.9742, Current best: 0.9745
+Epoch: 145, Step: 0, Train loss: 0.0096, Training acc: 1.0000
+Epoch: 145, Step: 90, Train loss: 0.0204, Training acc: 0.9942
+Epoch: 145, Step: 180, Train loss: 0.0193, Training acc: 0.9944
+Epoch: 145, Step: 270, Train loss: 0.0185, Training acc: 0.9947
+Epoch: 145, Step: 360, Train loss: 0.0181, Training acc: 0.9948
+Epoch: 145, Test loss: 0.0850, Test acc: 0.9739, Current best: 0.9745
+Epoch: 146, Step: 0, Train loss: 0.0051, Training acc: 1.0000
+Epoch: 146, Step: 90, Train loss: 0.0203, Training acc: 0.9942
+Epoch: 146, Step: 180, Train loss: 0.0200, Training acc: 0.9942
+Epoch: 146, Step: 270, Train loss: 0.0195, Training acc: 0.9945
+Epoch: 146, Step: 360, Train loss: 0.0191, Training acc: 0.9946
+Epoch: 146, Test loss: 0.0854, Test acc: 0.9737, Current best: 0.9745
+Epoch: 147, Step: 0, Train loss: 0.0062, Training acc: 1.0000
+Epoch: 147, Step: 90, Train loss: 0.0195, Training acc: 0.9941
+Epoch: 147, Step: 180, Train loss: 0.0184, Training acc: 0.9941
+Epoch: 147, Step: 270, Train loss: 0.0188, Training acc: 0.9941
+Epoch: 147, Step: 360, Train loss: 0.0187, Training acc: 0.9941
+Epoch: 147, Test loss: 0.0860, Test acc: 0.9732, Current best: 0.9745
+Epoch: 148, Step: 0, Train loss: 0.0081, Training acc: 1.0000
+Epoch: 148, Step: 90, Train loss: 0.0181, Training acc: 0.9945
+Epoch: 148, Step: 180, Train loss: 0.0179, Training acc: 0.9946
+Epoch: 148, Step: 270, Train loss: 0.0188, Training acc: 0.9946
+Epoch: 148, Step: 360, Train loss: 0.0189, Training acc: 0.9944
+Epoch: 148, Test loss: 0.0858, Test acc: 0.9743, Current best: 0.9745
+Epoch: 149, Step: 0, Train loss: 0.0035, Training acc: 1.0000
+Epoch: 149, Step: 90, Train loss: 0.0184, Training acc: 0.9948
+Epoch: 149, Step: 180, Train loss: 0.0173, Training acc: 0.9949
+Epoch: 149, Step: 270, Train loss: 0.0186, Training acc: 0.9946
+Epoch: 149, Step: 360, Train loss: 0.0186, Training acc: 0.9944
+Epoch: 149, Test loss: 0.0859, Test acc: 0.9739, Current best: 0.9745
+Epoch: 150, Step: 0, Train loss: 0.0246, Training acc: 0.9844
+Epoch: 150, Step: 90, Train loss: 0.0173, Training acc: 0.9953
+Epoch: 150, Step: 180, Train loss: 0.0183, Training acc: 0.9953
+Epoch: 150, Step: 270, Train loss: 0.0175, Training acc: 0.9951
+Epoch: 150, Step: 360, Train loss: 0.0173, Training acc: 0.9950
+Epoch: 150, Test loss: 0.0855, Test acc: 0.9736, Current best: 0.9745
+Epoch: 151, Step: 0, Train loss: 0.0556, Training acc: 0.9766
+Epoch: 151, Step: 90, Train loss: 0.0174, Training acc: 0.9952
+Epoch: 151, Step: 180, Train loss: 0.0177, Training acc: 0.9951
+Epoch: 151, Step: 270, Train loss: 0.0171, Training acc: 0.9954
+Epoch: 151, Step: 360, Train loss: 0.0168, Training acc: 0.9956
+Epoch: 151, Test loss: 0.0865, Test acc: 0.9735, Current best: 0.9745
+Epoch: 152, Step: 0, Train loss: 0.0167, Training acc: 0.9922
+Epoch: 152, Step: 90, Train loss: 0.0172, Training acc: 0.9944
+Epoch: 152, Step: 180, Train loss: 0.0173, Training acc: 0.9946
+Epoch: 152, Step: 270, Train loss: 0.0173, Training acc: 0.9946
+Epoch: 152, Step: 360, Train loss: 0.0175, Training acc: 0.9947
+Epoch: 152, Test loss: 0.0857, Test acc: 0.9738, Current best: 0.9745
+Epoch: 153, Step: 0, Train loss: 0.0105, Training acc: 1.0000
+Epoch: 153, Step: 90, Train loss: 0.0176, Training acc: 0.9945
+Epoch: 153, Step: 180, Train loss: 0.0174, Training acc: 0.9948
+Epoch: 153, Step: 270, Train loss: 0.0180, Training acc: 0.9946
+Epoch: 153, Step: 360, Train loss: 0.0176, Training acc: 0.9947
+Epoch: 153, Test loss: 0.0863, Test acc: 0.9737, Current best: 0.9745
+Epoch: 154, Step: 0, Train loss: 0.0280, Training acc: 0.9922
+Epoch: 154, Step: 90, Train loss: 0.0180, Training acc: 0.9948
+Epoch: 154, Step: 180, Train loss: 0.0176, Training acc: 0.9946
+Epoch: 154, Step: 270, Train loss: 0.0179, Training acc: 0.9944
+Epoch: 154, Step: 360, Train loss: 0.0180, Training acc: 0.9944
+Epoch: 154, Test loss: 0.0860, Test acc: 0.9743, Current best: 0.9745
+Epoch: 155, Step: 0, Train loss: 0.0071, Training acc: 1.0000
+Epoch: 155, Step: 90, Train loss: 0.0169, Training acc: 0.9950
+Epoch: 155, Step: 180, Train loss: 0.0173, Training acc: 0.9949
+Epoch: 155, Step: 270, Train loss: 0.0174, Training acc: 0.9948
+Epoch: 155, Step: 360, Train loss: 0.0172, Training acc: 0.9950
+Epoch: 155, Test loss: 0.0863, Test acc: 0.9744, Current best: 0.9745
+Epoch: 156, Step: 0, Train loss: 0.0175, Training acc: 1.0000
+Epoch: 156, Step: 90, Train loss: 0.0180, Training acc: 0.9950
+Epoch: 156, Step: 180, Train loss: 0.0185, Training acc: 0.9946
+Epoch: 156, Step: 270, Train loss: 0.0184, Training acc: 0.9950
+Epoch: 156, Step: 360, Train loss: 0.0173, Training acc: 0.9952
+Epoch: 156, Test loss: 0.0859, Test acc: 0.9744, Current best: 0.9745
+Epoch: 157, Step: 0, Train loss: 0.0114, Training acc: 1.0000
+Epoch: 157, Step: 90, Train loss: 0.0159, Training acc: 0.9954
+Epoch: 157, Step: 180, Train loss: 0.0165, Training acc: 0.9953
+Epoch: 157, Step: 270, Train loss: 0.0165, Training acc: 0.9953
+Epoch: 157, Step: 360, Train loss: 0.0176, Training acc: 0.9948
+Epoch: 157, Test loss: 0.0866, Test acc: 0.9732, Current best: 0.9745
+Epoch: 158, Step: 0, Train loss: 0.0021, Training acc: 1.0000
+Epoch: 158, Step: 90, Train loss: 0.0196, Training acc: 0.9939
+Epoch: 158, Step: 180, Train loss: 0.0193, Training acc: 0.9942
+Epoch: 158, Step: 270, Train loss: 0.0183, Training acc: 0.9946
+Epoch: 158, Step: 360, Train loss: 0.0182, Training acc: 0.9946
+Epoch: 158, Test loss: 0.0864, Test acc: 0.9746, Current best: 0.9746
+Epoch: 159, Step: 0, Train loss: 0.0433, Training acc: 0.9766
+Epoch: 159, Step: 90, Train loss: 0.0153, Training acc: 0.9954
+Epoch: 159, Step: 180, Train loss: 0.0171, Training acc: 0.9946
+Epoch: 159, Step: 270, Train loss: 0.0171, Training acc: 0.9948
+Epoch: 159, Step: 360, Train loss: 0.0174, Training acc: 0.9948
+Epoch: 159, Test loss: 0.0852, Test acc: 0.9746, Current best: 0.9746
+Epoch: 160, Step: 0, Train loss: 0.0374, Training acc: 0.9922
+Epoch: 160, Step: 90, Train loss: 0.0149, Training acc: 0.9962
+Epoch: 160, Step: 180, Train loss: 0.0164, Training acc: 0.9956
+Epoch: 160, Step: 270, Train loss: 0.0164, Training acc: 0.9954
+Epoch: 160, Step: 360, Train loss: 0.0165, Training acc: 0.9953
+Epoch: 160, Test loss: 0.0861, Test acc: 0.9740, Current best: 0.9746
+Epoch: 161, Step: 0, Train loss: 0.0122, Training acc: 1.0000
+Epoch: 161, Step: 90, Train loss: 0.0183, Training acc: 0.9939
+Epoch: 161, Step: 180, Train loss: 0.0192, Training acc: 0.9936
+Epoch: 161, Step: 270, Train loss: 0.0187, Training acc: 0.9940
+Epoch: 161, Step: 360, Train loss: 0.0180, Training acc: 0.9944
+Epoch: 161, Test loss: 0.0856, Test acc: 0.9743, Current best: 0.9746
+Epoch: 162, Step: 0, Train loss: 0.0121, Training acc: 0.9922
+Epoch: 162, Step: 90, Train loss: 0.0158, Training acc: 0.9948
+Epoch: 162, Step: 180, Train loss: 0.0176, Training acc: 0.9943
+Epoch: 162, Step: 270, Train loss: 0.0178, Training acc: 0.9945
+Epoch: 162, Step: 360, Train loss: 0.0178, Training acc: 0.9946
+Epoch: 162, Test loss: 0.0861, Test acc: 0.9741, Current best: 0.9746
+Epoch: 163, Step: 0, Train loss: 0.0107, Training acc: 1.0000
+Epoch: 163, Step: 90, Train loss: 0.0157, Training acc: 0.9958
+Epoch: 163, Step: 180, Train loss: 0.0170, Training acc: 0.9954
+Epoch: 163, Step: 270, Train loss: 0.0166, Training acc: 0.9954
+Epoch: 163, Step: 360, Train loss: 0.0166, Training acc: 0.9954
+Epoch: 163, Test loss: 0.0866, Test acc: 0.9742, Current best: 0.9746
+Epoch: 164, Step: 0, Train loss: 0.0127, Training acc: 0.9922
+Epoch: 164, Step: 90, Train loss: 0.0177, Training acc: 0.9947
+Epoch: 164, Step: 180, Train loss: 0.0172, Training acc: 0.9948
+Epoch: 164, Step: 270, Train loss: 0.0168, Training acc: 0.9949
+Epoch: 164, Step: 360, Train loss: 0.0166, Training acc: 0.9950
+Epoch: 164, Test loss: 0.0862, Test acc: 0.9745, Current best: 0.9746
+Epoch: 165, Step: 0, Train loss: 0.0059, Training acc: 1.0000
+Epoch: 165, Step: 90, Train loss: 0.0166, Training acc: 0.9952
+Epoch: 165, Step: 180, Train loss: 0.0160, Training acc: 0.9955
+Epoch: 165, Step: 270, Train loss: 0.0164, Training acc: 0.9954
+Epoch: 165, Step: 360, Train loss: 0.0169, Training acc: 0.9950
+Epoch: 165, Test loss: 0.0861, Test acc: 0.9747, Current best: 0.9747
+Epoch: 166, Step: 0, Train loss: 0.0264, Training acc: 0.9844
+Epoch: 166, Step: 90, Train loss: 0.0171, Training acc: 0.9949
+Epoch: 166, Step: 180, Train loss: 0.0184, Training acc: 0.9941
+Epoch: 166, Step: 270, Train loss: 0.0172, Training acc: 0.9946
+Epoch: 166, Step: 360, Train loss: 0.0171, Training acc: 0.9947
+Epoch: 166, Test loss: 0.0860, Test acc: 0.9740, Current best: 0.9747
+Epoch: 167, Step: 0, Train loss: 0.0068, Training acc: 1.0000
+Epoch: 167, Step: 90, Train loss: 0.0166, Training acc: 0.9950
+Epoch: 167, Step: 180, Train loss: 0.0171, Training acc: 0.9945
+Epoch: 167, Step: 270, Train loss: 0.0173, Training acc: 0.9946
+Epoch: 167, Step: 360, Train loss: 0.0169, Training acc: 0.9948
+Epoch: 167, Test loss: 0.0862, Test acc: 0.9748, Current best: 0.9748
+Epoch: 168, Step: 0, Train loss: 0.0288, Training acc: 0.9922
+Epoch: 168, Step: 90, Train loss: 0.0188, Training acc: 0.9937
+Epoch: 168, Step: 180, Train loss: 0.0182, Training acc: 0.9945
+Epoch: 168, Step: 270, Train loss: 0.0169, Training acc: 0.9950
+Epoch: 168, Step: 360, Train loss: 0.0162, Training acc: 0.9952
+Epoch: 168, Test loss: 0.0863, Test acc: 0.9744, Current best: 0.9748
+Epoch: 169, Step: 0, Train loss: 0.0130, Training acc: 1.0000
+Epoch: 169, Step: 90, Train loss: 0.0168, Training acc: 0.9955
+Epoch: 169, Step: 180, Train loss: 0.0159, Training acc: 0.9953
+Epoch: 169, Step: 270, Train loss: 0.0168, Training acc: 0.9950
+Epoch: 169, Step: 360, Train loss: 0.0167, Training acc: 0.9949
+Epoch: 169, Test loss: 0.0858, Test acc: 0.9743, Current best: 0.9748
+Epoch: 170, Step: 0, Train loss: 0.0048, Training acc: 1.0000
+Epoch: 170, Step: 90, Train loss: 0.0150, Training acc: 0.9954
+Epoch: 170, Step: 180, Train loss: 0.0157, Training acc: 0.9953
+Epoch: 170, Step: 270, Train loss: 0.0165, Training acc: 0.9950
+Epoch: 170, Step: 360, Train loss: 0.0168, Training acc: 0.9951
+Epoch: 170, Test loss: 0.0870, Test acc: 0.9743, Current best: 0.9748
+Epoch: 171, Step: 0, Train loss: 0.0104, Training acc: 0.9922
+Epoch: 171, Step: 90, Train loss: 0.0155, Training acc: 0.9956
+Epoch: 171, Step: 180, Train loss: 0.0159, Training acc: 0.9954
+Epoch: 171, Step: 270, Train loss: 0.0162, Training acc: 0.9954
+Epoch: 171, Step: 360, Train loss: 0.0163, Training acc: 0.9954
+Epoch: 171, Test loss: 0.0859, Test acc: 0.9749, Current best: 0.9749
+Epoch: 172, Step: 0, Train loss: 0.0284, Training acc: 0.9922
+Epoch: 172, Step: 90, Train loss: 0.0151, Training acc: 0.9957
+Epoch: 172, Step: 180, Train loss: 0.0163, Training acc: 0.9950
+Epoch: 172, Step: 270, Train loss: 0.0162, Training acc: 0.9950
+Epoch: 172, Step: 360, Train loss: 0.0162, Training acc: 0.9951
+Epoch: 172, Test loss: 0.0862, Test acc: 0.9747, Current best: 0.9749
+Epoch: 173, Step: 0, Train loss: 0.0215, Training acc: 0.9922
+Epoch: 173, Step: 90, Train loss: 0.0153, Training acc: 0.9949
+Epoch: 173, Step: 180, Train loss: 0.0162, Training acc: 0.9949
+Epoch: 173, Step: 270, Train loss: 0.0165, Training acc: 0.9949
+Epoch: 173, Step: 360, Train loss: 0.0170, Training acc: 0.9948
+Epoch: 173, Test loss: 0.0857, Test acc: 0.9742, Current best: 0.9749
+Epoch: 174, Step: 0, Train loss: 0.0512, Training acc: 0.9766
+Epoch: 174, Step: 90, Train loss: 0.0170, Training acc: 0.9948
+Epoch: 174, Step: 180, Train loss: 0.0174, Training acc: 0.9947
+Epoch: 174, Step: 270, Train loss: 0.0174, Training acc: 0.9945
+Epoch: 174, Step: 360, Train loss: 0.0178, Training acc: 0.9942
+Epoch: 174, Test loss: 0.0861, Test acc: 0.9741, Current best: 0.9749
+Epoch: 175, Step: 0, Train loss: 0.0132, Training acc: 1.0000
+Epoch: 175, Step: 90, Train loss: 0.0165, Training acc: 0.9954
+Epoch: 175, Step: 180, Train loss: 0.0156, Training acc: 0.9956
+Epoch: 175, Step: 270, Train loss: 0.0167, Training acc: 0.9954
+Epoch: 175, Step: 360, Train loss: 0.0173, Training acc: 0.9949
+Epoch: 175, Test loss: 0.0861, Test acc: 0.9738, Current best: 0.9749
+Epoch: 176, Step: 0, Train loss: 0.0023, Training acc: 1.0000
+Epoch: 176, Step: 90, Train loss: 0.0174, Training acc: 0.9939
+Epoch: 176, Step: 180, Train loss: 0.0173, Training acc: 0.9942
+Epoch: 176, Step: 270, Train loss: 0.0172, Training acc: 0.9943
+Epoch: 176, Step: 360, Train loss: 0.0171, Training acc: 0.9944
+Epoch: 176, Test loss: 0.0859, Test acc: 0.9747, Current best: 0.9749
+Epoch: 177, Step: 0, Train loss: 0.0136, Training acc: 0.9922
+Epoch: 177, Step: 90, Train loss: 0.0165, Training acc: 0.9955
+Epoch: 177, Step: 180, Train loss: 0.0151, Training acc: 0.9960
+Epoch: 177, Step: 270, Train loss: 0.0160, Training acc: 0.9958
+Epoch: 177, Step: 360, Train loss: 0.0162, Training acc: 0.9956
+Epoch: 177, Test loss: 0.0856, Test acc: 0.9747, Current best: 0.9749
+Epoch: 178, Step: 0, Train loss: 0.0053, Training acc: 1.0000
+Epoch: 178, Step: 90, Train loss: 0.0163, Training acc: 0.9954
+Epoch: 178, Step: 180, Train loss: 0.0159, Training acc: 0.9956
+Epoch: 178, Step: 270, Train loss: 0.0159, Training acc: 0.9955
+Epoch: 178, Step: 360, Train loss: 0.0163, Training acc: 0.9953
+Epoch: 178, Test loss: 0.0855, Test acc: 0.9748, Current best: 0.9749
+Epoch: 179, Step: 0, Train loss: 0.0090, Training acc: 1.0000
+Epoch: 179, Step: 90, Train loss: 0.0124, Training acc: 0.9967
+Epoch: 179, Step: 180, Train loss: 0.0152, Training acc: 0.9955
+Epoch: 179, Step: 270, Train loss: 0.0162, Training acc: 0.9950
+Epoch: 179, Step: 360, Train loss: 0.0164, Training acc: 0.9949
+Epoch: 179, Test loss: 0.0859, Test acc: 0.9740, Current best: 0.9749
+Epoch: 180, Step: 0, Train loss: 0.0098, Training acc: 1.0000
+Epoch: 180, Step: 90, Train loss: 0.0153, Training acc: 0.9954
+Epoch: 180, Step: 180, Train loss: 0.0166, Training acc: 0.9951
+Epoch: 180, Step: 270, Train loss: 0.0160, Training acc: 0.9954
+Epoch: 180, Step: 360, Train loss: 0.0160, Training acc: 0.9953
+Epoch: 180, Test loss: 0.0862, Test acc: 0.9748, Current best: 0.9749
+Epoch: 181, Step: 0, Train loss: 0.0125, Training acc: 1.0000
+Epoch: 181, Step: 90, Train loss: 0.0155, Training acc: 0.9950
+Epoch: 181, Step: 180, Train loss: 0.0171, Training acc: 0.9944
+Epoch: 181, Step: 270, Train loss: 0.0169, Training acc: 0.9947
+Epoch: 181, Step: 360, Train loss: 0.0163, Training acc: 0.9950
+Epoch: 181, Test loss: 0.0862, Test acc: 0.9749, Current best: 0.9749
+Epoch: 182, Step: 0, Train loss: 0.0058, Training acc: 1.0000
+Epoch: 182, Step: 90, Train loss: 0.0162, Training acc: 0.9953
+Epoch: 182, Step: 180, Train loss: 0.0165, Training acc: 0.9951
+Epoch: 182, Step: 270, Train loss: 0.0164, Training acc: 0.9952
+Epoch: 182, Step: 360, Train loss: 0.0166, Training acc: 0.9949
+Epoch: 182, Test loss: 0.0864, Test acc: 0.9739, Current best: 0.9749
+Epoch: 183, Step: 0, Train loss: 0.0047, Training acc: 1.0000
+Epoch: 183, Step: 90, Train loss: 0.0134, Training acc: 0.9961
+Epoch: 183, Step: 180, Train loss: 0.0144, Training acc: 0.9958
+Epoch: 183, Step: 270, Train loss: 0.0154, Training acc: 0.9954
+Epoch: 183, Step: 360, Train loss: 0.0163, Training acc: 0.9950
+Epoch: 183, Test loss: 0.0859, Test acc: 0.9740, Current best: 0.9749
+Epoch: 184, Step: 0, Train loss: 0.0095, Training acc: 1.0000
+Epoch: 184, Step: 90, Train loss: 0.0190, Training acc: 0.9944
+Epoch: 184, Step: 180, Train loss: 0.0184, Training acc: 0.9945
+Epoch: 184, Step: 270, Train loss: 0.0178, Training acc: 0.9946
+Epoch: 184, Step: 360, Train loss: 0.0176, Training acc: 0.9946
+Epoch: 184, Test loss: 0.0865, Test acc: 0.9744, Current best: 0.9749
+Epoch: 185, Step: 0, Train loss: 0.0106, Training acc: 1.0000
+Epoch: 185, Step: 90, Train loss: 0.0151, Training acc: 0.9960
+Epoch: 185, Step: 180, Train loss: 0.0157, Training acc: 0.9959
+Epoch: 185, Step: 270, Train loss: 0.0158, Training acc: 0.9957
+Epoch: 185, Step: 360, Train loss: 0.0155, Training acc: 0.9957
+Epoch: 185, Test loss: 0.0861, Test acc: 0.9740, Current best: 0.9749
+Epoch: 186, Step: 0, Train loss: 0.0079, Training acc: 1.0000
+Epoch: 186, Step: 90, Train loss: 0.0175, Training acc: 0.9942
+Epoch: 186, Step: 180, Train loss: 0.0156, Training acc: 0.9952
+Epoch: 186, Step: 270, Train loss: 0.0157, Training acc: 0.9952
+Epoch: 186, Step: 360, Train loss: 0.0164, Training acc: 0.9950
+Epoch: 186, Test loss: 0.0861, Test acc: 0.9746, Current best: 0.9749
+Epoch: 187, Step: 0, Train loss: 0.0216, Training acc: 0.9922
+Epoch: 187, Step: 90, Train loss: 0.0173, Training acc: 0.9948
+Epoch: 187, Step: 180, Train loss: 0.0168, Training acc: 0.9950
+Epoch: 187, Step: 270, Train loss: 0.0169, Training acc: 0.9953
+Epoch: 187, Step: 360, Train loss: 0.0166, Training acc: 0.9953
+Epoch: 187, Test loss: 0.0859, Test acc: 0.9744, Current best: 0.9749
+Epoch: 188, Step: 0, Train loss: 0.0080, Training acc: 1.0000
+Epoch: 188, Step: 90, Train loss: 0.0151, Training acc: 0.9954
+Epoch: 188, Step: 180, Train loss: 0.0164, Training acc: 0.9949
+Epoch: 188, Step: 270, Train loss: 0.0165, Training acc: 0.9949
+Epoch: 188, Step: 360, Train loss: 0.0164, Training acc: 0.9950
+Epoch: 188, Test loss: 0.0861, Test acc: 0.9740, Current best: 0.9749
+Epoch: 189, Step: 0, Train loss: 0.0098, Training acc: 0.9922
+Epoch: 189, Step: 90, Train loss: 0.0158, Training acc: 0.9954
+Epoch: 189, Step: 180, Train loss: 0.0168, Training acc: 0.9948
+Epoch: 189, Step: 270, Train loss: 0.0164, Training acc: 0.9950
+Epoch: 189, Step: 360, Train loss: 0.0164, Training acc: 0.9953
+Epoch: 189, Test loss: 0.0867, Test acc: 0.9738, Current best: 0.9749
+Epoch: 190, Step: 0, Train loss: 0.0053, Training acc: 1.0000
+Epoch: 190, Step: 90, Train loss: 0.0161, Training acc: 0.9948
+Epoch: 190, Step: 180, Train loss: 0.0154, Training acc: 0.9954
+Epoch: 190, Step: 270, Train loss: 0.0156, Training acc: 0.9954
+Epoch: 190, Step: 360, Train loss: 0.0161, Training acc: 0.9950
+Epoch: 190, Test loss: 0.0859, Test acc: 0.9745, Current best: 0.9749
+Epoch: 191, Step: 0, Train loss: 0.0291, Training acc: 0.9844
+Epoch: 191, Step: 90, Train loss: 0.0165, Training acc: 0.9951
+Epoch: 191, Step: 180, Train loss: 0.0158, Training acc: 0.9955
+Epoch: 191, Step: 270, Train loss: 0.0154, Training acc: 0.9956
+Epoch: 191, Step: 360, Train loss: 0.0159, Training acc: 0.9953
+Epoch: 191, Test loss: 0.0865, Test acc: 0.9746, Current best: 0.9749
+Epoch: 192, Step: 0, Train loss: 0.0218, Training acc: 0.9922
+Epoch: 192, Step: 90, Train loss: 0.0162, Training acc: 0.9948
+Epoch: 192, Step: 180, Train loss: 0.0156, Training acc: 0.9955
+Epoch: 192, Step: 270, Train loss: 0.0158, Training acc: 0.9952
+Epoch: 192, Step: 360, Train loss: 0.0160, Training acc: 0.9952
+Epoch: 192, Test loss: 0.0862, Test acc: 0.9745, Current best: 0.9749
+Epoch: 193, Step: 0, Train loss: 0.0029, Training acc: 1.0000
+Epoch: 193, Step: 90, Train loss: 0.0158, Training acc: 0.9953
+Epoch: 193, Step: 180, Train loss: 0.0162, Training acc: 0.9953
+Epoch: 193, Step: 270, Train loss: 0.0165, Training acc: 0.9950
+Epoch: 193, Step: 360, Train loss: 0.0168, Training acc: 0.9947
+Epoch: 193, Test loss: 0.0866, Test acc: 0.9747, Current best: 0.9749
+Epoch: 194, Step: 0, Train loss: 0.0149, Training acc: 0.9922
+Epoch: 194, Step: 90, Train loss: 0.0167, Training acc: 0.9946
+Epoch: 194, Step: 180, Train loss: 0.0164, Training acc: 0.9951
+Epoch: 194, Step: 270, Train loss: 0.0166, Training acc: 0.9948
+Epoch: 194, Step: 360, Train loss: 0.0167, Training acc: 0.9947
+Epoch: 194, Test loss: 0.0860, Test acc: 0.9750, Current best: 0.9750
+Epoch: 195, Step: 0, Train loss: 0.0158, Training acc: 0.9922
+Epoch: 195, Step: 90, Train loss: 0.0155, Training acc: 0.9953
+Epoch: 195, Step: 180, Train loss: 0.0154, Training acc: 0.9955
+Epoch: 195, Step: 270, Train loss: 0.0158, Training acc: 0.9955
+Epoch: 195, Step: 360, Train loss: 0.0163, Training acc: 0.9953
+Epoch: 195, Test loss: 0.0867, Test acc: 0.9748, Current best: 0.9750
+Epoch: 196, Step: 0, Train loss: 0.0466, Training acc: 0.9922
+Epoch: 196, Step: 90, Train loss: 0.0171, Training acc: 0.9943
+Epoch: 196, Step: 180, Train loss: 0.0161, Training acc: 0.9949
+Epoch: 196, Step: 270, Train loss: 0.0164, Training acc: 0.9950
+Epoch: 196, Step: 360, Train loss: 0.0164, Training acc: 0.9950
+Epoch: 196, Test loss: 0.0863, Test acc: 0.9750, Current best: 0.9750
+Epoch: 197, Step: 0, Train loss: 0.0430, Training acc: 0.9844
+Epoch: 197, Step: 90, Train loss: 0.0175, Training acc: 0.9942
+Epoch: 197, Step: 180, Train loss: 0.0167, Training acc: 0.9949
+Epoch: 197, Step: 270, Train loss: 0.0159, Training acc: 0.9953
+Epoch: 197, Step: 360, Train loss: 0.0158, Training acc: 0.9954
+Epoch: 197, Test loss: 0.0865, Test acc: 0.9749, Current best: 0.9750
+Epoch: 198, Step: 0, Train loss: 0.0355, Training acc: 0.9922
+Epoch: 198, Step: 90, Train loss: 0.0170, Training acc: 0.9942
+Epoch: 198, Step: 180, Train loss: 0.0164, Training acc: 0.9948
+Epoch: 198, Step: 270, Train loss: 0.0164, Training acc: 0.9950
+Epoch: 198, Step: 360, Train loss: 0.0165, Training acc: 0.9951
+Epoch: 198, Test loss: 0.0861, Test acc: 0.9749, Current best: 0.9750
+Epoch: 199, Step: 0, Train loss: 0.0553, Training acc: 0.9844
+Epoch: 199, Step: 90, Train loss: 0.0198, Training acc: 0.9942
+Epoch: 199, Step: 180, Train loss: 0.0186, Training acc: 0.9945
+Epoch: 199, Step: 270, Train loss: 0.0179, Training acc: 0.9946
+Epoch: 199, Step: 360, Train loss: 0.0174, Training acc: 0.9947
+Epoch: 199, Test loss: 0.0864, Test acc: 0.9750, Current best: 0.9750
+Epoch: 200, Step: 0, Train loss: 0.0198, Training acc: 1.0000
+Epoch: 200, Step: 90, Train loss: 0.0157, Training acc: 0.9957
+Epoch: 200, Step: 180, Train loss: 0.0152, Training acc: 0.9957
+Epoch: 200, Step: 270, Train loss: 0.0150, Training acc: 0.9956
+Epoch: 200, Step: 360, Train loss: 0.0153, Training acc: 0.9954
+Epoch: 200, Test loss: 0.0868, Test acc: 0.9747, Current best: 0.9750
+Epoch: 201, Step: 0, Train loss: 0.0142, Training acc: 1.0000
+Epoch: 201, Step: 90, Train loss: 0.0173, Training acc: 0.9950
+Epoch: 201, Step: 180, Train loss: 0.0158, Training acc: 0.9956
+Epoch: 201, Step: 270, Train loss: 0.0159, Training acc: 0.9955
+Epoch: 201, Step: 360, Train loss: 0.0160, Training acc: 0.9955
+Epoch: 201, Test loss: 0.0864, Test acc: 0.9746, Current best: 0.9750
+Epoch: 202, Step: 0, Train loss: 0.0120, Training acc: 1.0000
+Epoch: 202, Step: 90, Train loss: 0.0180, Training acc: 0.9942
+Epoch: 202, Step: 180, Train loss: 0.0180, Training acc: 0.9943
+Epoch: 202, Step: 270, Train loss: 0.0171, Training acc: 0.9947
+Epoch: 202, Step: 360, Train loss: 0.0168, Training acc: 0.9947
+Epoch: 202, Test loss: 0.0861, Test acc: 0.9743, Current best: 0.9750
+Epoch: 203, Step: 0, Train loss: 0.0365, Training acc: 0.9844
+Epoch: 203, Step: 90, Train loss: 0.0174, Training acc: 0.9941
+Epoch: 203, Step: 180, Train loss: 0.0173, Training acc: 0.9943
+Epoch: 203, Step: 270, Train loss: 0.0175, Training acc: 0.9940
+Epoch: 203, Step: 360, Train loss: 0.0168, Training acc: 0.9943
+Epoch: 203, Test loss: 0.0862, Test acc: 0.9748, Current best: 0.9750
+Epoch: 204, Step: 0, Train loss: 0.0058, Training acc: 1.0000
+Epoch: 204, Step: 90, Train loss: 0.0171, Training acc: 0.9954
+Epoch: 204, Step: 180, Train loss: 0.0165, Training acc: 0.9952
+Epoch: 204, Step: 270, Train loss: 0.0163, Training acc: 0.9954
+Epoch: 204, Step: 360, Train loss: 0.0162, Training acc: 0.9952
+Epoch: 204, Test loss: 0.0864, Test acc: 0.9747, Current best: 0.9750
+Epoch: 205, Step: 0, Train loss: 0.0039, Training acc: 1.0000
+Epoch: 205, Step: 90, Train loss: 0.0168, Training acc: 0.9954
+Epoch: 205, Step: 180, Train loss: 0.0160, Training acc: 0.9954
+Epoch: 205, Step: 270, Train loss: 0.0153, Training acc: 0.9956
+Epoch: 205, Step: 360, Train loss: 0.0152, Training acc: 0.9957
+Epoch: 205, Test loss: 0.0863, Test acc: 0.9748, Current best: 0.9750
+Epoch: 206, Step: 0, Train loss: 0.0121, Training acc: 1.0000
+Epoch: 206, Step: 90, Train loss: 0.0166, Training acc: 0.9942
+Epoch: 206, Step: 180, Train loss: 0.0176, Training acc: 0.9943
+Epoch: 206, Step: 270, Train loss: 0.0174, Training acc: 0.9947
+Epoch: 206, Step: 360, Train loss: 0.0171, Training acc: 0.9948
+Epoch: 206, Test loss: 0.0863, Test acc: 0.9742, Current best: 0.9750
+Epoch: 207, Step: 0, Train loss: 0.0079, Training acc: 1.0000
+Epoch: 207, Step: 90, Train loss: 0.0152, Training acc: 0.9957
+Epoch: 207, Step: 180, Train loss: 0.0148, Training acc: 0.9957
+Epoch: 207, Step: 270, Train loss: 0.0147, Training acc: 0.9958
+Epoch: 207, Step: 360, Train loss: 0.0152, Training acc: 0.9956
+Epoch: 207, Test loss: 0.0866, Test acc: 0.9745, Current best: 0.9750
+Epoch: 208, Step: 0, Train loss: 0.0055, Training acc: 1.0000
+Epoch: 208, Step: 90, Train loss: 0.0182, Training acc: 0.9946
+Epoch: 208, Step: 180, Train loss: 0.0171, Training acc: 0.9948
+Epoch: 208, Step: 270, Train loss: 0.0168, Training acc: 0.9949
+Epoch: 208, Step: 360, Train loss: 0.0169, Training acc: 0.9947
+Epoch: 208, Test loss: 0.0865, Test acc: 0.9745, Current best: 0.9750
+Epoch: 209, Step: 0, Train loss: 0.0031, Training acc: 1.0000
+Epoch: 209, Step: 90, Train loss: 0.0145, Training acc: 0.9954
+Epoch: 209, Step: 180, Train loss: 0.0143, Training acc: 0.9956
+Epoch: 209, Step: 270, Train loss: 0.0149, Training acc: 0.9957
+Epoch: 209, Step: 360, Train loss: 0.0151, Training acc: 0.9957
+Epoch: 209, Test loss: 0.0866, Test acc: 0.9746, Current best: 0.9750
+Epoch: 210, Step: 0, Train loss: 0.0116, Training acc: 1.0000
+Epoch: 210, Step: 90, Train loss: 0.0131, Training acc: 0.9959
+Epoch: 210, Step: 180, Train loss: 0.0149, Training acc: 0.9953
+Epoch: 210, Step: 270, Train loss: 0.0155, Training acc: 0.9953
+Epoch: 210, Step: 360, Train loss: 0.0150, Training acc: 0.9953
+Epoch: 210, Test loss: 0.0869, Test acc: 0.9743, Current best: 0.9750
+Epoch: 211, Step: 0, Train loss: 0.0142, Training acc: 1.0000
+Epoch: 211, Step: 90, Train loss: 0.0141, Training acc: 0.9956
+Epoch: 211, Step: 180, Train loss: 0.0146, Training acc: 0.9954
+Epoch: 211, Step: 270, Train loss: 0.0137, Training acc: 0.9958
+Epoch: 211, Step: 360, Train loss: 0.0142, Training acc: 0.9958
+Epoch: 211, Test loss: 0.0863, Test acc: 0.9737, Current best: 0.9750
+Epoch: 212, Step: 0, Train loss: 0.0143, Training acc: 1.0000
+Epoch: 212, Step: 90, Train loss: 0.0165, Training acc: 0.9954
+Epoch: 212, Step: 180, Train loss: 0.0171, Training acc: 0.9953
+Epoch: 212, Step: 270, Train loss: 0.0166, Training acc: 0.9953
+Epoch: 212, Step: 360, Train loss: 0.0167, Training acc: 0.9953
+Epoch: 212, Test loss: 0.0866, Test acc: 0.9748, Current best: 0.9750
+Epoch: 213, Step: 0, Train loss: 0.0131, Training acc: 1.0000
+Epoch: 213, Step: 90, Train loss: 0.0160, Training acc: 0.9954
+Epoch: 213, Step: 180, Train loss: 0.0167, Training acc: 0.9951
+Epoch: 213, Step: 270, Train loss: 0.0156, Training acc: 0.9954
+Epoch: 213, Step: 360, Train loss: 0.0152, Training acc: 0.9955
+Epoch: 213, Test loss: 0.0872, Test acc: 0.9748, Current best: 0.9750
+Epoch: 214, Step: 0, Train loss: 0.0090, Training acc: 1.0000
+Epoch: 214, Step: 90, Train loss: 0.0162, Training acc: 0.9947
+Epoch: 214, Step: 180, Train loss: 0.0166, Training acc: 0.9948
+Epoch: 214, Step: 270, Train loss: 0.0165, Training acc: 0.9949
+Epoch: 214, Step: 360, Train loss: 0.0160, Training acc: 0.9951
+Epoch: 214, Test loss: 0.0865, Test acc: 0.9745, Current best: 0.9750
+Epoch: 215, Step: 0, Train loss: 0.0032, Training acc: 1.0000
+Epoch: 215, Step: 90, Train loss: 0.0167, Training acc: 0.9956
+Epoch: 215, Step: 180, Train loss: 0.0157, Training acc: 0.9962
+Epoch: 215, Step: 270, Train loss: 0.0159, Training acc: 0.9958
+Epoch: 215, Step: 360, Train loss: 0.0165, Training acc: 0.9954
+Epoch: 215, Test loss: 0.0861, Test acc: 0.9746, Current best: 0.9750
+Epoch: 216, Step: 0, Train loss: 0.0332, Training acc: 0.9844
+Epoch: 216, Step: 90, Train loss: 0.0154, Training acc: 0.9954
+Epoch: 216, Step: 180, Train loss: 0.0153, Training acc: 0.9956
+Epoch: 216, Step: 270, Train loss: 0.0152, Training acc: 0.9958
+Epoch: 216, Step: 360, Train loss: 0.0154, Training acc: 0.9956
+Epoch: 216, Test loss: 0.0859, Test acc: 0.9749, Current best: 0.9750
+Epoch: 217, Step: 0, Train loss: 0.0036, Training acc: 1.0000
+Epoch: 217, Step: 90, Train loss: 0.0173, Training acc: 0.9948
+Epoch: 217, Step: 180, Train loss: 0.0151, Training acc: 0.9958
+Epoch: 217, Step: 270, Train loss: 0.0155, Training acc: 0.9958
+Epoch: 217, Step: 360, Train loss: 0.0154, Training acc: 0.9957
+Epoch: 217, Test loss: 0.0862, Test acc: 0.9751, Current best: 0.9751
+Epoch: 218, Step: 0, Train loss: 0.0152, Training acc: 0.9922
+Epoch: 218, Step: 90, Train loss: 0.0140, Training acc: 0.9964
+Epoch: 218, Step: 180, Train loss: 0.0151, Training acc: 0.9960
+Epoch: 218, Step: 270, Train loss: 0.0154, Training acc: 0.9959
+Epoch: 218, Step: 360, Train loss: 0.0155, Training acc: 0.9958
+Epoch: 218, Test loss: 0.0865, Test acc: 0.9746, Current best: 0.9751
+Epoch: 219, Step: 0, Train loss: 0.0057, Training acc: 1.0000
+Epoch: 219, Step: 90, Train loss: 0.0163, Training acc: 0.9949
+Epoch: 219, Step: 180, Train loss: 0.0161, Training acc: 0.9953
+Epoch: 219, Step: 270, Train loss: 0.0154, Training acc: 0.9954
+Epoch: 219, Step: 360, Train loss: 0.0152, Training acc: 0.9954
+Epoch: 219, Test loss: 0.0871, Test acc: 0.9746, Current best: 0.9751
+Epoch: 220, Step: 0, Train loss: 0.0092, Training acc: 1.0000
+Epoch: 220, Step: 90, Train loss: 0.0173, Training acc: 0.9942
+Epoch: 220, Step: 180, Train loss: 0.0163, Training acc: 0.9946
+Epoch: 220, Step: 270, Train loss: 0.0162, Training acc: 0.9949
+Epoch: 220, Step: 360, Train loss: 0.0157, Training acc: 0.9952
+Epoch: 220, Test loss: 0.0867, Test acc: 0.9747, Current best: 0.9751
+Epoch: 221, Step: 0, Train loss: 0.0118, Training acc: 0.9922
+Epoch: 221, Step: 90, Train loss: 0.0169, Training acc: 0.9950
+Epoch: 221, Step: 180, Train loss: 0.0170, Training acc: 0.9950
+Epoch: 221, Step: 270, Train loss: 0.0168, Training acc: 0.9949
+Epoch: 221, Step: 360, Train loss: 0.0162, Training acc: 0.9952
+Epoch: 221, Test loss: 0.0864, Test acc: 0.9753, Current best: 0.9753
+Epoch: 222, Step: 0, Train loss: 0.0113, Training acc: 0.9922
+Epoch: 222, Step: 90, Train loss: 0.0155, Training acc: 0.9955
+Epoch: 222, Step: 180, Train loss: 0.0159, Training acc: 0.9952
+Epoch: 222, Step: 270, Train loss: 0.0168, Training acc: 0.9949
+Epoch: 222, Step: 360, Train loss: 0.0156, Training acc: 0.9953
+Epoch: 222, Test loss: 0.0870, Test acc: 0.9734, Current best: 0.9753
+Epoch: 223, Step: 0, Train loss: 0.0138, Training acc: 0.9922
+Epoch: 223, Step: 90, Train loss: 0.0184, Training acc: 0.9941
+Epoch: 223, Step: 180, Train loss: 0.0166, Training acc: 0.9951
+Epoch: 223, Step: 270, Train loss: 0.0170, Training acc: 0.9949
+Epoch: 223, Step: 360, Train loss: 0.0165, Training acc: 0.9949
+Epoch: 223, Test loss: 0.0868, Test acc: 0.9745, Current best: 0.9753
+Epoch: 224, Step: 0, Train loss: 0.0456, Training acc: 0.9844
+Epoch: 224, Step: 90, Train loss: 0.0169, Training acc: 0.9949
+Epoch: 224, Step: 180, Train loss: 0.0163, Training acc: 0.9953
+Epoch: 224, Step: 270, Train loss: 0.0160, Training acc: 0.9952
+Epoch: 224, Step: 360, Train loss: 0.0164, Training acc: 0.9951
+Epoch: 224, Test loss: 0.0863, Test acc: 0.9744, Current best: 0.9753
+Epoch: 225, Step: 0, Train loss: 0.0071, Training acc: 1.0000
+Epoch: 225, Step: 90, Train loss: 0.0142, Training acc: 0.9961
+Epoch: 225, Step: 180, Train loss: 0.0153, Training acc: 0.9956
+Epoch: 225, Step: 270, Train loss: 0.0158, Training acc: 0.9953
+Epoch: 225, Step: 360, Train loss: 0.0158, Training acc: 0.9953
+Epoch: 225, Test loss: 0.0870, Test acc: 0.9747, Current best: 0.9753
+Epoch: 226, Step: 0, Train loss: 0.0060, Training acc: 1.0000
+Epoch: 226, Step: 90, Train loss: 0.0168, Training acc: 0.9943
+Epoch: 226, Step: 180, Train loss: 0.0156, Training acc: 0.9948
+Epoch: 226, Step: 270, Train loss: 0.0155, Training acc: 0.9950
+Epoch: 226, Step: 360, Train loss: 0.0161, Training acc: 0.9948
+Epoch: 226, Test loss: 0.0863, Test acc: 0.9748, Current best: 0.9753
+Epoch: 227, Step: 0, Train loss: 0.0044, Training acc: 1.0000
+Epoch: 227, Step: 90, Train loss: 0.0125, Training acc: 0.9969
+Epoch: 227, Step: 180, Train loss: 0.0146, Training acc: 0.9962
+Epoch: 227, Step: 270, Train loss: 0.0147, Training acc: 0.9961
+Epoch: 227, Step: 360, Train loss: 0.0146, Training acc: 0.9962
+Epoch: 227, Test loss: 0.0867, Test acc: 0.9746, Current best: 0.9753
+Epoch: 228, Step: 0, Train loss: 0.0310, Training acc: 0.9844
+Epoch: 228, Step: 90, Train loss: 0.0146, Training acc: 0.9953
+Epoch: 228, Step: 180, Train loss: 0.0155, Training acc: 0.9953
+Epoch: 228, Step: 270, Train loss: 0.0154, Training acc: 0.9954
+Epoch: 228, Step: 360, Train loss: 0.0152, Training acc: 0.9955
+Epoch: 228, Test loss: 0.0862, Test acc: 0.9751, Current best: 0.9753
+Epoch: 229, Step: 0, Train loss: 0.0190, Training acc: 0.9922
+Epoch: 229, Step: 90, Train loss: 0.0170, Training acc: 0.9948
+Epoch: 229, Step: 180, Train loss: 0.0168, Training acc: 0.9948
+Epoch: 229, Step: 270, Train loss: 0.0161, Training acc: 0.9952
+Epoch: 229, Step: 360, Train loss: 0.0163, Training acc: 0.9951
+Epoch: 229, Test loss: 0.0868, Test acc: 0.9747, Current best: 0.9753
+Epoch: 230, Step: 0, Train loss: 0.0206, Training acc: 0.9922
+Epoch: 230, Step: 90, Train loss: 0.0168, Training acc: 0.9954
+Epoch: 230, Step: 180, Train loss: 0.0153, Training acc: 0.9960
+Epoch: 230, Step: 270, Train loss: 0.0154, Training acc: 0.9957
+Epoch: 230, Step: 360, Train loss: 0.0155, Training acc: 0.9955
+Epoch: 230, Test loss: 0.0866, Test acc: 0.9752, Current best: 0.9753
+Epoch: 231, Step: 0, Train loss: 0.0233, Training acc: 0.9922
+Epoch: 231, Step: 90, Train loss: 0.0155, Training acc: 0.9959
+Epoch: 231, Step: 180, Train loss: 0.0149, Training acc: 0.9957
+Epoch: 231, Step: 270, Train loss: 0.0161, Training acc: 0.9949
+Epoch: 231, Step: 360, Train loss: 0.0158, Training acc: 0.9952
+Epoch: 231, Test loss: 0.0865, Test acc: 0.9742, Current best: 0.9753
+Epoch: 232, Step: 0, Train loss: 0.0206, Training acc: 0.9922
+Epoch: 232, Step: 90, Train loss: 0.0149, Training acc: 0.9953
+Epoch: 232, Step: 180, Train loss: 0.0148, Training acc: 0.9957
+Epoch: 232, Step: 270, Train loss: 0.0147, Training acc: 0.9958
+Epoch: 232, Step: 360, Train loss: 0.0148, Training acc: 0.9957
+Epoch: 232, Test loss: 0.0866, Test acc: 0.9750, Current best: 0.9753
+Epoch: 233, Step: 0, Train loss: 0.0065, Training acc: 1.0000
+Epoch: 233, Step: 90, Train loss: 0.0178, Training acc: 0.9950
+Epoch: 233, Step: 180, Train loss: 0.0169, Training acc: 0.9949
+Epoch: 233, Step: 270, Train loss: 0.0173, Training acc: 0.9947
+Epoch: 233, Step: 360, Train loss: 0.0168, Training acc: 0.9950
+Epoch: 233, Test loss: 0.0863, Test acc: 0.9742, Current best: 0.9753
+Epoch: 234, Step: 0, Train loss: 0.0271, Training acc: 0.9844
+Epoch: 234, Step: 90, Train loss: 0.0167, Training acc: 0.9950
+Epoch: 234, Step: 180, Train loss: 0.0154, Training acc: 0.9957
+Epoch: 234, Step: 270, Train loss: 0.0145, Training acc: 0.9959
+Epoch: 234, Step: 360, Train loss: 0.0146, Training acc: 0.9957
+Epoch: 234, Test loss: 0.0866, Test acc: 0.9749, Current best: 0.9753
+Epoch: 235, Step: 0, Train loss: 0.0022, Training acc: 1.0000
+Epoch: 235, Step: 90, Train loss: 0.0169, Training acc: 0.9944
+Epoch: 235, Step: 180, Train loss: 0.0169, Training acc: 0.9948
+Epoch: 235, Step: 270, Train loss: 0.0160, Training acc: 0.9954
+Epoch: 235, Step: 360, Train loss: 0.0158, Training acc: 0.9955
+Epoch: 235, Test loss: 0.0866, Test acc: 0.9751, Current best: 0.9753
+Epoch: 236, Step: 0, Train loss: 0.0086, Training acc: 1.0000
+Epoch: 236, Step: 90, Train loss: 0.0153, Training acc: 0.9957
+Epoch: 236, Step: 180, Train loss: 0.0148, Training acc: 0.9960
+Epoch: 236, Step: 270, Train loss: 0.0147, Training acc: 0.9959
+Epoch: 236, Step: 360, Train loss: 0.0144, Training acc: 0.9958
+Epoch: 236, Test loss: 0.0867, Test acc: 0.9745, Current best: 0.9753
+Epoch: 237, Step: 0, Train loss: 0.0142, Training acc: 1.0000
+Epoch: 237, Step: 90, Train loss: 0.0145, Training acc: 0.9959
+Epoch: 237, Step: 180, Train loss: 0.0146, Training acc: 0.9959
+Epoch: 237, Step: 270, Train loss: 0.0148, Training acc: 0.9957
+Epoch: 237, Step: 360, Train loss: 0.0150, Training acc: 0.9957
+Epoch: 237, Test loss: 0.0862, Test acc: 0.9747, Current best: 0.9753
+Epoch: 238, Step: 0, Train loss: 0.0190, Training acc: 0.9922
+Epoch: 238, Step: 90, Train loss: 0.0144, Training acc: 0.9960
+Epoch: 238, Step: 180, Train loss: 0.0144, Training acc: 0.9960
+Epoch: 238, Step: 270, Train loss: 0.0151, Training acc: 0.9956
+Epoch: 238, Step: 360, Train loss: 0.0155, Training acc: 0.9954
+Epoch: 238, Test loss: 0.0864, Test acc: 0.9747, Current best: 0.9753
+Epoch: 239, Step: 0, Train loss: 0.0090, Training acc: 1.0000
+Epoch: 239, Step: 90, Train loss: 0.0134, Training acc: 0.9963
+Epoch: 239, Step: 180, Train loss: 0.0136, Training acc: 0.9957
+Epoch: 239, Step: 270, Train loss: 0.0133, Training acc: 0.9958
+Epoch: 239, Step: 360, Train loss: 0.0138, Training acc: 0.9955
+Epoch: 239, Test loss: 0.0864, Test acc: 0.9745, Current best: 0.9753
+Epoch: 240, Step: 0, Train loss: 0.0059, Training acc: 1.0000
+Epoch: 240, Step: 90, Train loss: 0.0136, Training acc: 0.9964
+Epoch: 240, Step: 180, Train loss: 0.0133, Training acc: 0.9964
+Epoch: 240, Step: 270, Train loss: 0.0141, Training acc: 0.9961
+Epoch: 240, Step: 360, Train loss: 0.0150, Training acc: 0.9957
+Epoch: 240, Test loss: 0.0859, Test acc: 0.9749, Current best: 0.9753
+Epoch: 241, Step: 0, Train loss: 0.0057, Training acc: 1.0000
+Epoch: 241, Step: 90, Train loss: 0.0169, Training acc: 0.9954
+Epoch: 241, Step: 180, Train loss: 0.0153, Training acc: 0.9958
+Epoch: 241, Step: 270, Train loss: 0.0151, Training acc: 0.9957
+Epoch: 241, Step: 360, Train loss: 0.0156, Training acc: 0.9957
+Epoch: 241, Test loss: 0.0864, Test acc: 0.9743, Current best: 0.9753
+Epoch: 242, Step: 0, Train loss: 0.0119, Training acc: 1.0000
+Epoch: 242, Step: 90, Train loss: 0.0163, Training acc: 0.9953
+Epoch: 242, Step: 180, Train loss: 0.0155, Training acc: 0.9956
+Epoch: 242, Step: 270, Train loss: 0.0151, Training acc: 0.9956
+Epoch: 242, Step: 360, Train loss: 0.0149, Training acc: 0.9957
+Epoch: 242, Test loss: 0.0864, Test acc: 0.9741, Current best: 0.9753
+Epoch: 243, Step: 0, Train loss: 0.0036, Training acc: 1.0000
+Epoch: 243, Step: 90, Train loss: 0.0142, Training acc: 0.9954
+Epoch: 243, Step: 180, Train loss: 0.0149, Training acc: 0.9952
+Epoch: 243, Step: 270, Train loss: 0.0152, Training acc: 0.9952
+Epoch: 243, Step: 360, Train loss: 0.0152, Training acc: 0.9951
+Epoch: 243, Test loss: 0.0868, Test acc: 0.9743, Current best: 0.9753
+Epoch: 244, Step: 0, Train loss: 0.0163, Training acc: 0.9922
+Epoch: 244, Step: 90, Train loss: 0.0149, Training acc: 0.9964
+Epoch: 244, Step: 180, Train loss: 0.0152, Training acc: 0.9958
+Epoch: 244, Step: 270, Train loss: 0.0145, Training acc: 0.9959
+Epoch: 244, Step: 360, Train loss: 0.0145, Training acc: 0.9958
+Epoch: 244, Test loss: 0.0866, Test acc: 0.9744, Current best: 0.9753
+Epoch: 245, Step: 0, Train loss: 0.0082, Training acc: 1.0000
+Epoch: 245, Step: 90, Train loss: 0.0148, Training acc: 0.9963
+Epoch: 245, Step: 180, Train loss: 0.0139, Training acc: 0.9964
+Epoch: 245, Step: 270, Train loss: 0.0140, Training acc: 0.9961
+Epoch: 245, Step: 360, Train loss: 0.0144, Training acc: 0.9959
+Epoch: 245, Test loss: 0.0863, Test acc: 0.9742, Current best: 0.9753
+Epoch: 246, Step: 0, Train loss: 0.0106, Training acc: 1.0000
+Epoch: 246, Step: 90, Train loss: 0.0162, Training acc: 0.9951
+Epoch: 246, Step: 180, Train loss: 0.0157, Training acc: 0.9953
+Epoch: 246, Step: 270, Train loss: 0.0155, Training acc: 0.9953
+Epoch: 246, Step: 360, Train loss: 0.0152, Training acc: 0.9955
+Epoch: 246, Test loss: 0.0867, Test acc: 0.9741, Current best: 0.9753
+Epoch: 247, Step: 0, Train loss: 0.0037, Training acc: 1.0000
+Epoch: 247, Step: 90, Train loss: 0.0138, Training acc: 0.9955
+Epoch: 247, Step: 180, Train loss: 0.0146, Training acc: 0.9956
+Epoch: 247, Step: 270, Train loss: 0.0148, Training acc: 0.9956
+Epoch: 247, Step: 360, Train loss: 0.0148, Training acc: 0.9956
+Epoch: 247, Test loss: 0.0868, Test acc: 0.9742, Current best: 0.9753
+Epoch: 248, Step: 0, Train loss: 0.0054, Training acc: 1.0000
+Epoch: 248, Step: 90, Train loss: 0.0148, Training acc: 0.9960
+Epoch: 248, Step: 180, Train loss: 0.0135, Training acc: 0.9962
+Epoch: 248, Step: 270, Train loss: 0.0145, Training acc: 0.9959
+Epoch: 248, Step: 360, Train loss: 0.0150, Training acc: 0.9956
+Epoch: 248, Test loss: 0.0864, Test acc: 0.9742, Current best: 0.9753
+Epoch: 249, Step: 0, Train loss: 0.0143, Training acc: 1.0000
+Epoch: 249, Step: 90, Train loss: 0.0153, Training acc: 0.9961
+Epoch: 249, Step: 180, Train loss: 0.0157, Training acc: 0.9954
+Epoch: 249, Step: 270, Train loss: 0.0163, Training acc: 0.9951
+Epoch: 249, Step: 360, Train loss: 0.0157, Training acc: 0.9953
+Epoch: 249, Test loss: 0.0864, Test acc: 0.9749, Current best: 0.9753
+Epoch: 250, Step: 0, Train loss: 0.0112, Training acc: 0.9922
+Epoch: 250, Step: 90, Train loss: 0.0122, Training acc: 0.9966
+Epoch: 250, Step: 180, Train loss: 0.0131, Training acc: 0.9963
+Epoch: 250, Step: 270, Train loss: 0.0136, Training acc: 0.9962
+Epoch: 250, Step: 360, Train loss: 0.0140, Training acc: 0.9961
+Epoch: 250, Test loss: 0.0868, Test acc: 0.9746, Current best: 0.9753
+Epoch: 251, Step: 0, Train loss: 0.0041, Training acc: 1.0000
+Epoch: 251, Step: 90, Train loss: 0.0173, Training acc: 0.9951
+Epoch: 251, Step: 180, Train loss: 0.0169, Training acc: 0.9953
+Epoch: 251, Step: 270, Train loss: 0.0160, Training acc: 0.9953
+Epoch: 251, Step: 360, Train loss: 0.0152, Training acc: 0.9957
+Epoch: 251, Test loss: 0.0864, Test acc: 0.9748, Current best: 0.9753
+Epoch: 252, Step: 0, Train loss: 0.0559, Training acc: 0.9922
+Epoch: 252, Step: 90, Train loss: 0.0166, Training acc: 0.9960
+Epoch: 252, Step: 180, Train loss: 0.0157, Training acc: 0.9962
+Epoch: 252, Step: 270, Train loss: 0.0162, Training acc: 0.9960
+Epoch: 252, Step: 360, Train loss: 0.0157, Training acc: 0.9959
+Epoch: 252, Test loss: 0.0869, Test acc: 0.9749, Current best: 0.9753
+Epoch: 253, Step: 0, Train loss: 0.0441, Training acc: 0.9922
+Epoch: 253, Step: 90, Train loss: 0.0172, Training acc: 0.9949
+Epoch: 253, Step: 180, Train loss: 0.0170, Training acc: 0.9949
+Epoch: 253, Step: 270, Train loss: 0.0160, Training acc: 0.9955
+Epoch: 253, Step: 360, Train loss: 0.0156, Training acc: 0.9956
+Epoch: 253, Test loss: 0.0866, Test acc: 0.9741, Current best: 0.9753
+Epoch: 254, Step: 0, Train loss: 0.0093, Training acc: 0.9922
+Epoch: 254, Step: 90, Train loss: 0.0160, Training acc: 0.9961
+Epoch: 254, Step: 180, Train loss: 0.0153, Training acc: 0.9959
+Epoch: 254, Step: 270, Train loss: 0.0153, Training acc: 0.9958
+Epoch: 254, Step: 360, Train loss: 0.0152, Training acc: 0.9958
+Epoch: 254, Test loss: 0.0865, Test acc: 0.9753, Current best: 0.9753
+Epoch: 255, Step: 0, Train loss: 0.0161, Training acc: 0.9922
+Epoch: 255, Step: 90, Train loss: 0.0158, Training acc: 0.9960
+Epoch: 255, Step: 180, Train loss: 0.0154, Training acc: 0.9959
+Epoch: 255, Step: 270, Train loss: 0.0152, Training acc: 0.9959
+Epoch: 255, Step: 360, Train loss: 0.0152, Training acc: 0.9958
+Epoch: 255, Test loss: 0.0864, Test acc: 0.9747, Current best: 0.9753
+Epoch: 256, Step: 0, Train loss: 0.0086, Training acc: 1.0000
+Epoch: 256, Step: 90, Train loss: 0.0174, Training acc: 0.9948
+Epoch: 256, Step: 180, Train loss: 0.0163, Training acc: 0.9952
+Epoch: 256, Step: 270, Train loss: 0.0163, Training acc: 0.9951
+Epoch: 256, Step: 360, Train loss: 0.0163, Training acc: 0.9953
+Epoch: 256, Test loss: 0.0865, Test acc: 0.9748, Current best: 0.9753
+Epoch: 257, Step: 0, Train loss: 0.0092, Training acc: 1.0000
+Epoch: 257, Step: 90, Train loss: 0.0132, Training acc: 0.9963
+Epoch: 257, Step: 180, Train loss: 0.0133, Training acc: 0.9963
+Epoch: 257, Step: 270, Train loss: 0.0138, Training acc: 0.9960
+Epoch: 257, Step: 360, Train loss: 0.0140, Training acc: 0.9960
+Epoch: 257, Test loss: 0.0867, Test acc: 0.9745, Current best: 0.9753
+Epoch: 258, Step: 0, Train loss: 0.0039, Training acc: 1.0000
+Epoch: 258, Step: 90, Train loss: 0.0140, Training acc: 0.9954
+Epoch: 258, Step: 180, Train loss: 0.0143, Training acc: 0.9957
+Epoch: 258, Step: 270, Train loss: 0.0148, Training acc: 0.9955
+Epoch: 258, Step: 360, Train loss: 0.0151, Training acc: 0.9954
+Epoch: 258, Test loss: 0.0863, Test acc: 0.9749, Current best: 0.9753
+Epoch: 259, Step: 0, Train loss: 0.0295, Training acc: 0.9922
+Epoch: 259, Step: 90, Train loss: 0.0136, Training acc: 0.9963
+Epoch: 259, Step: 180, Train loss: 0.0143, Training acc: 0.9959
+Epoch: 259, Step: 270, Train loss: 0.0141, Training acc: 0.9960
+Epoch: 259, Step: 360, Train loss: 0.0142, Training acc: 0.9961
+Epoch: 259, Test loss: 0.0861, Test acc: 0.9750, Current best: 0.9753
+Epoch: 260, Step: 0, Train loss: 0.0371, Training acc: 0.9922
+Epoch: 260, Step: 90, Train loss: 0.0169, Training acc: 0.9948
+Epoch: 260, Step: 180, Train loss: 0.0170, Training acc: 0.9947
+Epoch: 260, Step: 270, Train loss: 0.0162, Training acc: 0.9951
+Epoch: 260, Step: 360, Train loss: 0.0153, Training acc: 0.9954
+Epoch: 260, Test loss: 0.0858, Test acc: 0.9750, Current best: 0.9753
+Epoch: 261, Step: 0, Train loss: 0.0029, Training acc: 1.0000
+Epoch: 261, Step: 90, Train loss: 0.0142, Training acc: 0.9959
+Epoch: 261, Step: 180, Train loss: 0.0159, Training acc: 0.9956
+Epoch: 261, Step: 270, Train loss: 0.0150, Training acc: 0.9959
+Epoch: 261, Step: 360, Train loss: 0.0145, Training acc: 0.9960
+Epoch: 261, Test loss: 0.0863, Test acc: 0.9746, Current best: 0.9753
+Epoch: 262, Step: 0, Train loss: 0.0124, Training acc: 1.0000
+Epoch: 262, Step: 90, Train loss: 0.0158, Training acc: 0.9947
+Epoch: 262, Step: 180, Train loss: 0.0155, Training acc: 0.9953
+Epoch: 262, Step: 270, Train loss: 0.0150, Training acc: 0.9955
+Epoch: 262, Step: 360, Train loss: 0.0152, Training acc: 0.9955
+Epoch: 262, Test loss: 0.0863, Test acc: 0.9737, Current best: 0.9753
+Epoch: 263, Step: 0, Train loss: 0.0544, Training acc: 0.9922
+Epoch: 263, Step: 90, Train loss: 0.0153, Training acc: 0.9958
+Epoch: 263, Step: 180, Train loss: 0.0134, Training acc: 0.9966
+Epoch: 263, Step: 270, Train loss: 0.0136, Training acc: 0.9965
+Epoch: 263, Step: 360, Train loss: 0.0139, Training acc: 0.9961
+Epoch: 263, Test loss: 0.0865, Test acc: 0.9750, Current best: 0.9753
+Epoch: 264, Step: 0, Train loss: 0.0040, Training acc: 1.0000
+Epoch: 264, Step: 90, Train loss: 0.0156, Training acc: 0.9953
+Epoch: 264, Step: 180, Train loss: 0.0150, Training acc: 0.9956
+Epoch: 264, Step: 270, Train loss: 0.0152, Training acc: 0.9954
+Epoch: 264, Step: 360, Train loss: 0.0152, Training acc: 0.9954
+Epoch: 264, Test loss: 0.0859, Test acc: 0.9748, Current best: 0.9753
+Epoch: 265, Step: 0, Train loss: 0.0066, Training acc: 1.0000
+Epoch: 265, Step: 90, Train loss: 0.0134, Training acc: 0.9968
+Epoch: 265, Step: 180, Train loss: 0.0146, Training acc: 0.9954
+Epoch: 265, Step: 270, Train loss: 0.0137, Training acc: 0.9959
+Epoch: 265, Step: 360, Train loss: 0.0141, Training acc: 0.9959
+Epoch: 265, Test loss: 0.0859, Test acc: 0.9743, Current best: 0.9753
+Epoch: 266, Step: 0, Train loss: 0.0039, Training acc: 1.0000
+Epoch: 266, Step: 90, Train loss: 0.0131, Training acc: 0.9962
+Epoch: 266, Step: 180, Train loss: 0.0148, Training acc: 0.9959
+Epoch: 266, Step: 270, Train loss: 0.0148, Training acc: 0.9957
+Epoch: 266, Step: 360, Train loss: 0.0144, Training acc: 0.9958
+Epoch: 266, Test loss: 0.0861, Test acc: 0.9740, Current best: 0.9753
+Epoch: 267, Step: 0, Train loss: 0.0138, Training acc: 0.9922
+Epoch: 267, Step: 90, Train loss: 0.0147, Training acc: 0.9954
+Epoch: 267, Step: 180, Train loss: 0.0149, Training acc: 0.9952
+Epoch: 267, Step: 270, Train loss: 0.0149, Training acc: 0.9954
+Epoch: 267, Step: 360, Train loss: 0.0147, Training acc: 0.9953
+Epoch: 267, Test loss: 0.0860, Test acc: 0.9747, Current best: 0.9753
+Epoch: 268, Step: 0, Train loss: 0.0126, Training acc: 1.0000
+Epoch: 268, Step: 90, Train loss: 0.0149, Training acc: 0.9963
+Epoch: 268, Step: 180, Train loss: 0.0139, Training acc: 0.9963
+Epoch: 268, Step: 270, Train loss: 0.0149, Training acc: 0.9956
+Epoch: 268, Step: 360, Train loss: 0.0147, Training acc: 0.9957
+Epoch: 268, Test loss: 0.0864, Test acc: 0.9744, Current best: 0.9753
+Epoch: 269, Step: 0, Train loss: 0.0122, Training acc: 1.0000
+Epoch: 269, Step: 90, Train loss: 0.0142, Training acc: 0.9956
+Epoch: 269, Step: 180, Train loss: 0.0146, Training acc: 0.9957
+Epoch: 269, Step: 270, Train loss: 0.0145, Training acc: 0.9958
+Epoch: 269, Step: 360, Train loss: 0.0143, Training acc: 0.9959
+Epoch: 269, Test loss: 0.0865, Test acc: 0.9749, Current best: 0.9753
+Epoch: 270, Step: 0, Train loss: 0.0087, Training acc: 1.0000
+Epoch: 270, Step: 90, Train loss: 0.0160, Training acc: 0.9949
+Epoch: 270, Step: 180, Train loss: 0.0148, Training acc: 0.9956
+Epoch: 270, Step: 270, Train loss: 0.0157, Training acc: 0.9950
+Epoch: 270, Step: 360, Train loss: 0.0154, Training acc: 0.9952
+Epoch: 270, Test loss: 0.0869, Test acc: 0.9742, Current best: 0.9753
+Epoch: 271, Step: 0, Train loss: 0.0149, Training acc: 0.9922
+Epoch: 271, Step: 90, Train loss: 0.0120, Training acc: 0.9975
+Epoch: 271, Step: 180, Train loss: 0.0127, Training acc: 0.9970
+Epoch: 271, Step: 270, Train loss: 0.0133, Training acc: 0.9967
+Epoch: 271, Step: 360, Train loss: 0.0134, Training acc: 0.9966
+Epoch: 271, Test loss: 0.0869, Test acc: 0.9744, Current best: 0.9753
+Epoch: 272, Step: 0, Train loss: 0.0021, Training acc: 1.0000
+Epoch: 272, Step: 90, Train loss: 0.0131, Training acc: 0.9960
+Epoch: 272, Step: 180, Train loss: 0.0127, Training acc: 0.9962
+Epoch: 272, Step: 270, Train loss: 0.0135, Training acc: 0.9958
+Epoch: 272, Step: 360, Train loss: 0.0132, Training acc: 0.9961
+Epoch: 272, Test loss: 0.0868, Test acc: 0.9742, Current best: 0.9753
+Epoch: 273, Step: 0, Train loss: 0.0405, Training acc: 0.9922
+Epoch: 273, Step: 90, Train loss: 0.0143, Training acc: 0.9962
+Epoch: 273, Step: 180, Train loss: 0.0136, Training acc: 0.9963
+Epoch: 273, Step: 270, Train loss: 0.0141, Training acc: 0.9958
+Epoch: 273, Step: 360, Train loss: 0.0142, Training acc: 0.9958
+Epoch: 273, Test loss: 0.0861, Test acc: 0.9748, Current best: 0.9753
+Epoch: 274, Step: 0, Train loss: 0.0278, Training acc: 0.9922
+Epoch: 274, Step: 90, Train loss: 0.0117, Training acc: 0.9967
+Epoch: 274, Step: 180, Train loss: 0.0134, Training acc: 0.9962
+Epoch: 274, Step: 270, Train loss: 0.0135, Training acc: 0.9961
+Epoch: 274, Step: 360, Train loss: 0.0135, Training acc: 0.9963
+Epoch: 274, Test loss: 0.0871, Test acc: 0.9745, Current best: 0.9753
+Epoch: 275, Step: 0, Train loss: 0.0437, Training acc: 0.9766
+Epoch: 275, Step: 90, Train loss: 0.0157, Training acc: 0.9948
+Epoch: 275, Step: 180, Train loss: 0.0144, Training acc: 0.9956
+Epoch: 275, Step: 270, Train loss: 0.0141, Training acc: 0.9955
+Epoch: 275, Step: 360, Train loss: 0.0140, Training acc: 0.9957
+Epoch: 275, Test loss: 0.0865, Test acc: 0.9741, Current best: 0.9753
+Epoch: 276, Step: 0, Train loss: 0.0246, Training acc: 0.9922
+Epoch: 276, Step: 90, Train loss: 0.0139, Training acc: 0.9956
+Epoch: 276, Step: 180, Train loss: 0.0149, Training acc: 0.9950
+Epoch: 276, Step: 270, Train loss: 0.0153, Training acc: 0.9951
+Epoch: 276, Step: 360, Train loss: 0.0148, Training acc: 0.9952
+Epoch: 276, Test loss: 0.0867, Test acc: 0.9751, Current best: 0.9753
+Epoch: 277, Step: 0, Train loss: 0.0390, Training acc: 0.9922
+Epoch: 277, Step: 90, Train loss: 0.0153, Training acc: 0.9950
+Epoch: 277, Step: 180, Train loss: 0.0158, Training acc: 0.9951
+Epoch: 277, Step: 270, Train loss: 0.0158, Training acc: 0.9953
+Epoch: 277, Step: 360, Train loss: 0.0153, Training acc: 0.9954
+Epoch: 277, Test loss: 0.0864, Test acc: 0.9750, Current best: 0.9753
+Epoch: 278, Step: 0, Train loss: 0.0621, Training acc: 0.9766
+Epoch: 278, Step: 90, Train loss: 0.0150, Training acc: 0.9952
+Epoch: 278, Step: 180, Train loss: 0.0143, Training acc: 0.9956
+Epoch: 278, Step: 270, Train loss: 0.0144, Training acc: 0.9954
+Epoch: 278, Step: 360, Train loss: 0.0146, Training acc: 0.9954
+Epoch: 278, Test loss: 0.0864, Test acc: 0.9747, Current best: 0.9753
+Epoch: 279, Step: 0, Train loss: 0.0023, Training acc: 1.0000
+Epoch: 279, Step: 90, Train loss: 0.0159, Training acc: 0.9950
+Epoch: 279, Step: 180, Train loss: 0.0156, Training acc: 0.9953
+Epoch: 279, Step: 270, Train loss: 0.0148, Training acc: 0.9956
+Epoch: 279, Step: 360, Train loss: 0.0142, Training acc: 0.9957
+Epoch: 279, Test loss: 0.0863, Test acc: 0.9748, Current best: 0.9753
+Epoch: 280, Step: 0, Train loss: 0.0113, Training acc: 1.0000
+Epoch: 280, Step: 90, Train loss: 0.0127, Training acc: 0.9966
+Epoch: 280, Step: 180, Train loss: 0.0132, Training acc: 0.9964
+Epoch: 280, Step: 270, Train loss: 0.0136, Training acc: 0.9962
+Epoch: 280, Step: 360, Train loss: 0.0140, Training acc: 0.9962
+Epoch: 280, Test loss: 0.0861, Test acc: 0.9749, Current best: 0.9753
+Epoch: 281, Step: 0, Train loss: 0.0235, Training acc: 0.9922
+Epoch: 281, Step: 90, Train loss: 0.0120, Training acc: 0.9970
+Epoch: 281, Step: 180, Train loss: 0.0141, Training acc: 0.9959
+Epoch: 281, Step: 270, Train loss: 0.0140, Training acc: 0.9960
+Epoch: 281, Step: 360, Train loss: 0.0142, Training acc: 0.9961
+Epoch: 281, Test loss: 0.0865, Test acc: 0.9747, Current best: 0.9753
+Epoch: 282, Step: 0, Train loss: 0.0266, Training acc: 0.9922
+Epoch: 282, Step: 90, Train loss: 0.0146, Training acc: 0.9957
+Epoch: 282, Step: 180, Train loss: 0.0144, Training acc: 0.9960
+Epoch: 282, Step: 270, Train loss: 0.0138, Training acc: 0.9962
+Epoch: 282, Step: 360, Train loss: 0.0136, Training acc: 0.9960
+Epoch: 282, Test loss: 0.0869, Test acc: 0.9747, Current best: 0.9753
+Epoch: 283, Step: 0, Train loss: 0.0151, Training acc: 0.9922
+Epoch: 283, Step: 90, Train loss: 0.0137, Training acc: 0.9964
+Epoch: 283, Step: 180, Train loss: 0.0136, Training acc: 0.9964
+Epoch: 283, Step: 270, Train loss: 0.0143, Training acc: 0.9962
+Epoch: 283, Step: 360, Train loss: 0.0144, Training acc: 0.9960
+Epoch: 283, Test loss: 0.0866, Test acc: 0.9750, Current best: 0.9753
+Epoch: 284, Step: 0, Train loss: 0.0117, Training acc: 1.0000
+Epoch: 284, Step: 90, Train loss: 0.0136, Training acc: 0.9964
+Epoch: 284, Step: 180, Train loss: 0.0142, Training acc: 0.9962
+Epoch: 284, Step: 270, Train loss: 0.0149, Training acc: 0.9958
+Epoch: 284, Step: 360, Train loss: 0.0145, Training acc: 0.9960
+Epoch: 284, Test loss: 0.0869, Test acc: 0.9752, Current best: 0.9753
+Epoch: 285, Step: 0, Train loss: 0.0070, Training acc: 1.0000
+Epoch: 285, Step: 90, Train loss: 0.0155, Training acc: 0.9963
+Epoch: 285, Step: 180, Train loss: 0.0153, Training acc: 0.9959
+Epoch: 285, Step: 270, Train loss: 0.0148, Training acc: 0.9959
+Epoch: 285, Step: 360, Train loss: 0.0147, Training acc: 0.9958
+Epoch: 285, Test loss: 0.0865, Test acc: 0.9752, Current best: 0.9753
+Epoch: 286, Step: 0, Train loss: 0.0087, Training acc: 1.0000
+Epoch: 286, Step: 90, Train loss: 0.0137, Training acc: 0.9958
+Epoch: 286, Step: 180, Train loss: 0.0140, Training acc: 0.9959
+Epoch: 286, Step: 270, Train loss: 0.0136, Training acc: 0.9961
+Epoch: 286, Step: 360, Train loss: 0.0137, Training acc: 0.9960
+Epoch: 286, Test loss: 0.0863, Test acc: 0.9748, Current best: 0.9753
+Epoch: 287, Step: 0, Train loss: 0.0072, Training acc: 1.0000
+Epoch: 287, Step: 90, Train loss: 0.0147, Training acc: 0.9953
+Epoch: 287, Step: 180, Train loss: 0.0148, Training acc: 0.9955
+Epoch: 287, Step: 270, Train loss: 0.0148, Training acc: 0.9955
+Epoch: 287, Step: 360, Train loss: 0.0149, Training acc: 0.9956
+Epoch: 287, Test loss: 0.0864, Test acc: 0.9745, Current best: 0.9753
+Epoch: 288, Step: 0, Train loss: 0.0159, Training acc: 0.9922
+Epoch: 288, Step: 90, Train loss: 0.0144, Training acc: 0.9954
+Epoch: 288, Step: 180, Train loss: 0.0144, Training acc: 0.9956
+Epoch: 288, Step: 270, Train loss: 0.0149, Training acc: 0.9954
+Epoch: 288, Step: 360, Train loss: 0.0148, Training acc: 0.9956
+Epoch: 288, Test loss: 0.0865, Test acc: 0.9750, Current best: 0.9753
+Epoch: 289, Step: 0, Train loss: 0.0194, Training acc: 0.9922
+Epoch: 289, Step: 90, Train loss: 0.0142, Training acc: 0.9958
+Epoch: 289, Step: 180, Train loss: 0.0146, Training acc: 0.9958
+Epoch: 289, Step: 270, Train loss: 0.0142, Training acc: 0.9957
+Epoch: 289, Step: 360, Train loss: 0.0145, Training acc: 0.9955
+Epoch: 289, Test loss: 0.0861, Test acc: 0.9750, Current best: 0.9753
+Epoch: 290, Step: 0, Train loss: 0.0515, Training acc: 0.9844
+Epoch: 290, Step: 90, Train loss: 0.0140, Training acc: 0.9954
+Epoch: 290, Step: 180, Train loss: 0.0145, Training acc: 0.9955
+Epoch: 290, Step: 270, Train loss: 0.0142, Training acc: 0.9956
+Epoch: 290, Step: 360, Train loss: 0.0151, Training acc: 0.9954
+Epoch: 290, Test loss: 0.0860, Test acc: 0.9745, Current best: 0.9753
+Epoch: 291, Step: 0, Train loss: 0.0117, Training acc: 0.9922
+Epoch: 291, Step: 90, Train loss: 0.0147, Training acc: 0.9962
+Epoch: 291, Step: 180, Train loss: 0.0145, Training acc: 0.9958
+Epoch: 291, Step: 270, Train loss: 0.0141, Training acc: 0.9958
+Epoch: 291, Step: 360, Train loss: 0.0141, Training acc: 0.9958
+Epoch: 291, Test loss: 0.0864, Test acc: 0.9748, Current best: 0.9753
+Epoch: 292, Step: 0, Train loss: 0.0182, Training acc: 0.9922
+Epoch: 292, Step: 90, Train loss: 0.0141, Training acc: 0.9957
+Epoch: 292, Step: 180, Train loss: 0.0136, Training acc: 0.9962
+Epoch: 292, Step: 270, Train loss: 0.0140, Training acc: 0.9959
+Epoch: 292, Step: 360, Train loss: 0.0143, Training acc: 0.9959
+Epoch: 292, Test loss: 0.0866, Test acc: 0.9748, Current best: 0.9753
+Epoch: 293, Step: 0, Train loss: 0.0008, Training acc: 1.0000
+Epoch: 293, Step: 90, Train loss: 0.0146, Training acc: 0.9957
+Epoch: 293, Step: 180, Train loss: 0.0146, Training acc: 0.9962
+Epoch: 293, Step: 270, Train loss: 0.0150, Training acc: 0.9959
+Epoch: 293, Step: 360, Train loss: 0.0146, Training acc: 0.9960
+Epoch: 293, Test loss: 0.0864, Test acc: 0.9752, Current best: 0.9753
+Epoch: 294, Step: 0, Train loss: 0.0285, Training acc: 0.9922
+Epoch: 294, Step: 90, Train loss: 0.0147, Training acc: 0.9954
+Epoch: 294, Step: 180, Train loss: 0.0145, Training acc: 0.9958
+Epoch: 294, Step: 270, Train loss: 0.0147, Training acc: 0.9957
+Epoch: 294, Step: 360, Train loss: 0.0142, Training acc: 0.9958
+Epoch: 294, Test loss: 0.0861, Test acc: 0.9741, Current best: 0.9753
+Epoch: 295, Step: 0, Train loss: 0.0141, Training acc: 0.9922
+Epoch: 295, Step: 90, Train loss: 0.0184, Training acc: 0.9943
+Epoch: 295, Step: 180, Train loss: 0.0168, Training acc: 0.9949
+Epoch: 295, Step: 270, Train loss: 0.0153, Training acc: 0.9955
+Epoch: 295, Step: 360, Train loss: 0.0154, Training acc: 0.9956
+Epoch: 295, Test loss: 0.0865, Test acc: 0.9745, Current best: 0.9753
+Epoch: 296, Step: 0, Train loss: 0.0061, Training acc: 1.0000
+Epoch: 296, Step: 90, Train loss: 0.0150, Training acc: 0.9959
+Epoch: 296, Step: 180, Train loss: 0.0146, Training acc: 0.9957
+Epoch: 296, Step: 270, Train loss: 0.0142, Training acc: 0.9959
+Epoch: 296, Step: 360, Train loss: 0.0142, Training acc: 0.9958
+Epoch: 296, Test loss: 0.0866, Test acc: 0.9744, Current best: 0.9753
+Epoch: 297, Step: 0, Train loss: 0.0116, Training acc: 1.0000
+Epoch: 297, Step: 90, Train loss: 0.0128, Training acc: 0.9966
+Epoch: 297, Step: 180, Train loss: 0.0138, Training acc: 0.9962
+Epoch: 297, Step: 270, Train loss: 0.0139, Training acc: 0.9961
+Epoch: 297, Step: 360, Train loss: 0.0136, Training acc: 0.9962
+Epoch: 297, Test loss: 0.0864, Test acc: 0.9750, Current best: 0.9753
+Epoch: 298, Step: 0, Train loss: 0.0041, Training acc: 1.0000
+Epoch: 298, Step: 90, Train loss: 0.0140, Training acc: 0.9959
+Epoch: 298, Step: 180, Train loss: 0.0144, Training acc: 0.9959
+Epoch: 298, Step: 270, Train loss: 0.0148, Training acc: 0.9959
+Epoch: 298, Step: 360, Train loss: 0.0139, Training acc: 0.9962
+Epoch: 298, Test loss: 0.0862, Test acc: 0.9750, Current best: 0.9753
+Epoch: 299, Step: 0, Train loss: 0.0176, Training acc: 0.9922
+Epoch: 299, Step: 90, Train loss: 0.0161, Training acc: 0.9954
+Epoch: 299, Step: 180, Train loss: 0.0150, Training acc: 0.9961
+Epoch: 299, Step: 270, Train loss: 0.0157, Training acc: 0.9956
+Epoch: 299, Step: 360, Train loss: 0.0153, Training acc: 0.9958
+Epoch: 299, Test loss: 0.0866, Test acc: 0.9749, Current best: 0.9753
+Epoch: 300, Step: 0, Train loss: 0.0222, Training acc: 0.9922
+Epoch: 300, Step: 90, Train loss: 0.0138, Training acc: 0.9964
+Epoch: 300, Step: 180, Train loss: 0.0148, Training acc: 0.9960
+Epoch: 300, Step: 270, Train loss: 0.0144, Training acc: 0.9958
+Epoch: 300, Step: 360, Train loss: 0.0149, Training acc: 0.9956
+Epoch: 300, Test loss: 0.0858, Test acc: 0.9753, Current best: 0.9753
+Epoch: 301, Step: 0, Train loss: 0.0085, Training acc: 1.0000
+Epoch: 301, Step: 90, Train loss: 0.0149, Training acc: 0.9959
+Epoch: 301, Step: 180, Train loss: 0.0146, Training acc: 0.9956
+Epoch: 301, Step: 270, Train loss: 0.0143, Training acc: 0.9958
+Epoch: 301, Step: 360, Train loss: 0.0143, Training acc: 0.9960
+Epoch: 301, Test loss: 0.0862, Test acc: 0.9746, Current best: 0.9753
+Epoch: 302, Step: 0, Train loss: 0.0036, Training acc: 1.0000
+Epoch: 302, Step: 90, Train loss: 0.0143, Training acc: 0.9956
+Epoch: 302, Step: 180, Train loss: 0.0141, Training acc: 0.9958
+Epoch: 302, Step: 270, Train loss: 0.0144, Training acc: 0.9959
+Epoch: 302, Step: 360, Train loss: 0.0143, Training acc: 0.9958
+Epoch: 302, Test loss: 0.0862, Test acc: 0.9747, Current best: 0.9753
+Epoch: 303, Step: 0, Train loss: 0.0086, Training acc: 1.0000
+Epoch: 303, Step: 90, Train loss: 0.0161, Training acc: 0.9954
+Epoch: 303, Step: 180, Train loss: 0.0153, Training acc: 0.9955
+Epoch: 303, Step: 270, Train loss: 0.0150, Training acc: 0.9957
+Epoch: 303, Step: 360, Train loss: 0.0146, Training acc: 0.9958
+Epoch: 303, Test loss: 0.0862, Test acc: 0.9751, Current best: 0.9753
+Epoch: 304, Step: 0, Train loss: 0.0100, Training acc: 1.0000
+Epoch: 304, Step: 90, Train loss: 0.0162, Training acc: 0.9953
+Epoch: 304, Step: 180, Train loss: 0.0151, Training acc: 0.9953
+Epoch: 304, Step: 270, Train loss: 0.0145, Training acc: 0.9954
+Epoch: 304, Step: 360, Train loss: 0.0144, Training acc: 0.9955
+Epoch: 304, Test loss: 0.0865, Test acc: 0.9748, Current best: 0.9753
+Epoch: 305, Step: 0, Train loss: 0.0611, Training acc: 0.9766
+Epoch: 305, Step: 90, Train loss: 0.0163, Training acc: 0.9953
+Epoch: 305, Step: 180, Train loss: 0.0159, Training acc: 0.9953
+Epoch: 305, Step: 270, Train loss: 0.0152, Training acc: 0.9957
+Epoch: 305, Step: 360, Train loss: 0.0151, Training acc: 0.9957
+Epoch: 305, Test loss: 0.0860, Test acc: 0.9747, Current best: 0.9753
+Epoch: 306, Step: 0, Train loss: 0.0299, Training acc: 0.9844
+Epoch: 306, Step: 90, Train loss: 0.0152, Training acc: 0.9956
+Epoch: 306, Step: 180, Train loss: 0.0143, Training acc: 0.9961
+Epoch: 306, Step: 270, Train loss: 0.0140, Training acc: 0.9963
+Epoch: 306, Step: 360, Train loss: 0.0145, Training acc: 0.9959
+Epoch: 306, Test loss: 0.0869, Test acc: 0.9743, Current best: 0.9753
+Epoch: 307, Step: 0, Train loss: 0.0059, Training acc: 1.0000
+Epoch: 307, Step: 90, Train loss: 0.0140, Training acc: 0.9960
+Epoch: 307, Step: 180, Train loss: 0.0144, Training acc: 0.9957
+Epoch: 307, Step: 270, Train loss: 0.0144, Training acc: 0.9957
+Epoch: 307, Step: 360, Train loss: 0.0144, Training acc: 0.9958
+Epoch: 307, Test loss: 0.0872, Test acc: 0.9745, Current best: 0.9753
+Epoch: 308, Step: 0, Train loss: 0.0046, Training acc: 1.0000
+Epoch: 308, Step: 90, Train loss: 0.0134, Training acc: 0.9957
+Epoch: 308, Step: 180, Train loss: 0.0143, Training acc: 0.9956
+Epoch: 308, Step: 270, Train loss: 0.0147, Training acc: 0.9954
+Epoch: 308, Step: 360, Train loss: 0.0146, Training acc: 0.9956
+Epoch: 308, Test loss: 0.0863, Test acc: 0.9751, Current best: 0.9753
+Epoch: 309, Step: 0, Train loss: 0.0176, Training acc: 0.9922
+Epoch: 309, Step: 90, Train loss: 0.0140, Training acc: 0.9961
+Epoch: 309, Step: 180, Train loss: 0.0154, Training acc: 0.9955
+Epoch: 309, Step: 270, Train loss: 0.0142, Training acc: 0.9963
+Epoch: 309, Step: 360, Train loss: 0.0143, Training acc: 0.9963
+Epoch: 309, Test loss: 0.0867, Test acc: 0.9749, Current best: 0.9753
+Epoch: 310, Step: 0, Train loss: 0.0187, Training acc: 0.9922
+Epoch: 310, Step: 90, Train loss: 0.0153, Training acc: 0.9956
+Epoch: 310, Step: 180, Train loss: 0.0149, Training acc: 0.9958
+Epoch: 310, Step: 270, Train loss: 0.0143, Training acc: 0.9958
+Epoch: 310, Step: 360, Train loss: 0.0140, Training acc: 0.9958
+Epoch: 310, Test loss: 0.0867, Test acc: 0.9747, Current best: 0.9753
+Epoch: 311, Step: 0, Train loss: 0.0127, Training acc: 0.9922
+Epoch: 311, Step: 90, Train loss: 0.0152, Training acc: 0.9954
+Epoch: 311, Step: 180, Train loss: 0.0145, Training acc: 0.9956
+Epoch: 311, Step: 270, Train loss: 0.0150, Training acc: 0.9956
+Epoch: 311, Step: 360, Train loss: 0.0147, Training acc: 0.9957
+Epoch: 311, Test loss: 0.0866, Test acc: 0.9750, Current best: 0.9753
+Epoch: 312, Step: 0, Train loss: 0.0066, Training acc: 1.0000
+Epoch: 312, Step: 90, Train loss: 0.0132, Training acc: 0.9961
+Epoch: 312, Step: 180, Train loss: 0.0142, Training acc: 0.9958
+Epoch: 312, Step: 270, Train loss: 0.0141, Training acc: 0.9960
+Epoch: 312, Step: 360, Train loss: 0.0135, Training acc: 0.9963
+Epoch: 312, Test loss: 0.0864, Test acc: 0.9750, Current best: 0.9753
+Epoch: 313, Step: 0, Train loss: 0.0052, Training acc: 1.0000
+Epoch: 313, Step: 90, Train loss: 0.0155, Training acc: 0.9949
+Epoch: 313, Step: 180, Train loss: 0.0152, Training acc: 0.9952
+Epoch: 313, Step: 270, Train loss: 0.0153, Training acc: 0.9953
+Epoch: 313, Step: 360, Train loss: 0.0155, Training acc: 0.9953
+Epoch: 313, Test loss: 0.0867, Test acc: 0.9749, Current best: 0.9753
+Epoch: 314, Step: 0, Train loss: 0.0057, Training acc: 1.0000
+Epoch: 314, Step: 90, Train loss: 0.0148, Training acc: 0.9952
+Epoch: 314, Step: 180, Train loss: 0.0139, Training acc: 0.9958
+Epoch: 314, Step: 270, Train loss: 0.0139, Training acc: 0.9959
+Epoch: 314, Step: 360, Train loss: 0.0142, Training acc: 0.9958
+Epoch: 314, Test loss: 0.0869, Test acc: 0.9749, Current best: 0.9753
+Epoch: 315, Step: 0, Train loss: 0.0025, Training acc: 1.0000
+Epoch: 315, Step: 90, Train loss: 0.0132, Training acc: 0.9967
+Epoch: 315, Step: 180, Train loss: 0.0136, Training acc: 0.9964
+Epoch: 315, Step: 270, Train loss: 0.0138, Training acc: 0.9962
+Epoch: 315, Step: 360, Train loss: 0.0145, Training acc: 0.9958
+Epoch: 315, Test loss: 0.0864, Test acc: 0.9749, Current best: 0.9753
+Epoch: 316, Step: 0, Train loss: 0.0281, Training acc: 0.9922
+Epoch: 316, Step: 90, Train loss: 0.0132, Training acc: 0.9962
+Epoch: 316, Step: 180, Train loss: 0.0139, Training acc: 0.9958
+Epoch: 316, Step: 270, Train loss: 0.0138, Training acc: 0.9959
+Epoch: 316, Step: 360, Train loss: 0.0136, Training acc: 0.9960
+Epoch: 316, Test loss: 0.0866, Test acc: 0.9747, Current best: 0.9753
+Epoch: 317, Step: 0, Train loss: 0.0027, Training acc: 1.0000
+Epoch: 317, Step: 90, Train loss: 0.0137, Training acc: 0.9957
+Epoch: 317, Step: 180, Train loss: 0.0137, Training acc: 0.9959
+Epoch: 317, Step: 270, Train loss: 0.0139, Training acc: 0.9958
+Epoch: 317, Step: 360, Train loss: 0.0137, Training acc: 0.9959
+Epoch: 317, Test loss: 0.0863, Test acc: 0.9752, Current best: 0.9753
+Epoch: 318, Step: 0, Train loss: 0.0201, Training acc: 0.9922
+Epoch: 318, Step: 90, Train loss: 0.0147, Training acc: 0.9966
+Epoch: 318, Step: 180, Train loss: 0.0142, Training acc: 0.9963
+Epoch: 318, Step: 270, Train loss: 0.0141, Training acc: 0.9961
+Epoch: 318, Step: 360, Train loss: 0.0138, Training acc: 0.9961
+Epoch: 318, Test loss: 0.0866, Test acc: 0.9749, Current best: 0.9753
+Epoch: 319, Step: 0, Train loss: 0.0319, Training acc: 0.9844
+Epoch: 319, Step: 90, Train loss: 0.0152, Training acc: 0.9948
+Epoch: 319, Step: 180, Train loss: 0.0148, Training acc: 0.9958
+Epoch: 319, Step: 270, Train loss: 0.0147, Training acc: 0.9957
+Epoch: 319, Step: 360, Train loss: 0.0142, Training acc: 0.9958
+Epoch: 319, Test loss: 0.0867, Test acc: 0.9749, Current best: 0.9753
+Epoch: 320, Step: 0, Train loss: 0.0119, Training acc: 0.9922
+Epoch: 320, Step: 90, Train loss: 0.0153, Training acc: 0.9952
+Epoch: 320, Step: 180, Train loss: 0.0143, Training acc: 0.9959
+Epoch: 320, Step: 270, Train loss: 0.0140, Training acc: 0.9961
+Epoch: 320, Step: 360, Train loss: 0.0146, Training acc: 0.9959
+Epoch: 320, Test loss: 0.0866, Test acc: 0.9749, Current best: 0.9753
+Epoch: 321, Step: 0, Train loss: 0.0233, Training acc: 0.9922
+Epoch: 321, Step: 90, Train loss: 0.0140, Training acc: 0.9966
+Epoch: 321, Step: 180, Train loss: 0.0146, Training acc: 0.9963
+Epoch: 321, Step: 270, Train loss: 0.0142, Training acc: 0.9961
+Epoch: 321, Step: 360, Train loss: 0.0146, Training acc: 0.9958
+Epoch: 321, Test loss: 0.0866, Test acc: 0.9749, Current best: 0.9753
+Epoch: 322, Step: 0, Train loss: 0.0077, Training acc: 0.9922
+Epoch: 322, Step: 90, Train loss: 0.0133, Training acc: 0.9965
+Epoch: 322, Step: 180, Train loss: 0.0144, Training acc: 0.9960
+Epoch: 322, Step: 270, Train loss: 0.0139, Training acc: 0.9960
+Epoch: 322, Step: 360, Train loss: 0.0137, Training acc: 0.9959
+Epoch: 322, Test loss: 0.0866, Test acc: 0.9752, Current best: 0.9753
+Epoch: 323, Step: 0, Train loss: 0.0102, Training acc: 1.0000
+Epoch: 323, Step: 90, Train loss: 0.0139, Training acc: 0.9961
+Epoch: 323, Step: 180, Train loss: 0.0138, Training acc: 0.9959
+Epoch: 323, Step: 270, Train loss: 0.0144, Training acc: 0.9956
+Epoch: 323, Step: 360, Train loss: 0.0141, Training acc: 0.9957
+Epoch: 323, Test loss: 0.0863, Test acc: 0.9753, Current best: 0.9753
+Epoch: 324, Step: 0, Train loss: 0.0338, Training acc: 0.9844
+Epoch: 324, Step: 90, Train loss: 0.0153, Training acc: 0.9958
+Epoch: 324, Step: 180, Train loss: 0.0143, Training acc: 0.9962
+Epoch: 324, Step: 270, Train loss: 0.0142, Training acc: 0.9961
+Epoch: 324, Step: 360, Train loss: 0.0144, Training acc: 0.9959
+Epoch: 324, Test loss: 0.0863, Test acc: 0.9755, Current best: 0.9755
+Epoch: 325, Step: 0, Train loss: 0.0046, Training acc: 1.0000
+Epoch: 325, Step: 90, Train loss: 0.0126, Training acc: 0.9970
+Epoch: 325, Step: 180, Train loss: 0.0136, Training acc: 0.9967
+Epoch: 325, Step: 270, Train loss: 0.0140, Training acc: 0.9965
+Epoch: 325, Step: 360, Train loss: 0.0140, Training acc: 0.9964
+Epoch: 325, Test loss: 0.0868, Test acc: 0.9751, Current best: 0.9755
+Epoch: 326, Step: 0, Train loss: 0.0096, Training acc: 1.0000
+Epoch: 326, Step: 90, Train loss: 0.0132, Training acc: 0.9965
+Epoch: 326, Step: 180, Train loss: 0.0138, Training acc: 0.9962
+Epoch: 326, Step: 270, Train loss: 0.0140, Training acc: 0.9962
+Epoch: 326, Step: 360, Train loss: 0.0144, Training acc: 0.9960
+Epoch: 326, Test loss: 0.0870, Test acc: 0.9751, Current best: 0.9755
+Epoch: 327, Step: 0, Train loss: 0.0075, Training acc: 1.0000
+Epoch: 327, Step: 90, Train loss: 0.0144, Training acc: 0.9960
+Epoch: 327, Step: 180, Train loss: 0.0154, Training acc: 0.9955
+Epoch: 327, Step: 270, Train loss: 0.0154, Training acc: 0.9954
+Epoch: 327, Step: 360, Train loss: 0.0148, Training acc: 0.9957
+Epoch: 327, Test loss: 0.0864, Test acc: 0.9758, Current best: 0.9758
+Epoch: 328, Step: 0, Train loss: 0.0141, Training acc: 0.9922
+Epoch: 328, Step: 90, Train loss: 0.0144, Training acc: 0.9956
+Epoch: 328, Step: 180, Train loss: 0.0139, Training acc: 0.9961
+Epoch: 328, Step: 270, Train loss: 0.0138, Training acc: 0.9961
+Epoch: 328, Step: 360, Train loss: 0.0135, Training acc: 0.9961
+Epoch: 328, Test loss: 0.0862, Test acc: 0.9753, Current best: 0.9758
+Epoch: 329, Step: 0, Train loss: 0.0092, Training acc: 1.0000
+Epoch: 329, Step: 90, Train loss: 0.0152, Training acc: 0.9949
+Epoch: 329, Step: 180, Train loss: 0.0155, Training acc: 0.9953
+Epoch: 329, Step: 270, Train loss: 0.0157, Training acc: 0.9953
+Epoch: 329, Step: 360, Train loss: 0.0155, Training acc: 0.9953
+Epoch: 329, Test loss: 0.0864, Test acc: 0.9754, Current best: 0.9758
+Epoch: 330, Step: 0, Train loss: 0.0066, Training acc: 1.0000
+Epoch: 330, Step: 90, Train loss: 0.0121, Training acc: 0.9967
+Epoch: 330, Step: 180, Train loss: 0.0127, Training acc: 0.9965
+Epoch: 330, Step: 270, Train loss: 0.0135, Training acc: 0.9962
+Epoch: 330, Step: 360, Train loss: 0.0135, Training acc: 0.9961
+Epoch: 330, Test loss: 0.0866, Test acc: 0.9746, Current best: 0.9758
+Epoch: 331, Step: 0, Train loss: 0.0095, Training acc: 1.0000
+Epoch: 331, Step: 90, Train loss: 0.0134, Training acc: 0.9966
+Epoch: 331, Step: 180, Train loss: 0.0132, Training acc: 0.9969
+Epoch: 331, Step: 270, Train loss: 0.0133, Training acc: 0.9967
+Epoch: 331, Step: 360, Train loss: 0.0134, Training acc: 0.9965
+Epoch: 331, Test loss: 0.0866, Test acc: 0.9752, Current best: 0.9758
+Epoch: 332, Step: 0, Train loss: 0.0040, Training acc: 1.0000
+Epoch: 332, Step: 90, Train loss: 0.0149, Training acc: 0.9958
+Epoch: 332, Step: 180, Train loss: 0.0141, Training acc: 0.9959
+Epoch: 332, Step: 270, Train loss: 0.0146, Training acc: 0.9958
+Epoch: 332, Step: 360, Train loss: 0.0141, Training acc: 0.9961
+Epoch: 332, Test loss: 0.0863, Test acc: 0.9756, Current best: 0.9758
+Epoch: 333, Step: 0, Train loss: 0.0030, Training acc: 1.0000
+Epoch: 333, Step: 90, Train loss: 0.0126, Training acc: 0.9967
+Epoch: 333, Step: 180, Train loss: 0.0130, Training acc: 0.9963
+Epoch: 333, Step: 270, Train loss: 0.0130, Training acc: 0.9963
+Epoch: 333, Step: 360, Train loss: 0.0137, Training acc: 0.9961
+Epoch: 333, Test loss: 0.0865, Test acc: 0.9753, Current best: 0.9758
+Epoch: 334, Step: 0, Train loss: 0.0111, Training acc: 1.0000
+Epoch: 334, Step: 90, Train loss: 0.0131, Training acc: 0.9961
+Epoch: 334, Step: 180, Train loss: 0.0149, Training acc: 0.9957
+Epoch: 334, Step: 270, Train loss: 0.0144, Training acc: 0.9958
+Epoch: 334, Step: 360, Train loss: 0.0148, Training acc: 0.9957
+Epoch: 334, Test loss: 0.0863, Test acc: 0.9751, Current best: 0.9758
+Epoch: 335, Step: 0, Train loss: 0.0058, Training acc: 1.0000
+Epoch: 335, Step: 90, Train loss: 0.0159, Training acc: 0.9956
+Epoch: 335, Step: 180, Train loss: 0.0146, Training acc: 0.9958
+Epoch: 335, Step: 270, Train loss: 0.0139, Training acc: 0.9959
+Epoch: 335, Step: 360, Train loss: 0.0139, Training acc: 0.9959
+Epoch: 335, Test loss: 0.0867, Test acc: 0.9754, Current best: 0.9758
+Epoch: 336, Step: 0, Train loss: 0.0250, Training acc: 0.9922
+Epoch: 336, Step: 90, Train loss: 0.0146, Training acc: 0.9961
+Epoch: 336, Step: 180, Train loss: 0.0146, Training acc: 0.9957
+Epoch: 336, Step: 270, Train loss: 0.0147, Training acc: 0.9956
+Epoch: 336, Step: 360, Train loss: 0.0141, Training acc: 0.9959
+Epoch: 336, Test loss: 0.0866, Test acc: 0.9749, Current best: 0.9758
+Epoch: 337, Step: 0, Train loss: 0.0048, Training acc: 1.0000
+Epoch: 337, Step: 90, Train loss: 0.0127, Training acc: 0.9969
+Epoch: 337, Step: 180, Train loss: 0.0121, Training acc: 0.9970
+Epoch: 337, Step: 270, Train loss: 0.0124, Training acc: 0.9969
+Epoch: 337, Step: 360, Train loss: 0.0129, Training acc: 0.9966
+Epoch: 337, Test loss: 0.0868, Test acc: 0.9748, Current best: 0.9758
+Epoch: 338, Step: 0, Train loss: 0.0068, Training acc: 1.0000
+Epoch: 338, Step: 90, Train loss: 0.0151, Training acc: 0.9961
+Epoch: 338, Step: 180, Train loss: 0.0149, Training acc: 0.9958
+Epoch: 338, Step: 270, Train loss: 0.0147, Training acc: 0.9957
+Epoch: 338, Step: 360, Train loss: 0.0146, Training acc: 0.9956
+Epoch: 338, Test loss: 0.0866, Test acc: 0.9752, Current best: 0.9758
+Epoch: 339, Step: 0, Train loss: 0.0054, Training acc: 1.0000
+Epoch: 339, Step: 90, Train loss: 0.0133, Training acc: 0.9964
+Epoch: 339, Step: 180, Train loss: 0.0123, Training acc: 0.9966
+Epoch: 339, Step: 270, Train loss: 0.0124, Training acc: 0.9966
+Epoch: 339, Step: 360, Train loss: 0.0130, Training acc: 0.9965
+Epoch: 339, Test loss: 0.0864, Test acc: 0.9756, Current best: 0.9758
+Epoch: 340, Step: 0, Train loss: 0.0017, Training acc: 1.0000
+Epoch: 340, Step: 90, Train loss: 0.0140, Training acc: 0.9963
+Epoch: 340, Step: 180, Train loss: 0.0140, Training acc: 0.9965
+Epoch: 340, Step: 270, Train loss: 0.0139, Training acc: 0.9964
+Epoch: 340, Step: 360, Train loss: 0.0140, Training acc: 0.9962
+Epoch: 340, Test loss: 0.0867, Test acc: 0.9754, Current best: 0.9758
+Epoch: 341, Step: 0, Train loss: 0.0062, Training acc: 1.0000
+Epoch: 341, Step: 90, Train loss: 0.0156, Training acc: 0.9948
+Epoch: 341, Step: 180, Train loss: 0.0153, Training acc: 0.9952
+Epoch: 341, Step: 270, Train loss: 0.0151, Training acc: 0.9956
+Epoch: 341, Step: 360, Train loss: 0.0151, Training acc: 0.9957
+Epoch: 341, Test loss: 0.0868, Test acc: 0.9751, Current best: 0.9758
+Epoch: 342, Step: 0, Train loss: 0.0018, Training acc: 1.0000
+Epoch: 342, Step: 90, Train loss: 0.0161, Training acc: 0.9950
+Epoch: 342, Step: 180, Train loss: 0.0150, Training acc: 0.9957
+Epoch: 342, Step: 270, Train loss: 0.0158, Training acc: 0.9953
+Epoch: 342, Step: 360, Train loss: 0.0147, Training acc: 0.9957
+Epoch: 342, Test loss: 0.0866, Test acc: 0.9750, Current best: 0.9758
+Epoch: 343, Step: 0, Train loss: 0.0158, Training acc: 0.9922
+Epoch: 343, Step: 90, Train loss: 0.0127, Training acc: 0.9967
+Epoch: 343, Step: 180, Train loss: 0.0139, Training acc: 0.9960
+Epoch: 343, Step: 270, Train loss: 0.0141, Training acc: 0.9959
+Epoch: 343, Step: 360, Train loss: 0.0139, Training acc: 0.9960
+Epoch: 343, Test loss: 0.0864, Test acc: 0.9752, Current best: 0.9758
+Epoch: 344, Step: 0, Train loss: 0.0031, Training acc: 1.0000
+Epoch: 344, Step: 90, Train loss: 0.0141, Training acc: 0.9961
+Epoch: 344, Step: 180, Train loss: 0.0143, Training acc: 0.9962
+Epoch: 344, Step: 270, Train loss: 0.0150, Training acc: 0.9957
+Epoch: 344, Step: 360, Train loss: 0.0148, Training acc: 0.9958
+Epoch: 344, Test loss: 0.0866, Test acc: 0.9750, Current best: 0.9758
+Epoch: 345, Step: 0, Train loss: 0.0082, Training acc: 1.0000
+Epoch: 345, Step: 90, Train loss: 0.0157, Training acc: 0.9951
+Epoch: 345, Step: 180, Train loss: 0.0154, Training acc: 0.9954
+Epoch: 345, Step: 270, Train loss: 0.0150, Training acc: 0.9955
+Epoch: 345, Step: 360, Train loss: 0.0149, Training acc: 0.9954
+Epoch: 345, Test loss: 0.0867, Test acc: 0.9750, Current best: 0.9758
+Epoch: 346, Step: 0, Train loss: 0.0048, Training acc: 1.0000
+Epoch: 346, Step: 90, Train loss: 0.0159, Training acc: 0.9955
+Epoch: 346, Step: 180, Train loss: 0.0149, Training acc: 0.9958
+Epoch: 346, Step: 270, Train loss: 0.0150, Training acc: 0.9957
+Epoch: 346, Step: 360, Train loss: 0.0151, Training acc: 0.9957
+Epoch: 346, Test loss: 0.0866, Test acc: 0.9756, Current best: 0.9758
+Epoch: 347, Step: 0, Train loss: 0.0077, Training acc: 1.0000
+Epoch: 347, Step: 90, Train loss: 0.0140, Training acc: 0.9967
+Epoch: 347, Step: 180, Train loss: 0.0137, Training acc: 0.9961
+Epoch: 347, Step: 270, Train loss: 0.0140, Training acc: 0.9959
+Epoch: 347, Step: 360, Train loss: 0.0140, Training acc: 0.9959
+Epoch: 347, Test loss: 0.0867, Test acc: 0.9756, Current best: 0.9758
+Epoch: 348, Step: 0, Train loss: 0.0025, Training acc: 1.0000
+Epoch: 348, Step: 90, Train loss: 0.0135, Training acc: 0.9962
+Epoch: 348, Step: 180, Train loss: 0.0137, Training acc: 0.9962
+Epoch: 348, Step: 270, Train loss: 0.0135, Training acc: 0.9963
+Epoch: 348, Step: 360, Train loss: 0.0133, Training acc: 0.9965
+Epoch: 348, Test loss: 0.0867, Test acc: 0.9753, Current best: 0.9758
+Epoch: 349, Step: 0, Train loss: 0.0043, Training acc: 1.0000
+Epoch: 349, Step: 90, Train loss: 0.0136, Training acc: 0.9963
+Epoch: 349, Step: 180, Train loss: 0.0144, Training acc: 0.9961
+Epoch: 349, Step: 270, Train loss: 0.0140, Training acc: 0.9962
+Epoch: 349, Step: 360, Train loss: 0.0136, Training acc: 0.9963
+Epoch: 349, Test loss: 0.0866, Test acc: 0.9752, Current best: 0.9758
+Epoch: 350, Step: 0, Train loss: 0.0053, Training acc: 1.0000
+Epoch: 350, Step: 90, Train loss: 0.0150, Training acc: 0.9959
+Epoch: 350, Step: 180, Train loss: 0.0145, Training acc: 0.9959
+Epoch: 350, Step: 270, Train loss: 0.0151, Training acc: 0.9957
+Epoch: 350, Step: 360, Train loss: 0.0144, Training acc: 0.9961
+Epoch: 350, Test loss: 0.0862, Test acc: 0.9749, Current best: 0.9758
+Epoch: 351, Step: 0, Train loss: 0.0052, Training acc: 1.0000
+Epoch: 351, Step: 90, Train loss: 0.0155, Training acc: 0.9955
+Epoch: 351, Step: 180, Train loss: 0.0148, Training acc: 0.9957
+Epoch: 351, Step: 270, Train loss: 0.0143, Training acc: 0.9960
+Epoch: 351, Step: 360, Train loss: 0.0142, Training acc: 0.9959
+Epoch: 351, Test loss: 0.0862, Test acc: 0.9748, Current best: 0.9758
+Epoch: 352, Step: 0, Train loss: 0.0155, Training acc: 0.9922
+Epoch: 352, Step: 90, Train loss: 0.0152, Training acc: 0.9957
+Epoch: 352, Step: 180, Train loss: 0.0143, Training acc: 0.9960
+Epoch: 352, Step: 270, Train loss: 0.0143, Training acc: 0.9959
+Epoch: 352, Step: 360, Train loss: 0.0141, Training acc: 0.9960
+Epoch: 352, Test loss: 0.0867, Test acc: 0.9753, Current best: 0.9758
+Epoch: 353, Step: 0, Train loss: 0.0388, Training acc: 0.9766
+Epoch: 353, Step: 90, Train loss: 0.0142, Training acc: 0.9957
+Epoch: 353, Step: 180, Train loss: 0.0147, Training acc: 0.9956
+Epoch: 353, Step: 270, Train loss: 0.0142, Training acc: 0.9958
+Epoch: 353, Step: 360, Train loss: 0.0143, Training acc: 0.9958
+Epoch: 353, Test loss: 0.0867, Test acc: 0.9752, Current best: 0.9758
+Epoch: 354, Step: 0, Train loss: 0.0019, Training acc: 1.0000
+Epoch: 354, Step: 90, Train loss: 0.0127, Training acc: 0.9969
+Epoch: 354, Step: 180, Train loss: 0.0130, Training acc: 0.9967
+Epoch: 354, Step: 270, Train loss: 0.0131, Training acc: 0.9966
+Epoch: 354, Step: 360, Train loss: 0.0131, Training acc: 0.9966
+Epoch: 354, Test loss: 0.0868, Test acc: 0.9750, Current best: 0.9758
+Epoch: 355, Step: 0, Train loss: 0.0030, Training acc: 1.0000
+Epoch: 355, Step: 90, Train loss: 0.0125, Training acc: 0.9964
+Epoch: 355, Step: 180, Train loss: 0.0130, Training acc: 0.9962
+Epoch: 355, Step: 270, Train loss: 0.0133, Training acc: 0.9961
+Epoch: 355, Step: 360, Train loss: 0.0139, Training acc: 0.9958
+Epoch: 355, Test loss: 0.0866, Test acc: 0.9750, Current best: 0.9758
+Epoch: 356, Step: 0, Train loss: 0.0076, Training acc: 1.0000
+Epoch: 356, Step: 90, Train loss: 0.0151, Training acc: 0.9957
+Epoch: 356, Step: 180, Train loss: 0.0148, Training acc: 0.9955
+Epoch: 356, Step: 270, Train loss: 0.0142, Training acc: 0.9959
+Epoch: 356, Step: 360, Train loss: 0.0139, Training acc: 0.9958
+Epoch: 356, Test loss: 0.0865, Test acc: 0.9748, Current best: 0.9758
+Epoch: 357, Step: 0, Train loss: 0.0380, Training acc: 0.9766
+Epoch: 357, Step: 90, Train loss: 0.0141, Training acc: 0.9959
+Epoch: 357, Step: 180, Train loss: 0.0125, Training acc: 0.9965
+Epoch: 357, Step: 270, Train loss: 0.0128, Training acc: 0.9965
+Epoch: 357, Step: 360, Train loss: 0.0128, Training acc: 0.9963
+Epoch: 357, Test loss: 0.0863, Test acc: 0.9750, Current best: 0.9758
+Epoch: 358, Step: 0, Train loss: 0.0244, Training acc: 0.9922
+Epoch: 358, Step: 90, Train loss: 0.0138, Training acc: 0.9957
+Epoch: 358, Step: 180, Train loss: 0.0146, Training acc: 0.9955
+Epoch: 358, Step: 270, Train loss: 0.0148, Training acc: 0.9955
+Epoch: 358, Step: 360, Train loss: 0.0148, Training acc: 0.9957
+Epoch: 358, Test loss: 0.0861, Test acc: 0.9750, Current best: 0.9758
+Epoch: 359, Step: 0, Train loss: 0.0121, Training acc: 1.0000
+Epoch: 359, Step: 90, Train loss: 0.0131, Training acc: 0.9964
+Epoch: 359, Step: 180, Train loss: 0.0139, Training acc: 0.9960
+Epoch: 359, Step: 270, Train loss: 0.0135, Training acc: 0.9961
+Epoch: 359, Step: 360, Train loss: 0.0137, Training acc: 0.9961
+Epoch: 359, Test loss: 0.0864, Test acc: 0.9753, Current best: 0.9758
+Epoch: 360, Step: 0, Train loss: 0.0089, Training acc: 0.9922
+Epoch: 360, Step: 90, Train loss: 0.0131, Training acc: 0.9964
+Epoch: 360, Step: 180, Train loss: 0.0128, Training acc: 0.9965
+Epoch: 360, Step: 270, Train loss: 0.0141, Training acc: 0.9958
+Epoch: 360, Step: 360, Train loss: 0.0142, Training acc: 0.9958
+Epoch: 360, Test loss: 0.0859, Test acc: 0.9750, Current best: 0.9758
+Epoch: 361, Step: 0, Train loss: 0.0081, Training acc: 1.0000
+Epoch: 361, Step: 90, Train loss: 0.0153, Training acc: 0.9954
+Epoch: 361, Step: 180, Train loss: 0.0141, Training acc: 0.9960
+Epoch: 361, Step: 270, Train loss: 0.0144, Training acc: 0.9958
+Epoch: 361, Step: 360, Train loss: 0.0145, Training acc: 0.9957
+Epoch: 361, Test loss: 0.0863, Test acc: 0.9755, Current best: 0.9758
+Epoch: 362, Step: 0, Train loss: 0.0084, Training acc: 1.0000
+Epoch: 362, Step: 90, Train loss: 0.0142, Training acc: 0.9961
+Epoch: 362, Step: 180, Train loss: 0.0137, Training acc: 0.9962
+Epoch: 362, Step: 270, Train loss: 0.0147, Training acc: 0.9958
+Epoch: 362, Step: 360, Train loss: 0.0141, Training acc: 0.9960
+Epoch: 362, Test loss: 0.0865, Test acc: 0.9751, Current best: 0.9758
+Epoch: 363, Step: 0, Train loss: 0.0176, Training acc: 0.9922
+Epoch: 363, Step: 90, Train loss: 0.0132, Training acc: 0.9959
+Epoch: 363, Step: 180, Train loss: 0.0136, Training acc: 0.9960
+Epoch: 363, Step: 270, Train loss: 0.0135, Training acc: 0.9959
+Epoch: 363, Step: 360, Train loss: 0.0134, Training acc: 0.9961
+Epoch: 363, Test loss: 0.0866, Test acc: 0.9745, Current best: 0.9758
+Epoch: 364, Step: 0, Train loss: 0.0079, Training acc: 1.0000
+Epoch: 364, Step: 90, Train loss: 0.0147, Training acc: 0.9960
+Epoch: 364, Step: 180, Train loss: 0.0145, Training acc: 0.9956
+Epoch: 364, Step: 270, Train loss: 0.0145, Training acc: 0.9957
+Epoch: 364, Step: 360, Train loss: 0.0146, Training acc: 0.9957
+Epoch: 364, Test loss: 0.0865, Test acc: 0.9748, Current best: 0.9758
+Epoch: 365, Step: 0, Train loss: 0.0173, Training acc: 0.9922
+Epoch: 365, Step: 90, Train loss: 0.0155, Training acc: 0.9957
+Epoch: 365, Step: 180, Train loss: 0.0143, Training acc: 0.9959
+Epoch: 365, Step: 270, Train loss: 0.0137, Training acc: 0.9963
+Epoch: 365, Step: 360, Train loss: 0.0140, Training acc: 0.9963
+Epoch: 365, Test loss: 0.0864, Test acc: 0.9751, Current best: 0.9758
+Epoch: 366, Step: 0, Train loss: 0.0071, Training acc: 1.0000
+Epoch: 366, Step: 90, Train loss: 0.0112, Training acc: 0.9972
+Epoch: 366, Step: 180, Train loss: 0.0121, Training acc: 0.9969
+Epoch: 366, Step: 270, Train loss: 0.0125, Training acc: 0.9968
+Epoch: 366, Step: 360, Train loss: 0.0131, Training acc: 0.9965
+Epoch: 366, Test loss: 0.0865, Test acc: 0.9743, Current best: 0.9758
+Epoch: 367, Step: 0, Train loss: 0.0179, Training acc: 0.9922
+Epoch: 367, Step: 90, Train loss: 0.0140, Training acc: 0.9959
+Epoch: 367, Step: 180, Train loss: 0.0143, Training acc: 0.9958
+Epoch: 367, Step: 270, Train loss: 0.0142, Training acc: 0.9957
+Epoch: 367, Step: 360, Train loss: 0.0141, Training acc: 0.9957
+Epoch: 367, Test loss: 0.0866, Test acc: 0.9753, Current best: 0.9758
+Epoch: 368, Step: 0, Train loss: 0.0020, Training acc: 1.0000
+Epoch: 368, Step: 90, Train loss: 0.0121, Training acc: 0.9966
+Epoch: 368, Step: 180, Train loss: 0.0138, Training acc: 0.9960
+Epoch: 368, Step: 270, Train loss: 0.0138, Training acc: 0.9958
+Epoch: 368, Step: 360, Train loss: 0.0138, Training acc: 0.9959
+Epoch: 368, Test loss: 0.0865, Test acc: 0.9753, Current best: 0.9758
+Epoch: 369, Step: 0, Train loss: 0.0072, Training acc: 1.0000
+Epoch: 369, Step: 90, Train loss: 0.0139, Training acc: 0.9957
+Epoch: 369, Step: 180, Train loss: 0.0136, Training acc: 0.9960
+Epoch: 369, Step: 270, Train loss: 0.0134, Training acc: 0.9963
+Epoch: 369, Step: 360, Train loss: 0.0134, Training acc: 0.9963
+Epoch: 369, Test loss: 0.0865, Test acc: 0.9751, Current best: 0.9758
+Epoch: 370, Step: 0, Train loss: 0.0049, Training acc: 1.0000
+Epoch: 370, Step: 90, Train loss: 0.0129, Training acc: 0.9965
+Epoch: 370, Step: 180, Train loss: 0.0139, Training acc: 0.9959
+Epoch: 370, Step: 270, Train loss: 0.0149, Training acc: 0.9954
+Epoch: 370, Step: 360, Train loss: 0.0143, Training acc: 0.9957
+Epoch: 370, Test loss: 0.0865, Test acc: 0.9754, Current best: 0.9758
+Epoch: 371, Step: 0, Train loss: 0.0060, Training acc: 1.0000
+Epoch: 371, Step: 90, Train loss: 0.0147, Training acc: 0.9956
+Epoch: 371, Step: 180, Train loss: 0.0148, Training acc: 0.9954
+Epoch: 371, Step: 270, Train loss: 0.0141, Training acc: 0.9960
+Epoch: 371, Step: 360, Train loss: 0.0138, Training acc: 0.9963
+Epoch: 371, Test loss: 0.0866, Test acc: 0.9756, Current best: 0.9758
+Epoch: 372, Step: 0, Train loss: 0.0079, Training acc: 1.0000
+Epoch: 372, Step: 90, Train loss: 0.0138, Training acc: 0.9959
+Epoch: 372, Step: 180, Train loss: 0.0132, Training acc: 0.9962
+Epoch: 372, Step: 270, Train loss: 0.0134, Training acc: 0.9961
+Epoch: 372, Step: 360, Train loss: 0.0136, Training acc: 0.9960
+Epoch: 372, Test loss: 0.0865, Test acc: 0.9748, Current best: 0.9758
+Epoch: 373, Step: 0, Train loss: 0.0258, Training acc: 0.9844
+Epoch: 373, Step: 90, Train loss: 0.0152, Training acc: 0.9948
+Epoch: 373, Step: 180, Train loss: 0.0147, Training acc: 0.9951
+Epoch: 373, Step: 270, Train loss: 0.0150, Training acc: 0.9954
+Epoch: 373, Step: 360, Train loss: 0.0149, Training acc: 0.9955
+Epoch: 373, Test loss: 0.0866, Test acc: 0.9749, Current best: 0.9758
+Epoch: 374, Step: 0, Train loss: 0.0183, Training acc: 0.9922
+Epoch: 374, Step: 90, Train loss: 0.0156, Training acc: 0.9958
+Epoch: 374, Step: 180, Train loss: 0.0140, Training acc: 0.9965
+Epoch: 374, Step: 270, Train loss: 0.0144, Training acc: 0.9959
+Epoch: 374, Step: 360, Train loss: 0.0151, Training acc: 0.9956
+Epoch: 374, Test loss: 0.0864, Test acc: 0.9753, Current best: 0.9758
+Epoch: 375, Step: 0, Train loss: 0.0126, Training acc: 0.9922
+Epoch: 375, Step: 90, Train loss: 0.0122, Training acc: 0.9968
+Epoch: 375, Step: 180, Train loss: 0.0129, Training acc: 0.9964
+Epoch: 375, Step: 270, Train loss: 0.0133, Training acc: 0.9962
+Epoch: 375, Step: 360, Train loss: 0.0132, Training acc: 0.9963
+Epoch: 375, Test loss: 0.0864, Test acc: 0.9748, Current best: 0.9758
+Epoch: 376, Step: 0, Train loss: 0.0329, Training acc: 0.9844
+Epoch: 376, Step: 90, Train loss: 0.0145, Training acc: 0.9953
+Epoch: 376, Step: 180, Train loss: 0.0146, Training acc: 0.9954
+Epoch: 376, Step: 270, Train loss: 0.0146, Training acc: 0.9957
+Epoch: 376, Step: 360, Train loss: 0.0144, Training acc: 0.9958
+Epoch: 376, Test loss: 0.0862, Test acc: 0.9753, Current best: 0.9758
+Epoch: 377, Step: 0, Train loss: 0.0037, Training acc: 1.0000
+Epoch: 377, Step: 90, Train loss: 0.0145, Training acc: 0.9954
+Epoch: 377, Step: 180, Train loss: 0.0141, Training acc: 0.9956
+Epoch: 377, Step: 270, Train loss: 0.0139, Training acc: 0.9956
+Epoch: 377, Step: 360, Train loss: 0.0141, Training acc: 0.9955
+Epoch: 377, Test loss: 0.0862, Test acc: 0.9757, Current best: 0.9758
+Epoch: 378, Step: 0, Train loss: 0.0116, Training acc: 0.9922
+Epoch: 378, Step: 90, Train loss: 0.0124, Training acc: 0.9972
+Epoch: 378, Step: 180, Train loss: 0.0130, Training acc: 0.9964
+Epoch: 378, Step: 270, Train loss: 0.0143, Training acc: 0.9958
+Epoch: 378, Step: 360, Train loss: 0.0145, Training acc: 0.9957
+Epoch: 378, Test loss: 0.0859, Test acc: 0.9753, Current best: 0.9758
+Epoch: 379, Step: 0, Train loss: 0.0226, Training acc: 0.9922
+Epoch: 379, Step: 90, Train loss: 0.0148, Training acc: 0.9951
+Epoch: 379, Step: 180, Train loss: 0.0148, Training acc: 0.9953
+Epoch: 379, Step: 270, Train loss: 0.0149, Training acc: 0.9954
+Epoch: 379, Step: 360, Train loss: 0.0149, Training acc: 0.9955
+Epoch: 379, Test loss: 0.0860, Test acc: 0.9748, Current best: 0.9758
+Epoch: 380, Step: 0, Train loss: 0.0137, Training acc: 1.0000
+Epoch: 380, Step: 90, Train loss: 0.0146, Training acc: 0.9955
+Epoch: 380, Step: 180, Train loss: 0.0130, Training acc: 0.9963
+Epoch: 380, Step: 270, Train loss: 0.0129, Training acc: 0.9965
+Epoch: 380, Step: 360, Train loss: 0.0133, Training acc: 0.9964
+Epoch: 380, Test loss: 0.0865, Test acc: 0.9753, Current best: 0.9758
+Epoch: 381, Step: 0, Train loss: 0.0461, Training acc: 0.9844
+Epoch: 381, Step: 90, Train loss: 0.0123, Training acc: 0.9969
+Epoch: 381, Step: 180, Train loss: 0.0129, Training acc: 0.9966
+Epoch: 381, Step: 270, Train loss: 0.0132, Training acc: 0.9963
+Epoch: 381, Step: 360, Train loss: 0.0135, Training acc: 0.9962
+Epoch: 381, Test loss: 0.0863, Test acc: 0.9750, Current best: 0.9758
+Epoch: 382, Step: 0, Train loss: 0.0225, Training acc: 0.9922
+Epoch: 382, Step: 90, Train loss: 0.0157, Training acc: 0.9954
+Epoch: 382, Step: 180, Train loss: 0.0151, Training acc: 0.9957
+Epoch: 382, Step: 270, Train loss: 0.0147, Training acc: 0.9960
+Epoch: 382, Step: 360, Train loss: 0.0145, Training acc: 0.9961
+Epoch: 382, Test loss: 0.0862, Test acc: 0.9757, Current best: 0.9758
+Epoch: 383, Step: 0, Train loss: 0.0016, Training acc: 1.0000
+Epoch: 383, Step: 90, Train loss: 0.0134, Training acc: 0.9959
+Epoch: 383, Step: 180, Train loss: 0.0133, Training acc: 0.9963
+Epoch: 383, Step: 270, Train loss: 0.0135, Training acc: 0.9964
+Epoch: 383, Step: 360, Train loss: 0.0135, Training acc: 0.9965
+Epoch: 383, Test loss: 0.0862, Test acc: 0.9752, Current best: 0.9758
+Epoch: 384, Step: 0, Train loss: 0.0047, Training acc: 1.0000
+Epoch: 384, Step: 90, Train loss: 0.0144, Training acc: 0.9961
+Epoch: 384, Step: 180, Train loss: 0.0145, Training acc: 0.9958
+Epoch: 384, Step: 270, Train loss: 0.0144, Training acc: 0.9959
+Epoch: 384, Step: 360, Train loss: 0.0143, Training acc: 0.9960
+Epoch: 384, Test loss: 0.0868, Test acc: 0.9749, Current best: 0.9758
+Epoch: 385, Step: 0, Train loss: 0.0156, Training acc: 1.0000
+Epoch: 385, Step: 90, Train loss: 0.0133, Training acc: 0.9967
+Epoch: 385, Step: 180, Train loss: 0.0133, Training acc: 0.9964
+Epoch: 385, Step: 270, Train loss: 0.0128, Training acc: 0.9965
+Epoch: 385, Step: 360, Train loss: 0.0136, Training acc: 0.9960
+Epoch: 385, Test loss: 0.0860, Test acc: 0.9754, Current best: 0.9758
+Epoch: 386, Step: 0, Train loss: 0.0227, Training acc: 0.9922
+Epoch: 386, Step: 90, Train loss: 0.0155, Training acc: 0.9960
+Epoch: 386, Step: 180, Train loss: 0.0159, Training acc: 0.9955
+Epoch: 386, Step: 270, Train loss: 0.0151, Training acc: 0.9958
+Epoch: 386, Step: 360, Train loss: 0.0149, Training acc: 0.9957
+Epoch: 386, Test loss: 0.0864, Test acc: 0.9752, Current best: 0.9758
+Epoch: 387, Step: 0, Train loss: 0.0064, Training acc: 1.0000
+Epoch: 387, Step: 90, Train loss: 0.0115, Training acc: 0.9971
+Epoch: 387, Step: 180, Train loss: 0.0134, Training acc: 0.9963
+Epoch: 387, Step: 270, Train loss: 0.0135, Training acc: 0.9962
+Epoch: 387, Step: 360, Train loss: 0.0138, Training acc: 0.9961
+Epoch: 387, Test loss: 0.0864, Test acc: 0.9751, Current best: 0.9758
+Epoch: 388, Step: 0, Train loss: 0.0220, Training acc: 0.9922
+Epoch: 388, Step: 90, Train loss: 0.0171, Training acc: 0.9954
+Epoch: 388, Step: 180, Train loss: 0.0155, Training acc: 0.9958
+Epoch: 388, Step: 270, Train loss: 0.0154, Training acc: 0.9958
+Epoch: 388, Step: 360, Train loss: 0.0152, Training acc: 0.9957
+Epoch: 388, Test loss: 0.0860, Test acc: 0.9753, Current best: 0.9758
+Epoch: 389, Step: 0, Train loss: 0.0133, Training acc: 0.9922
+Epoch: 389, Step: 90, Train loss: 0.0116, Training acc: 0.9973
+Epoch: 389, Step: 180, Train loss: 0.0126, Training acc: 0.9968
+Epoch: 389, Step: 270, Train loss: 0.0134, Training acc: 0.9963
+Epoch: 389, Step: 360, Train loss: 0.0135, Training acc: 0.9962
+Epoch: 389, Test loss: 0.0864, Test acc: 0.9754, Current best: 0.9758
+Epoch: 390, Step: 0, Train loss: 0.0490, Training acc: 0.9844
+Epoch: 390, Step: 90, Train loss: 0.0154, Training acc: 0.9953
+Epoch: 390, Step: 180, Train loss: 0.0150, Training acc: 0.9956
+Epoch: 390, Step: 270, Train loss: 0.0144, Training acc: 0.9958
+Epoch: 390, Step: 360, Train loss: 0.0143, Training acc: 0.9959
+Epoch: 390, Test loss: 0.0860, Test acc: 0.9749, Current best: 0.9758
+Epoch: 391, Step: 0, Train loss: 0.0123, Training acc: 0.9922
+Epoch: 391, Step: 90, Train loss: 0.0121, Training acc: 0.9965
+Epoch: 391, Step: 180, Train loss: 0.0129, Training acc: 0.9963
+Epoch: 391, Step: 270, Train loss: 0.0138, Training acc: 0.9960
+Epoch: 391, Step: 360, Train loss: 0.0144, Training acc: 0.9958
+Epoch: 391, Test loss: 0.0865, Test acc: 0.9752, Current best: 0.9758
+Epoch: 392, Step: 0, Train loss: 0.0141, Training acc: 0.9922
+Epoch: 392, Step: 90, Train loss: 0.0133, Training acc: 0.9964
+Epoch: 392, Step: 180, Train loss: 0.0131, Training acc: 0.9962
+Epoch: 392, Step: 270, Train loss: 0.0139, Training acc: 0.9961
+Epoch: 392, Step: 360, Train loss: 0.0141, Training acc: 0.9959
+Epoch: 392, Test loss: 0.0862, Test acc: 0.9753, Current best: 0.9758
+Epoch: 393, Step: 0, Train loss: 0.0076, Training acc: 1.0000
+Epoch: 393, Step: 90, Train loss: 0.0137, Training acc: 0.9962
+Epoch: 393, Step: 180, Train loss: 0.0148, Training acc: 0.9957
+Epoch: 393, Step: 270, Train loss: 0.0145, Training acc: 0.9958
+Epoch: 393, Step: 360, Train loss: 0.0143, Training acc: 0.9958
+Epoch: 393, Test loss: 0.0859, Test acc: 0.9754, Current best: 0.9758
+Epoch: 394, Step: 0, Train loss: 0.0215, Training acc: 0.9922
+Epoch: 394, Step: 90, Train loss: 0.0136, Training acc: 0.9957
+Epoch: 394, Step: 180, Train loss: 0.0131, Training acc: 0.9962
+Epoch: 394, Step: 270, Train loss: 0.0137, Training acc: 0.9959
+Epoch: 394, Step: 360, Train loss: 0.0142, Training acc: 0.9958
+Epoch: 394, Test loss: 0.0866, Test acc: 0.9751, Current best: 0.9758
+Epoch: 395, Step: 0, Train loss: 0.0288, Training acc: 0.9922
+Epoch: 395, Step: 90, Train loss: 0.0151, Training acc: 0.9954
+Epoch: 395, Step: 180, Train loss: 0.0137, Training acc: 0.9962
+Epoch: 395, Step: 270, Train loss: 0.0138, Training acc: 0.9961
+Epoch: 395, Step: 360, Train loss: 0.0136, Training acc: 0.9962
+Epoch: 395, Test loss: 0.0859, Test acc: 0.9749, Current best: 0.9758
+Epoch: 396, Step: 0, Train loss: 0.0058, Training acc: 1.0000
+Epoch: 396, Step: 90, Train loss: 0.0141, Training acc: 0.9959
+Epoch: 396, Step: 180, Train loss: 0.0148, Training acc: 0.9957
+Epoch: 396, Step: 270, Train loss: 0.0142, Training acc: 0.9959
+Epoch: 396, Step: 360, Train loss: 0.0138, Training acc: 0.9960
+Epoch: 396, Test loss: 0.0863, Test acc: 0.9751, Current best: 0.9758
+Epoch: 397, Step: 0, Train loss: 0.0044, Training acc: 1.0000
+Epoch: 397, Step: 90, Train loss: 0.0140, Training acc: 0.9956
+Epoch: 397, Step: 180, Train loss: 0.0138, Training acc: 0.9958
+Epoch: 397, Step: 270, Train loss: 0.0141, Training acc: 0.9958
+Epoch: 397, Step: 360, Train loss: 0.0137, Training acc: 0.9959
+Epoch: 397, Test loss: 0.0863, Test acc: 0.9752, Current best: 0.9758
+Epoch: 398, Step: 0, Train loss: 0.0108, Training acc: 1.0000
+Epoch: 398, Step: 90, Train loss: 0.0137, Training acc: 0.9961
+Epoch: 398, Step: 180, Train loss: 0.0136, Training acc: 0.9959
+Epoch: 398, Step: 270, Train loss: 0.0139, Training acc: 0.9959
+Epoch: 398, Step: 360, Train loss: 0.0140, Training acc: 0.9958
+Epoch: 398, Test loss: 0.0863, Test acc: 0.9750, Current best: 0.9758
+Epoch: 399, Step: 0, Train loss: 0.0163, Training acc: 1.0000
+Epoch: 399, Step: 90, Train loss: 0.0155, Training acc: 0.9955
+Epoch: 399, Step: 180, Train loss: 0.0148, Training acc: 0.9958
+Epoch: 399, Step: 270, Train loss: 0.0149, Training acc: 0.9956
+Epoch: 399, Step: 360, Train loss: 0.0146, Training acc: 0.9957
+Epoch: 399, Test loss: 0.0863, Test acc: 0.9750, Current best: 0.9758
