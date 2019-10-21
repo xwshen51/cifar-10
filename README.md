@@ -22,6 +22,6 @@
 
 Note: When training EfficientNet-B4, I forgot to save the random seed, so the reproducing result may not be exactly the same (could be better). Others should be.
 
-## Load the trained model for testing
+## Load the trained models for testing
 
-The trained model is saved in folder 'saved_model' with logging files. Please refer to the codes for reloading models from checkpoints in `main.py`, and use the `test` function to get the test accuracy.
+The trained models are posted [here](https://drive.google.com/file/d/12Q4qiXe_7VSRMrcBYaE6dAQ16F2OHqAI/view?usp=sharing) with logging files. Please refer to the codes for reloading models from checkpoints in `main.py`, and use the `test` function to get the test accuracy.
